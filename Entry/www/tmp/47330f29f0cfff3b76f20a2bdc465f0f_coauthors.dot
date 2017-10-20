@@ -1,0 +1,37 @@
+graph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Catherine R Darst", width=0.27433100247,height=0.27433100247];
+node1 [label="Kathryn E Boul", width=0.27433100247,height=0.27433100247];
+node2 [label="Michael J Ryan", width=0.27433100247,height=0.27433100247];
+node3 [label="W Chris Funk", width=0.27433100247,height=0.27433100247];
+node4 [label="Colin E Peden", width=0.27433100247,height=0.27433100247];
+node5 [label="Ignacio De La Riva", width=0.27433100247,height=0.27433100247];
+node6 [label="Janalee P Caldwell", width=0.27433100247,height=0.27433100247];
+node7 [label="José M Padial", width=0.27433100247,height=0.27433100247];
+node8 [label="David M Hillis", width=0.27433100247,height=0.27433100247];
+node9 [label="Gregory B Pauly", width=0.27433100247,height=0.27433100247];
+node10 [label="Luis A Coloma", width=0.27433100247,height=0.27433100247];
+node11 [label="Santiago R Ron", width=0.27433100247,height=0.27433100247];
+node12 [label="William E Duellman", width=0.27433100247,height=0.27433100247];
+node0 -- node1 [label=""];
+node0 -- node2 [label=""];
+node0 -- node3 [label=""];
+node4 -- node5 [label=""];
+node4 -- node6 [label=""];
+node4 -- node7 [label=""];
+node4 -- node3 [label=""];
+node8 -- node9 [label=""];
+node5 -- node6 [label=""];
+node5 -- node7 [label=""];
+node5 -- node3 [label=""];
+node6 -- node7 [label=""];
+node6 -- node3 [label=""];
+node7 -- node3 [label=""];
+node1 -- node2 [label=""];
+node1 -- node3 [label=""];
+node10 -- node11 [label=""];
+node2 -- node3 [label=""];
+}
+

@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="The complete mitochondrial genome of Tupaia belangeri and the phylogenetic...", width=0.27433100247,height=0.27433100247];
+node1 [label="J Schmitz...", width=0.27433100247,height=0.27433100247];
+node2 [label="M Ohme...", width=0.27433100247,height=0.27433100247];
+node3 [label="H Zischler...", width=0.27433100247,height=0.27433100247];
+node4 [label="AF217811", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="references"];
+}
+

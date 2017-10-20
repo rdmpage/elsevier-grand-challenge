@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AY273128", width=0.27433100247,height=0.27433100247];
+node1 [label="Cenozoic biogeography and evolution in direct-developing frogs of Central America...", width=0.27433100247,height=0.27433100247];
+node2 [label="USNM 534195", width=0.27433100247,height=0.27433100247];
+node3 [label="Craugastor noblei", width=0.27433100247,height=0.27433100247];
+node4 [label="cytb", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="voucher_for"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+}
+

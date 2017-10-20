@@ -1,0 +1,31 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Ecological constraints drive social evolution in the African mole-rats", width=0.27433100247,height=0.27433100247];
+node1 [label="Cytochrome b sequence analysis reveals differential molecular evolution in African...", width=0.27433100247,height=0.27433100247];
+node2 [label="C G. Faulkes, N. C. Bennett, M. W. Br", width=0.27433100247,height=0.27433100247];
+node3 [label="Proceedings of the Royal Society B: Biological Sciences", width=0.27433100247,height=0.27433100247];
+node4 [label="AF012234", width=0.27433100247,height=0.27433100247];
+node5 [label="AF012233", width=0.27433100247,height=0.27433100247];
+node6 [label="AF012225", width=0.27433100247,height=0.27433100247];
+node7 [label="AF012221", width=0.27433100247,height=0.27433100247];
+node8 [label="AF012232", width=0.27433100247,height=0.27433100247];
+node9 [label="AF012229", width=0.27433100247,height=0.27433100247];
+node10 [label="AF012230", width=0.27433100247,height=0.27433100247];
+node11 [label="AF012231", width=0.27433100247,height=0.27433100247];
+node12 [label="AF012237", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node0 -> node3 [label="is_part_of"];
+node0 -> node4 [label="references"];
+node0 -> node5 [label="references"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+node0 -> node11 [label="references"];
+node0 -> node12 [label="references"];
+}
+

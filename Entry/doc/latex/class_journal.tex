@@ -1,0 +1,110 @@
+\hypertarget{class_journal}{
+\section{Journal Class Reference}
+\label{class_journal}\index{Journal@{Journal}}
+}
+A journal.  
+
+
+Inheritance diagram for Journal:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=47pt]{class_journal__inherit__graph}
+\end{center}
+\end{figure}
+Collaboration diagram for Journal:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=47pt]{class_journal__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{CompactItemize}
+\item 
+\hypertarget{class_journal_761ca6bdec680103016e34a3312d55dd}{
+\hyperlink{class_journal_761ca6bdec680103016e34a3312d55dd}{CreateName} ()}
+\label{class_journal_761ca6bdec680103016e34a3312d55dd}
+
+\begin{CompactList}\small\item\em Create object name from person's name. \item\end{CompactList}\item 
+\hyperlink{class_journal_972ce1a8531e15757579826aca9f8e49}{Exists} ()
+\begin{CompactList}\small\item\em Test whether this object already exists. \item\end{CompactList}\item 
+\hyperlink{class_journal_d28269cb6daa116d9c26ad91ee0d08f7}{GenerateObjectId} ()
+\begin{CompactList}\small\item\em Generate object identifier. \item\end{CompactList}\item 
+\hyperlink{class_journal_d1beb0e9bc12b0cc585180aab4e1bdad}{PostProcess} ()
+\begin{CompactList}\small\item\em Post process. \item\end{CompactList}\item 
+\hypertarget{class_journal_17598b87c6028e18ff37966af9c76ecf}{
+\hyperlink{class_journal_17598b87c6028e18ff37966af9c76ecf}{SetType} ()}
+\label{class_journal_17598b87c6028e18ff37966af9c76ecf}
+
+\begin{CompactList}\small\item\em Set object type (must be defined in each oject). \item\end{CompactList}\item 
+\hyperlink{class_journal_b182da20eb5ceb7d1709e102a4666344}{StoreGuids} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store journal GUIDs in EAV database. \item\end{CompactList}\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+A journal. 
+
+\subsection{Member Function Documentation}
+\hypertarget{class_journal_972ce1a8531e15757579826aca9f8e49}{
+\index{Journal@{Journal}!Exists@{Exists}}
+\index{Exists@{Exists}!Journal@{Journal}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Journal::Exists ()}}
+\label{class_journal_972ce1a8531e15757579826aca9f8e49}
+
+
+Test whether this object already exists. 
+
+First test is whether this ISSN is in the database. If we don't have an ISSN, use the journal title.
+
+\begin{Desc}
+\item[Returns:]True if object exists in database, false otherwise \end{Desc}
+
+
+Reimplemented from \hyperlink{class_object_740e3ddfc03f8d18826fe6ed67344f0f}{Object}.\hypertarget{class_journal_d28269cb6daa116d9c26ad91ee0d08f7}{
+\index{Journal@{Journal}!GenerateObjectId@{GenerateObjectId}}
+\index{GenerateObjectId@{GenerateObjectId}!Journal@{Journal}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Journal::GenerateObjectId ()}}
+\label{class_journal_d28269cb6daa116d9c26ad91ee0d08f7}
+
+
+Generate object identifier. 
+
+Generate md5 hash of ISSN, if available, otherwise hash journal name 
+
+Reimplemented from \hyperlink{class_object_291597e1743bd57c40b8b49ae676e940}{Object}.\hypertarget{class_journal_d1beb0e9bc12b0cc585180aab4e1bdad}{
+\index{Journal@{Journal}!PostProcess@{PostProcess}}
+\index{PostProcess@{PostProcess}!Journal@{Journal}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Journal::PostProcess ()}}
+\label{class_journal_d1beb0e9bc12b0cc585180aab4e1bdad}
+
+
+Post process. 
+
+Clean ISSN using Robert D. Cameron's tools
+
+to do: maybe try and get \char`\"{}definitive\char`\"{} name from bioguid issn lookup 
+
+Reimplemented from \hyperlink{class_object_4ca6ebed0ef8d6b792fec824e3fbe0bc}{Object}.\hypertarget{class_journal_b182da20eb5ceb7d1709e102a4666344}{
+\index{Journal@{Journal}!StoreGuids@{StoreGuids}}
+\index{StoreGuids@{StoreGuids}!Journal@{Journal}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Journal::StoreGuids (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_journal_b182da20eb5ceb7d1709e102a4666344}
+
+
+Store journal GUIDs in EAV database. 
+
+Default GUID is ISSN
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identifier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+
+
+Reimplemented from \hyperlink{class_object_dedb212835b4a878c89f7682ae11f772}{Object}.
+
+The documentation for this class was generated from the following file:\begin{CompactItemize}
+\item 
+/Users/rpage/Sites/challenge/class\_\-journal.php\end{CompactItemize}

@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Dietary source for skin alkaloids of poison frogs (Dendrobatidae)?", width=0.27433100247,height=0.27433100247];
+node1 [label="Mitochondrial paraphyly in a polymorphic poison frog species (Dendrobatidae; D....", width=0.27433100247,height=0.27433100247];
+node2 [label="John W Daly", width=0.27433100247,height=0.27433100247];
+node3 [label="H Martin Garraffo", width=0.27433100247,height=0.27433100247];
+node4 [label="Thomas F Spande", width=0.27433100247,height=0.27433100247];
+node5 [label="César Jaramillo", width=0.27433100247,height=0.27433100247];
+node6 [label="A Stanley Rand", width=0.27433100247,height=0.27433100247];
+node7 [label="Journal of Chemical Ecology", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node0 -> node7 [label="is_part_of"];
+}
+

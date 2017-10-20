@@ -1,0 +1,41 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AF217811", width=0.27433100247,height=0.27433100247];
+node1 [label="The Complete Mitochondrial Genome of Tupaia belangeri and the Phylogenetic...", width=0.27433100247,height=0.27433100247];
+node2 [label="Intraordinal phylogenetics of treeshrews (Mammalia: Scandentia) based on evidence from...", width=0.27433100247,height=0.27433100247];
+node3 [label="Tupaia belangeri", width=0.27433100247,height=0.27433100247];
+node4 [label="NADH subunit 6", width=0.27433100247,height=0.27433100247];
+node5 [label="NADH subunit 5", width=0.27433100247,height=0.27433100247];
+node6 [label="NADH subunit 4", width=0.27433100247,height=0.27433100247];
+node7 [label="NADH subunit 4L", width=0.27433100247,height=0.27433100247];
+node8 [label="NADH subunit 3", width=0.27433100247,height=0.27433100247];
+node9 [label="cytochrome-c oxidase III", width=0.27433100247,height=0.27433100247];
+node10 [label="recombination activating protein 1", width=0.27433100247,height=0.27433100247];
+node11 [label="cytochrome-c oxidase II", width=0.27433100247,height=0.27433100247];
+node12 [label="cytochrome-c oxidase I", width=0.27433100247,height=0.27433100247];
+node13 [label="NADH subunit 2", width=0.27433100247,height=0.27433100247];
+node14 [label="NADH subunit 1", width=0.27433100247,height=0.27433100247];
+node15 [label="12S ribosomal RNA", width=0.27433100247,height=0.27433100247];
+node16 [label="tRNA-Phe", width=0.27433100247,height=0.27433100247];
+node17 [label="control region", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+node0 -> node5 [label="taggedWithTag"];
+node0 -> node6 [label="taggedWithTag"];
+node0 -> node7 [label="taggedWithTag"];
+node0 -> node8 [label="taggedWithTag"];
+node0 -> node9 [label="taggedWithTag"];
+node0 -> node10 [label="taggedWithTag"];
+node0 -> node11 [label="taggedWithTag"];
+node0 -> node12 [label="taggedWithTag"];
+node0 -> node13 [label="taggedWithTag"];
+node0 -> node14 [label="taggedWithTag"];
+node0 -> node15 [label="taggedWithTag"];
+node0 -> node16 [label="taggedWithTag"];
+node0 -> node17 [label="taggedWithTag"];
+}
+

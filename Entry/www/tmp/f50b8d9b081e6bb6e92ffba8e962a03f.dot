@@ -1,0 +1,27 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Pseudacris brachyphona", width=0.27433100247,height=0.27433100247];
+node1 [label="AY291095", width=0.27433100247,height=0.27433100247];
+node2 [label="EF472017", width=0.27433100247,height=0.27433100247];
+node3 [label="EF472022", width=0.27433100247,height=0.27433100247];
+node4 [label="EF472013", width=0.27433100247,height=0.27433100247];
+node5 [label="EF472014", width=0.27433100247,height=0.27433100247];
+node6 [label="EF472016", width=0.27433100247,height=0.27433100247];
+node7 [label="EF472190", width=0.27433100247,height=0.27433100247];
+node8 [label="EF472011", width=0.27433100247,height=0.27433100247];
+node9 [label="EF472028", width=0.27433100247,height=0.27433100247];
+node10 [label="EF472012", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+node6 -> node0 [label="source"];
+node7 -> node0 [label="source"];
+node8 -> node0 [label="source"];
+node9 -> node0 [label="source"];
+node10 -> node0 [label="source"];
+}
+

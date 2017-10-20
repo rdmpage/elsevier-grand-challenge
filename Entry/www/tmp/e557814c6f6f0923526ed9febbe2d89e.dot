@@ -1,0 +1,27 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Phylogenetic hypotheses for the turtle family Geoemydidae.", width=0.27433100247,height=0.27433100247];
+node1 [label="On the paraphyly of the genus Kachuga (Testudines: Geoemydidae).", width=0.27433100247,height=0.27433100247];
+node2 [label="Phillip Q Spinks", width=0.27433100247,height=0.27433100247];
+node3 [label="H Bradley Shaffer", width=0.27433100247,height=0.27433100247];
+node4 [label="John B Iverson", width=0.27433100247,height=0.27433100247];
+node5 [label="William P Mccord", width=0.27433100247,height=0.27433100247];
+node6 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node7 [label="AY434600", width=0.27433100247,height=0.27433100247];
+node8 [label="AY434601", width=0.27433100247,height=0.27433100247];
+node9 [label="AY434573", width=0.27433100247,height=0.27433100247];
+node10 [label="AY434602", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+}
+

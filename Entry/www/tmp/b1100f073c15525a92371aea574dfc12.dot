@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AY291077", width=0.27433100247,height=0.27433100247];
+node1 [label="Phylogeny-based delimitation of species boundaries and contact zones in the...", width=0.27433100247,height=0.27433100247];
+node2 [label="Phylogenetic relationships of the North American chorus frogs (Pseudacris: Hylidae)", width=0.27433100247,height=0.27433100247];
+node3 [label="MVZ 145452", width=0.27433100247,height=0.27433100247];
+node4 [label="Pseudacris nigrita nigrita", width=0.27433100247,height=0.27433100247];
+node5 [label="contains 12S ribosomal RNA, tRNA-Val, and 16S ribosomal RNA", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node3 -> node0 [label="voucher_for"];
+node0 -> node4 [label="source"];
+node0 -> node5 [label="taggedWithTag"];
+}
+

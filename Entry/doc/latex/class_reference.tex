@@ -1,0 +1,130 @@
+\hypertarget{class_reference}{
+\section{Reference Class Reference}
+\label{class_reference}\index{Reference@{Reference}}
+}
+Encapsulate a journal article.  
+
+
+Inheritance diagram for Reference:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=53pt]{class_reference__inherit__graph}
+\end{center}
+\end{figure}
+Collaboration diagram for Reference:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=53pt]{class_reference__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{CompactItemize}
+\item 
+\hyperlink{class_reference_47df8ae6e66cda92ec9eb2ac15c075e6}{ComputeJacc} ()
+\begin{CompactList}\small\item\em Compute a JACC (\hyperlink{class_journal}{Journal} Article Citation Convention) identifier for an article. \item\end{CompactList}\item 
+\hypertarget{class_reference_6be437ed9ff37920ad18e121508d2f2f}{
+\hyperlink{class_reference_6be437ed9ff37920ad18e121508d2f2f}{CreateName} ()}
+\label{class_reference_6be437ed9ff37920ad18e121508d2f2f}
+
+\begin{CompactList}\small\item\em Generate name for reference, using the title of the article. \item\end{CompactList}\item 
+\hyperlink{class_reference_654f7079c3dca7b71d4571a0dd5891f2}{GenerateObjectId} ()
+\begin{CompactList}\small\item\em Generate object identifier. \item\end{CompactList}\item 
+\hyperlink{class_reference_c7779622864167fadc772a7a52d38c55}{PostProcess} ()
+\begin{CompactList}\small\item\em Post process reference. \item\end{CompactList}\item 
+\hypertarget{class_reference_b18ce350988efa24b4e7e9b3e58d6099}{
+\hyperlink{class_reference_b18ce350988efa24b4e7e9b3e58d6099}{SetType} ()}
+\label{class_reference_b18ce350988efa24b4e7e9b3e58d6099}
+
+\begin{CompactList}\small\item\em Set object type (must be defined in each oject). \item\end{CompactList}\item 
+\hyperlink{class_reference_eb3baaf7d34623479bbeaeccf8bbd070}{StoreGuids} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store object GUIDs in EAV database. \item\end{CompactList}\item 
+\hyperlink{class_reference_fdc9cb746064d8934a3cb8b4b7c66ca6}{StoreLinks} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store links between this obeject and anny associated objects. \item\end{CompactList}\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+Encapsulate a journal article. 
+
+\subsection{Member Function Documentation}
+\hypertarget{class_reference_47df8ae6e66cda92ec9eb2ac15c075e6}{
+\index{Reference@{Reference}!ComputeJacc@{ComputeJacc}}
+\index{ComputeJacc@{ComputeJacc}!Reference@{Reference}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Reference::ComputeJacc ()}}
+\label{class_reference_47df8ae6e66cda92ec9eb2ac15c075e6}
+
+
+Compute a JACC (\hyperlink{class_journal}{Journal} Article Citation Convention) identifier for an article. 
+
+JACC (\hyperlink{class_journal}{Journal} Article Citation Convention) is a simple way to compute an identifier for an article. Proposed by Robert Cameron in 1998 in a technical report (\href{ftp://fas.sfu.ca/pub/cs/TR/1998/CMPT1998-08.html}{\tt Scholar-Friendly DOI Suffixes with JACC: Journal Article Citation Convention}, a JACC has the following syntax:
+
+\mbox{[}JACC\mbox{]}$<$journal-code$>$:$<$volume$>$$<$page$>$
+
+Where $<$journal-code$>$ may either be a journal ISSN or a mnemonic code for the journal specified by the publisher, $<$volume$>$ is the volume number in which the article appears and $<$page$>$ specifies the first page number of the article.
+
+Here we ignore the \mbox{[}JACC\mbox{]} prefix, and just generate $<$journal-code$>$:$<$volume$>$$<$page$>$ using the journal's ISSN or, if that is unavailable, the eISSN. \hypertarget{class_reference_654f7079c3dca7b71d4571a0dd5891f2}{
+\index{Reference@{Reference}!GenerateObjectId@{GenerateObjectId}}
+\index{GenerateObjectId@{GenerateObjectId}!Reference@{Reference}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Reference::GenerateObjectId ()}}
+\label{class_reference_654f7079c3dca7b71d4571a0dd5891f2}
+
+
+Generate object identifier. 
+
+By default for an article we use the md5 hash of the JACC. If we can't compute a JACC, we use the DOI, if that isn't available use the article title, failing that, a unique integer 
+
+Reimplemented from \hyperlink{class_object_291597e1743bd57c40b8b49ae676e940}{Object}.\hypertarget{class_reference_c7779622864167fadc772a7a52d38c55}{
+\index{Reference@{Reference}!PostProcess@{PostProcess}}
+\index{PostProcess@{PostProcess}!Reference@{Reference}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Reference::PostProcess ()}}
+\label{class_reference_c7779622864167fadc772a7a52d38c55}
+
+
+Post process reference. 
+
+Fix dates and generate object identifier 
+
+Reimplemented from \hyperlink{class_object_4ca6ebed0ef8d6b792fec824e3fbe0bc}{Object}.\hypertarget{class_reference_eb3baaf7d34623479bbeaeccf8bbd070}{
+\index{Reference@{Reference}!StoreGuids@{StoreGuids}}
+\index{StoreGuids@{StoreGuids}!Reference@{Reference}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Reference::StoreGuids (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_reference_eb3baaf7d34623479bbeaeccf8bbd070}
+
+
+Store object GUIDs in EAV database. 
+
+Store whatever GUID we have for this reference, such as DOIs, PubMed ids, Handles, URLs, and the JACC.
+
+Use identifier class to extract identifier string.
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identifier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+
+
+Reimplemented from \hyperlink{class_object_dedb212835b4a878c89f7682ae11f772}{Object}.\hypertarget{class_reference_fdc9cb746064d8934a3cb8b4b7c66ca6}{
+\index{Reference@{Reference}!StoreLinks@{StoreLinks}}
+\index{StoreLinks@{StoreLinks}!Reference@{Reference}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Reference::StoreLinks (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_reference_fdc9cb746064d8934a3cb8b4b7c66ca6}
+
+
+Store links between this obeject and anny associated objects. 
+
+Link article reference to authors and journal
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identfiier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+
+
+Reimplemented from \hyperlink{class_object_b969bdfbdff62485da5de7e12f1ea68d}{Object}.
+
+The documentation for this class was generated from the following file:\begin{CompactItemize}
+\item 
+/Users/rpage/Sites/challenge/\hyperlink{class__reference_8php}{class\_\-reference.php}\end{CompactItemize}

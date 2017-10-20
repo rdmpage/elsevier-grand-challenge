@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Dikerogammarus villosus", width=0.27433100247,height=0.27433100247];
+node1 [label="EF570297", width=0.27433100247,height=0.27433100247];
+node2 [label="EF582941", width=0.27433100247,height=0.27433100247];
+node3 [label="EF582898", width=0.27433100247,height=0.27433100247];
+node4 [label="AJ440901", width=0.27433100247,height=0.27433100247];
+node5 [label="AY926706", width=0.27433100247,height=0.27433100247];
+node6 [label="AY529048", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+node6 -> node0 [label="source"];
+}
+

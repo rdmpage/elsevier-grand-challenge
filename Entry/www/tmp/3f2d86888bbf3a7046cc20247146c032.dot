@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Comparing Host and Parasite Phylogenies: Gyrodactylus Flatworms Jumping from Goby...", width=0.27433100247,height=0.27433100247];
+node1 [label="Cophylogeny and disparate rates of evolution in sympatric lineages of...", width=0.27433100247,height=0.27433100247];
+node2 [label="Molecular phylogenetics and taxonomy of the African mole-rats, genus Cryptomys...", width=0.27433100247,height=0.27433100247];
+node3 [label="Tine Huyse", width=0.27433100247,height=0.27433100247];
+node4 [label="Filip Volckaert", width=0.27433100247,height=0.27433100247];
+node5 [label="Systematic Biology", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+}
+

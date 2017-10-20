@@ -1,0 +1,39 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Independent evolution of migration on the South American landscape in...", width=0.27433100247,height=0.27433100247];
+node1 [label="Towards a phylogenetic framework for the evolution of shakes, rattles,...", width=0.27433100247,height=0.27433100247];
+node2 [label="Leo Joseph", width=0.27433100247,height=0.27433100247];
+node3 [label="Thomas Wilke", width=0.27433100247,height=0.27433100247];
+node4 [label="Deryn Alpers", width=0.27433100247,height=0.27433100247];
+node5 [label="Journal of Biogeography", width=0.27433100247,height=0.27433100247];
+node6 [label="AF497967", width=0.27433100247,height=0.27433100247];
+node7 [label="AF497958", width=0.27433100247,height=0.27433100247];
+node8 [label="AF497960", width=0.27433100247,height=0.27433100247];
+node9 [label="AF497961", width=0.27433100247,height=0.27433100247];
+node10 [label="AF497964", width=0.27433100247,height=0.27433100247];
+node11 [label="AF497963", width=0.27433100247,height=0.27433100247];
+node12 [label="AF497959", width=0.27433100247,height=0.27433100247];
+node13 [label="AF497965", width=0.27433100247,height=0.27433100247];
+node14 [label="AF497966", width=0.27433100247,height=0.27433100247];
+node15 [label="AF497962", width=0.27433100247,height=0.27433100247];
+node16 [label="AF497968", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+node0 -> node11 [label="references"];
+node0 -> node12 [label="references"];
+node0 -> node13 [label="references"];
+node0 -> node14 [label="references"];
+node0 -> node15 [label="references"];
+node0 -> node16 [label="references"];
+}
+

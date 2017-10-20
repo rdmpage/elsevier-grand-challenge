@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Ranitomeya claudiae", width=0.27433100247,height=0.27433100247];
+node1 [label="DQ282654", width=0.27433100247,height=0.27433100247];
+node2 [label="DQ283772", width=0.27433100247,height=0.27433100247];
+node3 [label="DQ284071", width=0.27433100247,height=0.27433100247];
+node4 [label="DQ283042", width=0.27433100247,height=0.27433100247];
+node5 [label="DQ283462", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+}
+

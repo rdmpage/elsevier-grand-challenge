@@ -1,0 +1,43 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Myiarchus tyrannulus", width=0.27433100247,height=0.27433100247];
+node1 [label="AY115170", width=0.27433100247,height=0.27433100247];
+node2 [label="AY115171", width=0.27433100247,height=0.27433100247];
+node3 [label="AY266210", width=0.27433100247,height=0.27433100247];
+node4 [label="AY266218", width=0.27433100247,height=0.27433100247];
+node5 [label="AY266215", width=0.27433100247,height=0.27433100247];
+node6 [label="AY266213", width=0.27433100247,height=0.27433100247];
+node7 [label="AY266221", width=0.27433100247,height=0.27433100247];
+node8 [label="AY266209", width=0.27433100247,height=0.27433100247];
+node9 [label="AY266217", width=0.27433100247,height=0.27433100247];
+node10 [label="AY266214", width=0.27433100247,height=0.27433100247];
+node11 [label="AY266212", width=0.27433100247,height=0.27433100247];
+node12 [label="AY266220", width=0.27433100247,height=0.27433100247];
+node13 [label="AY266208", width=0.27433100247,height=0.27433100247];
+node14 [label="AY115169", width=0.27433100247,height=0.27433100247];
+node15 [label="AF497958", width=0.27433100247,height=0.27433100247];
+node16 [label="AY266211", width=0.27433100247,height=0.27433100247];
+node17 [label="AY266219", width=0.27433100247,height=0.27433100247];
+node18 [label="AY266216", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+node6 -> node0 [label="source"];
+node7 -> node0 [label="source"];
+node8 -> node0 [label="source"];
+node9 -> node0 [label="source"];
+node10 -> node0 [label="source"];
+node11 -> node0 [label="source"];
+node12 -> node0 [label="source"];
+node13 -> node0 [label="source"];
+node14 -> node0 [label="source"];
+node15 -> node0 [label="source"];
+node16 -> node0 [label="source"];
+node17 -> node0 [label="source"];
+node18 -> node0 [label="source"];
+}
+

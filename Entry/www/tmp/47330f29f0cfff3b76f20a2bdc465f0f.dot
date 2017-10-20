@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="David C Cannatella", width=0.27433100247,height=0.27433100247];
+node1 [label="Leptodactylid Frogs of the Physalaemus pustulosus Group", width=0.27433100247,height=0.27433100247];
+node2 [label="Novel relationships among hyloid frogs inferred from 12S and 16S...", width=0.27433100247,height=0.27433100247];
+node3 [label="TWO NEW SPECIES OF PHYSALAEMUS (ANURA: LEPTODACTYLIDAE) FROM WESTERN ECUADOR", width=0.27433100247,height=0.27433100247];
+node4 [label="The History of a Nearctic Colonization: Molecular Phylogenetics and Biogeography...", width=0.27433100247,height=0.27433100247];
+node5 [label="A NEW, CRYPTIC SPECIES OF PHYSALAEMUS (ANURA: LEPTODACTYLIDAE) FROM WESTERN...", width=0.27433100247,height=0.27433100247];
+node6 [label="Sexual selection drives speciation in an Amazonian frog", width=0.27433100247,height=0.27433100247];
+node7 [label="Tests of biogeographic hypotheses for diversification in the Amazonian forest...", width=0.27433100247,height=0.27433100247];
+node0 -> node1 [label="creator"];
+node0 -> node2 [label="creator"];
+node0 -> node3 [label="creator"];
+node0 -> node4 [label="creator"];
+node0 -> node5 [label="creator"];
+node0 -> node6 [label="creator"];
+node0 -> node7 [label="creator"];
+}
+

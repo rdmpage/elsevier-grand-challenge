@@ -1,0 +1,87 @@
+
+Data model (JSON)
+
+// this is the object we get once we have processed the MPE XML to JSON, then worked with it
+
+
+stdClass Object
+(
+    [doi] => 10.1016/j.ympev.2005.10.011
+    [authors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [forename] => Ernesto
+                    [lastname] => Recuero
+                )
+...
+        )
+
+    [abstract] => The Baja California populations of Pseudacris regilla, a widespread species in Western North America ranging from British Columbia to southern Baja California, are characterized by extensive geographic fragmentation. We performed phylogeographic and historical demographic analyses on 609bp of the cytochrome b mitochondrial gene of 110 individuals representing 28 populations to determine the relative influences of current and historical processes in shaping the present distribution of genetic diversity on the Baja California Peninsula. Haplotypes from this area were nested in a clade with three well-differentiated groups. Two of these groups are from Baja California Sur and another is from California and Baja California. The estimated date for the split of these groups, between 0.9–1Ma, fits with previously proposed hypotheses of vicariance due to different transpeninsular seaways, although successive population fragmentation and expansion due to climatic oscillations during Pleistocene glaciations cannot be discarded. Historical demographic analyses detected signs of past population expansions, especially in the southernmost group. With respect to populations north of this region, two older clades were identified, one with haplotypes mainly distributed in central California, and the other corresponding to the northern half of the species range, in what apparently is a recurrent pattern in the Pacific coast of North America. Based on the concordance between mt-DNA and available allozyme data indicating that these species have a long independent evolutionary history, we propose to consider the three major clades as distinct species: P. regilla, P. pacifica, and P. hypochondriaca.
+    [keywords] => Array
+        (
+            [0] => Phylogeography
+            [1] => Historical demography
+            [2] => Pseudacris regilla
+            [3] => Pseudacris pacifica
+            [4] => Pseudacris hypochondriaca
+            [5] => mt-DNA
+            [6] => Midpeninsular seaway
+        )
+
+    [coordinates] => Array
+        (
+            [0] => Array
+                (
+                    [latitude] => 23.5285166667
+                    [longitude] => -110.026516667
+                )
+...
+        )
+
+    [localities] => Array
+        (
+            [0] => México: Baja California: Sierra de la Laguna 
+...        )
+
+    [locality_coordinates] => Array
+        (
+            [México: Baja California: Sierra de la Laguna ] => Array
+                (
+                    [latitude] => 23.5463833333
+                    [longitude] => -109.9744
+                )
+...
+        )
+
+    [accessions] => Array
+        (
+        )
+
+    [accession_coordinates] => Array
+        (
+        )
+
+    [accession_localities] => Array
+        (
+        )
+
+    [vouchers] => Array
+        (
+        )
+
+    [voucher_coordinates] => Array
+        (
+        )
+
+    [voucher_localities] => Array
+        (
+        )
+
+  [cites] => Array
+        (
+            [0] => http://www.jstor.org/pss/3893231
+            [1] => doi:10.1111/j.1365-294X.2004.02157.x
+  ...
+  		)
+)

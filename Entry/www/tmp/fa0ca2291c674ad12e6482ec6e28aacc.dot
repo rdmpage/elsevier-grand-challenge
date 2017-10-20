@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Phrynobatrachus africanus", width=0.27433100247,height=0.27433100247];
+node1 [label="DQ282725", width=0.27433100247,height=0.27433100247];
+node2 [label="DQ284212", width=0.27433100247,height=0.27433100247];
+node3 [label="DQ283175", width=0.27433100247,height=0.27433100247];
+node4 [label="DQ283564", width=0.27433100247,height=0.27433100247];
+node5 [label="DQ282943", width=0.27433100247,height=0.27433100247];
+node6 [label="DQ283867", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+node6 -> node0 [label="source"];
+}
+

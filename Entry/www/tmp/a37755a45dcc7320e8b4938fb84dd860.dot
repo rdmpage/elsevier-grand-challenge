@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Are flightless Galapaganus weevils older than the Galápagos Islands they...", width=0.27433100247,height=0.27433100247];
+node1 [label="Are Cape floral clades the same age? Contemporaneous origins of...", width=0.27433100247,height=0.27433100247];
+node2 [label="Andrea S Sequeira", width=0.27433100247,height=0.27433100247];
+node3 [label="Analía A Lanteri", width=0.27433100247,height=0.27433100247];
+node4 [label="M Amalia Scataglini", width=0.27433100247,height=0.27433100247];
+node5 [label="Viviana A Confalonieri", width=0.27433100247,height=0.27433100247];
+node6 [label="Brian D Farrell", width=0.27433100247,height=0.27433100247];
+node7 [label="Heredity", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node0 -> node7 [label="is_part_of"];
+}
+

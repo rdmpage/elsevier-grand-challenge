@@ -1,0 +1,3 @@
+<area shape="rect" href="$class_journal.html" title="A journal." alt="" coords="5,80,72,107">
+<area shape="rect" href="$class_person.html" title="Encapsulate a person." alt="" coords="96,80,160,107">
+<area shape="rect" href="$class_reference.html" title="Encapsulate a journal article." alt="" coords="184,80,267,107">

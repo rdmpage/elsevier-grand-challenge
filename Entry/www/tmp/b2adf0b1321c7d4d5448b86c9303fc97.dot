@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="cytb", width=0.27433100247,height=0.27433100247];
+node1 [label="AB099483", width=0.27433100247,height=0.27433100247];
+node2 [label="AJ844919", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="taggedWithTag"];
+node2 -> node0 [label="taggedWithTag"];
+}
+

@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Eldredge Bermingham", width=0.27433100247,height=0.27433100247];
+node1 [label="MOLECULAR SYSTEMATICS AND BIOGEOGRAPHY OF ANTILLEAN THRASHERS, TREMBLERS, AND MOCKINGBIRDS...", width=0.27433100247,height=0.27433100247];
+node2 [label="Towards a phylogenetic framework for the evolution of shakes, rattles,...", width=0.27433100247,height=0.27433100247];
+node0 -> node1 [label="creator"];
+node0 -> node2 [label="creator"];
+}
+

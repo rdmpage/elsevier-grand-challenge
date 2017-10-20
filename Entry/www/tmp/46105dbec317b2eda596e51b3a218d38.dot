@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="DQ283501", width=0.27433100247,height=0.27433100247];
+node1 [label="The amphibian tree of life.", width=0.27433100247,height=0.27433100247];
+node2 [label="USNM 524017", width=0.27433100247,height=0.27433100247];
+node3 [label="Sphaerotheca pluvialis", width=0.27433100247,height=0.27433100247];
+node4 [label="28S ribosomal RNA", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="voucher_for"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+}
+

@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Refugial races and postglacial colonization history of the freshwater amphipod...", width=0.27433100247,height=0.27433100247];
+node1 [label="A molecular phylogeny of the genus Gammarus (Crustacea: Amphipoda) based...", width=0.27433100247,height=0.27433100247];
+node2 [label="Jouni K Vainio", width=0.27433100247,height=0.27433100247];
+node3 [label="Risto Vainola", width=0.27433100247,height=0.27433100247];
+node4 [label="Biological Journal of the Linnean Society", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+}
+

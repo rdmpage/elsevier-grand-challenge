@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="CAS 231910", width=0.27433100247,height=0.27433100247];
+node1 [label="Caledoniscincus atropunctatus", width=0.27433100247,height=0.27433100247];
+node2 [label="DQ675195", width=0.27433100247,height=0.27433100247];
+node3 [label="DQ675275", width=0.27433100247,height=0.27433100247];
+node4 [label="DQ675400", width=0.27433100247,height=0.27433100247];
+node0 -> node1 [label="taggedWithTag"];
+node0 -> node2 [label="voucher_for"];
+node0 -> node3 [label="voucher_for"];
+node0 -> node4 [label="voucher_for"];
+}
+

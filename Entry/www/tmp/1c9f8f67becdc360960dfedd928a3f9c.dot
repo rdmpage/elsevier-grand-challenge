@@ -1,0 +1,45 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Mitochondrial DNA, morphology, and the phylogenetic relationships of Antarctic icefishes...", width=0.27433100247,height=0.27433100247];
+node1 [label="Thomas J Near", width=0.27433100247,height=0.27433100247];
+node2 [label="James J Pesavento", width=0.27433100247,height=0.27433100247];
+node3 [label="Chi Hing C Cheng", width=0.27433100247,height=0.27433100247];
+node4 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node5 [label="Multiple Comparisons of Log-Likelihoods with Applications to Phylogenetic Inference", width=0.27433100247,height=0.27433100247];
+node6 [label="Nucleotide Substitution Rate of Mammalian Mitochondrial Genomes", width=0.27433100247,height=0.27433100247];
+node7 [label="Patterns of nucleotide change in mitochondrial ribosomal RNA genes and...", width=0.27433100247,height=0.27433100247];
+node8 [label="Evolution of Cytochrome b and the Molecular Systematics of Ammocrypta...", width=0.27433100247,height=0.27433100247];
+node9 [label="A Likelihood Approach to Estimating Phylogeny from Discrete Morphological Character...", width=0.27433100247,height=0.27433100247];
+node10 [label="Evaluation of the maximum likelihood estimate of the evolutionary tree...", width=0.27433100247,height=0.27433100247];
+node11 [label="A compilation of large subunit (23S and 23S-like) ribosomal RNA...", width=0.27433100247,height=0.27433100247];
+node12 [label="Likelihood-Based Tests of Topologies in Phylogenetics", width=0.27433100247,height=0.27433100247];
+node13 [label="TESTING SIGNIFICANCE OF INCONGRUENCE", width=0.27433100247,height=0.27433100247];
+node14 [label="The European Large Subunit Ribosomal RNA database", width=0.27433100247,height=0.27433100247];
+node15 [label="Evolution and adaptive radiation of antarctic fishes", width=0.27433100247,height=0.27433100247];
+node16 [label="Phylogenetic Relationships in the North American Cyprinid Genus Cyprinella (Actinopterygii:...", width=0.27433100247,height=0.27433100247];
+node17 [label="Molecular Phylogeny of the Live-Bearing Fish Genus Poecilia (Cyprinodontiformes: Poeciliidae)", width=0.27433100247,height=0.27433100247];
+node18 [label="Mitochondrial Phylogeny of Notothenioids: A Molecular Approach to Antarctic Fish...", width=0.27433100247,height=0.27433100247];
+node19 [label="Rates and Patterns of Base Change in the Small Subunit...", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+node0 -> node5 [label="references"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+node0 -> node11 [label="references"];
+node0 -> node12 [label="references"];
+node0 -> node13 [label="references"];
+node0 -> node14 [label="references"];
+node0 -> node15 [label="references"];
+node0 -> node16 [label="references"];
+node0 -> node17 [label="references"];
+node0 -> node18 [label="references"];
+node0 -> node19 [label="references"];
+}
+

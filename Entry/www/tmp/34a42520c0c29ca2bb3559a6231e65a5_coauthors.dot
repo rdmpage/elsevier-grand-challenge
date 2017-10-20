@@ -1,0 +1,25 @@
+graph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Pereti Basasibwaki", width=0.27433100247,height=0.27433100247];
+node1 [label="Thomas D Kocher", width=0.27433100247,height=0.27433100247];
+node2 [label="Allan C Wilson", width=0.27433100247,height=0.27433100247];
+node3 [label="Michel Jégu", width=0.27433100247,height=0.27433100247];
+node4 [label="Guillermo Ortí", width=0.27433100247,height=0.27433100247];
+node5 [label="Paulo Petry", width=0.27433100247,height=0.27433100247];
+node6 [label="Jorge I R Porto", width=0.27433100247,height=0.27433100247];
+node7 [label="Jean M Morrissey", width=0.27433100247,height=0.27433100247];
+node8 [label="Manfred Schartl", width=0.27433100247,height=0.27433100247];
+node0 -- node1 [label=""];
+node0 -- node2 [label=""];
+node3 -- node4 [label=""];
+node3 -- node5 [label=""];
+node3 -- node6 [label=""];
+node1 -- node2 [label=""];
+node7 -- node8 [label=""];
+node4 -- node5 [label=""];
+node4 -- node6 [label=""];
+node5 -- node6 [label=""];
+}
+

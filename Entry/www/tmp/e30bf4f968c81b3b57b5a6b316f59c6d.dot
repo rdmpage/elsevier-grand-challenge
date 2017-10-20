@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="DQ990525", width=0.27433100247,height=0.27433100247];
+node1 [label="Systematics and biogeography of New World sea catfishes (Siluriformes: Ariidae)...", width=0.27433100247,height=0.27433100247];
+node2 [label="USNM 376608", width=0.27433100247,height=0.27433100247];
+node3 [label="Arius arius", width=0.27433100247,height=0.27433100247];
+node4 [label="CO1", width=0.27433100247,height=0.27433100247];
+node5 [label="recombination activating protein 1", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="voucher_for"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+node0 -> node5 [label="taggedWithTag"];
+}
+

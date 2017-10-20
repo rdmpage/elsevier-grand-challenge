@@ -1,0 +1,47 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="The amphibian tree of life.", width=0.27433100247,height=0.27433100247];
+node1 [label="Darrel R Frost", width=0.27433100247,height=0.27433100247];
+node2 [label="Taran Grant", width=0.27433100247,height=0.27433100247];
+node3 [label="Julián Faivovich", width=0.27433100247,height=0.27433100247];
+node4 [label="Raoul H Bain", width=0.27433100247,height=0.27433100247];
+node5 [label="Alexander Haas", width=0.27433100247,height=0.27433100247];
+node6 [label="Celio F B Haddad", width=0.27433100247,height=0.27433100247];
+node7 [label="Rafael O De Sa", width=0.27433100247,height=0.27433100247];
+node8 [label="A Channing", width=0.27433100247,height=0.27433100247];
+node9 [label="Mark Wilkinson", width=0.27433100247,height=0.27433100247];
+node10 [label="Stephen C Donnellan", width=0.27433100247,height=0.27433100247];
+node11 [label="Christopher J Raxworthy", width=0.27433100247,height=0.27433100247];
+node12 [label="Jonathan A Campbell", width=0.27433100247,height=0.27433100247];
+node13 [label="Boris L Blotto", width=0.27433100247,height=0.27433100247];
+node14 [label="Paul Moler", width=0.27433100247,height=0.27433100247];
+node15 [label="Robert C Drewes", width=0.27433100247,height=0.27433100247];
+node16 [label="Ronald A Nussbaum", width=0.27433100247,height=0.27433100247];
+node17 [label="John D Lynch", width=0.27433100247,height=0.27433100247];
+node18 [label="David M Green", width=0.27433100247,height=0.27433100247];
+node19 [label="Ward C Wheeler", width=0.27433100247,height=0.27433100247];
+node20 [label="Bulletin of the American Museum of Natural History", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node7 -> node0 [label="creator"];
+node8 -> node0 [label="creator"];
+node9 -> node0 [label="creator"];
+node10 -> node0 [label="creator"];
+node11 -> node0 [label="creator"];
+node12 -> node0 [label="creator"];
+node13 -> node0 [label="creator"];
+node14 -> node0 [label="creator"];
+node15 -> node0 [label="creator"];
+node16 -> node0 [label="creator"];
+node17 -> node0 [label="creator"];
+node18 -> node0 [label="creator"];
+node19 -> node0 [label="creator"];
+node0 -> node20 [label="is_part_of"];
+}
+

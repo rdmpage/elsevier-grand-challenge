@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="The freshwater turtle genus Mauremys (Testudines, Geoemydidae) - a textbook...", width=0.27433100247,height=0.27433100247];
+node1 [label="On the paraphyly of the genus Kachuga (Testudines: Geoemydidae).", width=0.27433100247,height=0.27433100247];
+node2 [label="Dana Barth", width=0.27433100247,height=0.27433100247];
+node3 [label="Detlef Bernhard", width=0.27433100247,height=0.27433100247];
+node4 [label="Guido Fritzsch", width=0.27433100247,height=0.27433100247];
+node5 [label="Uwe Fritz", width=0.27433100247,height=0.27433100247];
+node6 [label="Zoologica Scripta", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

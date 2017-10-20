@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="DQ337229", width=0.27433100247,height=0.27433100247];
+node1 [label="Phylogeny of the túngara frog genus Engystomops (=Physalaemus pustulosus species...", width=0.27433100247,height=0.27433100247];
+node2 [label="Tests of biogeographic hypotheses for diversification in the Amazonian forest...", width=0.27433100247,height=0.27433100247];
+node3 [label="Engystomops cf. freibergi SRR-2006", width=0.27433100247,height=0.27433100247];
+node4 [label="16S ribosomal RNA", width=0.27433100247,height=0.27433100247];
+node5 [label="tRNA-Val", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+node0 -> node5 [label="taggedWithTag"];
+}
+

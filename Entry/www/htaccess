@@ -1,0 +1,21 @@
+RewriteEngine on
+RewriteBase /~rpage/challenge/www/
+#RewriteBase /
+
+
+#-------------------------------------------------------------------------------
+# URI
+RewriteRule ^uri/(.*)			get.php?id=$1					[NC,L]
+
+#-------------------------------------------------------------------------------
+# Native GUIDs
+
+RewriteRule ^genbank/(.*)		get.php?namespace=genbank&guid=$1	[NC]
+RewriteRule ^genbank:(.*)		get.php?namespace=genbank&guid=$1	[NC]
+
+RewriteRule ^doi/(.*)			get.php?namespace=doi&guid=$1		[NC]
+RewriteRule ^doi:(.*)			get.php?namespace=doi&guid=$1		[NC]
+
+RewriteRule ^pmid/(.*)			get.php?namespace=pmid&guid=$1		[NC]
+RewriteRule ^pmid:(.*)			get.php?namespace=pmid&guid=$1		[NC]
+

@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Anomalous Variation in Mitochondrial Genomes of White-crowned (Zonotrichia leucophrys) and...", width=0.27433100247,height=0.27433100247];
+node1 [label="Towards a phylogenetic framework for the evolution of shakes, rattles,...", width=0.27433100247,height=0.27433100247];
+node2 [label="Jason D Weckstein", width=0.27433100247,height=0.27433100247];
+node3 [label="Robert M Zink", width=0.27433100247,height=0.27433100247];
+node4 [label="Rachelle C Blackwell-Rago", width=0.27433100247,height=0.27433100247];
+node5 [label="Douglas A Nelson", width=0.27433100247,height=0.27433100247];
+node6 [label="The Auk", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

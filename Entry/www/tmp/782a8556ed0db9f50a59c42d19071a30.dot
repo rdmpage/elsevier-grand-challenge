@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="FMNH 230531", width=0.27433100247,height=0.27433100247];
+node1 [label="Meristogenys orphnocnemis", width=0.27433100247,height=0.27433100247];
+node2 [label="DQ282703", width=0.27433100247,height=0.27433100247];
+node3 [label="DQ283147", width=0.27433100247,height=0.27433100247];
+node4 [label="DQ284187", width=0.27433100247,height=0.27433100247];
+node5 [label="DQ283847", width=0.27433100247,height=0.27433100247];
+node6 [label="DQ283538", width=0.27433100247,height=0.27433100247];
+node0 -> node1 [label="taggedWithTag"];
+node0 -> node2 [label="voucher_for"];
+node0 -> node3 [label="voucher_for"];
+node0 -> node4 [label="voucher_for"];
+node0 -> node5 [label="voucher_for"];
+node0 -> node6 [label="voucher_for"];
+}
+

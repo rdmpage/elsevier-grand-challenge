@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Uplift of the Tibetan plateau: evidence from divergence times of...", width=0.27433100247,height=0.27433100247];
+node1 [label="A molecular phylogeny of the genus Gammarus (Crustacea: Amphipoda) based...", width=0.27433100247,height=0.27433100247];
+node2 [label="Zuogang Peng", width=0.27433100247,height=0.27433100247];
+node3 [label="Simon Y W Ho", width=0.27433100247,height=0.27433100247];
+node4 [label="Yaoguang Zhang", width=0.27433100247,height=0.27433100247];
+node5 [label="Shunping He", width=0.27433100247,height=0.27433100247];
+node6 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

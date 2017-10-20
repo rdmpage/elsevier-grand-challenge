@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AY214425", width=0.27433100247,height=0.27433100247];
+node1 [label="A new blind Lamyctes (Chilopoda: Lithobiomorpha) from Tasmania with an...", width=0.27433100247,height=0.27433100247];
+node2 [label="Lamyctes inermipes", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node0 -> node2 [label="source"];
+}
+

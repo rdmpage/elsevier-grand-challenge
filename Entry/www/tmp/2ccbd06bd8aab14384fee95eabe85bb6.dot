@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Mitochondrial DNA Variation and the Evolutionary History of Cryptic Gammarus...", width=0.27433100247,height=0.27433100247];
+node1 [label="A molecular phylogeny of the genus Gammarus (Crustacea: Amphipoda) based...", width=0.27433100247,height=0.27433100247];
+node2 [label="J Müller", width=0.27433100247,height=0.27433100247];
+node3 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node4 [label="AJ269601", width=0.27433100247,height=0.27433100247];
+node5 [label="AJ269618", width=0.27433100247,height=0.27433100247];
+node6 [label="AJ269626", width=0.27433100247,height=0.27433100247];
+node7 [label="AJ269627", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node0 -> node3 [label="is_part_of"];
+node0 -> node4 [label="references"];
+node0 -> node5 [label="references"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+}
+

@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="A phylogenetic analysis of the major groups of catfishes (Teleostei:...", width=0.27433100247,height=0.27433100247];
+node1 [label="Systematics and biogeography of New World sea catfishes (Siluriformes: Ariidae)...", width=0.27433100247,height=0.27433100247];
+node2 [label="J Sullivan", width=0.27433100247,height=0.27433100247];
+node3 [label="J Lundberg", width=0.27433100247,height=0.27433100247];
+node4 [label="M Hardman", width=0.27433100247,height=0.27433100247];
+node5 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node6 [label="DQ492415", width=0.27433100247,height=0.27433100247];
+node7 [label="DQ492410", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+}
+

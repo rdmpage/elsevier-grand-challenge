@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="C Lopez-Vaamonde...", width=0.27433100247,height=0.27433100247];
+node1 [label="Molecular phylogenies of fig wasps: partial cocladogenesis of pollinators and...", width=0.27433100247,height=0.27433100247];
+node2 [label="Revision of the Australian species of Pleistodontes (Hymenoptera: Agaonidae) fig-pollinating...", width=0.27433100247,height=0.27433100247];
+node0 -> node1 [label="creator"];
+node0 -> node2 [label="creator"];
+}
+

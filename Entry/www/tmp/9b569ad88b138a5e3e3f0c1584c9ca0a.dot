@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="FMNH 140605", width=0.27433100247,height=0.27433100247];
+node1 [label="Phylogeny and phylogeography of Old World fruit bats in the...", width=0.27433100247,height=0.27433100247];
+node2 [label="Cynopterus brachyotis luzoniensis", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node0 -> node2 [label="taggedWithTag"];
+}
+

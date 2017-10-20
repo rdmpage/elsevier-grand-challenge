@@ -1,0 +1,25 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Paleogene equatorial penguins challenge the proposed relationship between biogeography, diversity,...", width=0.27433100247,height=0.27433100247];
+node1 [label="J A Clarke", width=0.27433100247,height=0.27433100247];
+node2 [label="D T Ksepka", width=0.27433100247,height=0.27433100247];
+node3 [label="M Stucchi", width=0.27433100247,height=0.27433100247];
+node4 [label="M Urbina", width=0.27433100247,height=0.27433100247];
+node5 [label="N Giannini", width=0.27433100247,height=0.27433100247];
+node6 [label="S Bertelli", width=0.27433100247,height=0.27433100247];
+node7 [label="Y Narvaez", width=0.27433100247,height=0.27433100247];
+node8 [label="C A Boyd", width=0.27433100247,height=0.27433100247];
+node9 [label="Proceedings of the National Academy of Sciences", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node7 -> node0 [label="creator"];
+node8 -> node0 [label="creator"];
+node0 -> node9 [label="is_part_of"];
+}
+

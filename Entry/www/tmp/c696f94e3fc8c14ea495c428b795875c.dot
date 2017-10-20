@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AY269304", width=0.27433100247,height=0.27433100247];
+node1 [label="Huge populations and old species of Costa Rican and Panamanian...", width=0.27433100247,height=0.27433100247];
+node2 [label="FMNH 257780", width=0.27433100247,height=0.27433100247];
+node3 [label="Craugastor stejnegerianus", width=0.27433100247,height=0.27433100247];
+node4 [label="c-myc", width=0.27433100247,height=0.27433100247];
+node5 [label="cellular myelocytomatosis", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="voucher_for"];
+node0 -> node3 [label="source"];
+node0 -> node4 [label="taggedWithTag"];
+node0 -> node5 [label="taggedWithTag"];
+}
+

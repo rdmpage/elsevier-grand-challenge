@@ -1,0 +1,33 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Phylogeny of the túngara frog genus Engystomops (=Physalaemus pustulosus species...", width=0.27433100247,height=0.27433100247];
+node1 [label="Tests of biogeographic hypotheses for diversification in the Amazonian forest...", width=0.27433100247,height=0.27433100247];
+node2 [label="S Ron", width=0.27433100247,height=0.27433100247];
+node3 [label="J Santos", width=0.27433100247,height=0.27433100247];
+node4 [label="D Cannatella", width=0.27433100247,height=0.27433100247];
+node5 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node6 [label="DQ337233", width=0.27433100247,height=0.27433100247];
+node7 [label="DQ337231", width=0.27433100247,height=0.27433100247];
+node8 [label="DQ337230", width=0.27433100247,height=0.27433100247];
+node9 [label="DQ337229", width=0.27433100247,height=0.27433100247];
+node10 [label="DQ337239", width=0.27433100247,height=0.27433100247];
+node11 [label="DQ337247", width=0.27433100247,height=0.27433100247];
+node12 [label="DQ337215", width=0.27433100247,height=0.27433100247];
+node13 [label="DQ337222", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+node0 -> node11 [label="references"];
+node0 -> node12 [label="references"];
+node0 -> node13 [label="references"];
+}
+

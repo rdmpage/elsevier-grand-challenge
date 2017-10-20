@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="MODELTEST: testing the model of DNA substitution", width=0.27433100247,height=0.27433100247];
+node1 [label="[untitled]", width=0.27433100247,height=0.27433100247];
+node2 [label="Tests of biogeographic hypotheses for diversification in the Amazonian forest...", width=0.27433100247,height=0.27433100247];
+node3 [label="Multigenic and morphometric differentiation of ground squirrels (Spermophilus, Scuiridae, Rodentia)...", width=0.27433100247,height=0.27433100247];
+node4 [label="D Posada", width=0.27433100247,height=0.27433100247];
+node5 [label="Bioinformatics", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node3 -> node0 [label="references"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+}
+

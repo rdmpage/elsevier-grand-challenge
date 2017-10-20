@@ -1,0 +1,178 @@
+\hypertarget{eav_8php}{
+\section{/Users/rpage/Sites/challenge/eav/eav.php File Reference}
+\label{eav_8php}\index{/Users/rpage/Sites/challenge/eav/eav.php@{/Users/rpage/Sites/challenge/eav/eav.php}}
+}
+\subsection*{Functions}
+\begin{CompactItemize}
+\item 
+\hyperlink{eav_8php_67d5d7031fc3a5d7cd9bd7ea66959eb2}{db\_\-object\_\-exists} (\$object\_\-id)
+\begin{CompactList}\small\item\em Test whether a object with a given id already exists in the database. \item\end{CompactList}\item 
+\hyperlink{eav_8php_7df7424ef9bab8c0fb6ae74d0b2d27fb}{db\_\-object\_\-class} (\$object\_\-id)
+\begin{CompactList}\small\item\em Get class of object. \item\end{CompactList}\item 
+\hyperlink{eav_8php_af41b9a208dee0874f2fb40ae2678586}{db\_\-retrieve\_\-link\_\-id} (\$source\_\-id, \$target\_\-id, \$relationship\_\-id, \$serial\_\-number=1)
+\begin{CompactList}\small\item\em Return id of link (if one exists) two objects in the Database. \item\end{CompactList}\item 
+\hyperlink{eav_8php_6bd82e0a9e6fd2965fb51b7c0e271156}{db\_\-link\_\-objects} (\$source\_\-id, \$target\_\-id, \$relationship\_\-id, \$serial\_\-number=1, \$author\_\-id='', \$ip='127.0.0.1', \$comment='')
+\begin{CompactList}\small\item\em Link two objects in the Database. \item\end{CompactList}\item 
+\hyperlink{eav_8php_d520925b88a5b09159cc582122b40af8}{db\_\-object\_\-insert} (\$object\_\-id, \$class\_\-id, \$name='', \$description='', \$author\_\-id='', \$ip='127.0.0.1', \$comment='')
+\begin{CompactList}\small\item\em Insert an object into database. \item\end{CompactList}\item 
+\hyperlink{eav_8php_1749f5ed26505143b2f675c5f907c4e7}{db\_\-record\_\-edit} (\$object\_\-id, \$table\_\-name, \$row\_\-id, \$author\_\-id='', \$ip='127.0.0.1', \$comment='')
+\begin{CompactList}\small\item\em Record an edit made to database. \item\end{CompactList}\item 
+\hyperlink{eav_8php_20e4c8a08082ea43f55c778b615d2671}{db\_\-find\_\-object\_\-with\_\-guid} (\$namespace, \$identifier)
+\begin{CompactList}\small\item\em Find object with a given guid. \item\end{CompactList}\item 
+\hypertarget{eav_8php_0deac333c4e55bdd1a5074a534eae042}{
+\hyperlink{eav_8php_0deac333c4e55bdd1a5074a534eae042}{db\_\-store\_\-object\_\-guid} (\$object\_\-id, \$namespace, \$identifier, \$author\_\-id='', \$ip='127.0.0.1', \$comment='')}
+\label{eav_8php_0deac333c4e55bdd1a5074a534eae042}
+
+\begin{CompactList}\small\item\em Store a GUID for an object. \item\end{CompactList}\item 
+\hyperlink{eav_8php_ddedeb138f0241eedf67dc5e4793ed24}{db\_\-attribute\_\-from\_\-name} (\$class\_\-id, \$attribute\_\-name)
+\begin{CompactList}\small\item\em Store an attribute value. \item\end{CompactList}\item 
+\hyperlink{eav_8php_ff4248e5adeb0c01d74689bb6f709691}{db\_\-update\_\-attribute\_\-value} (\$object\_\-id, \$attribute\_\-table, \$attribute\_\-id, \$attribute\_\-value, \$author\_\-id='', \$ip='127.0.0.1', \$comment='')
+\begin{CompactList}\small\item\em Store an attribute value. \item\end{CompactList}\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+Services 
+
+\subsection{Function Documentation}
+\hypertarget{eav_8php_ddedeb138f0241eedf67dc5e4793ed24}{
+\index{eav.php@{eav.php}!db\_\-attribute\_\-from\_\-name@{db\_\-attribute\_\-from\_\-name}}
+\index{db\_\-attribute\_\-from\_\-name@{db\_\-attribute\_\-from\_\-name}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-attribute\_\-from\_\-name (\$ {\em class\_\-id}, \/  \$ {\em attribute\_\-name})}}
+\label{eav_8php_ddedeb138f0241eedf67dc5e4793ed24}
+
+
+Store an attribute value. 
+
+Store an attribute for object, and record this operation in the edit table. The edits are
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em class\_\-id}]Class id \item[{\em attribute\_\-name}]Name of attribute (e.g., \char`\"{}title\char`\"{})\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]id of attribute in attributes table \end{Desc}
+\hypertarget{eav_8php_20e4c8a08082ea43f55c778b615d2671}{
+\index{eav.php@{eav.php}!db\_\-find\_\-object\_\-with\_\-guid@{db\_\-find\_\-object\_\-with\_\-guid}}
+\index{db\_\-find\_\-object\_\-with\_\-guid@{db\_\-find\_\-object\_\-with\_\-guid}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-find\_\-object\_\-with\_\-guid (\$ {\em namespace}, \/  \$ {\em identifier})}}
+\label{eav_8php_20e4c8a08082ea43f55c778b615d2671}
+
+
+Find object with a given guid. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em namespace}]Identifier namespace (e.g., 'doi'); \item[{\em identifier}]Identifier\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]\hyperlink{class_object}{Object} id if successful, otherwise '' \end{Desc}
+\hypertarget{eav_8php_6bd82e0a9e6fd2965fb51b7c0e271156}{
+\index{eav.php@{eav.php}!db\_\-link\_\-objects@{db\_\-link\_\-objects}}
+\index{db\_\-link\_\-objects@{db\_\-link\_\-objects}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-link\_\-objects (\$ {\em source\_\-id}, \/  \$ {\em target\_\-id}, \/  \$ {\em relationship\_\-id}, \/  \$ {\em serial\_\-number} = {\tt 1}, \/  \$ {\em author\_\-id} = {\tt ''}, \/  \$ {\em ip} = {\tt '127.0.0.1'}, \/  \$ {\em comment} = {\tt ''})}}
+\label{eav_8php_6bd82e0a9e6fd2965fb51b7c0e271156}
+
+
+Link two objects in the Database. 
+
+Link two objects. Note that we can specify the order of the links in cases where this matters (e.g., authorship)
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em source\_\-id}]Source object \item[{\em target\_\-id}]Target object \item[{\em relationship\_\-id}]Type of relationship \item[{\em serial\_\-number}]Order in which object link occurs. By default is 1. \item[{\em author\_\-id}]Internal object id of person or process making edit \item[{\em ip}]IP address of editor \item[{\em comment}]Comment \end{description}
+\end{Desc}
+\hypertarget{eav_8php_7df7424ef9bab8c0fb6ae74d0b2d27fb}{
+\index{eav.php@{eav.php}!db\_\-object\_\-class@{db\_\-object\_\-class}}
+\index{db\_\-object\_\-class@{db\_\-object\_\-class}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-object\_\-class (\$ {\em object\_\-id})}}
+\label{eav_8php_7df7424ef9bab8c0fb6ae74d0b2d27fb}
+
+
+Get class of object. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em object\_\-id}]Internal object id (a MD5 hash)\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]Class id \end{Desc}
+\hypertarget{eav_8php_67d5d7031fc3a5d7cd9bd7ea66959eb2}{
+\index{eav.php@{eav.php}!db\_\-object\_\-exists@{db\_\-object\_\-exists}}
+\index{db\_\-object\_\-exists@{db\_\-object\_\-exists}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-object\_\-exists (\$ {\em object\_\-id})}}
+\label{eav_8php_67d5d7031fc3a5d7cd9bd7ea66959eb2}
+
+
+Test whether a object with a given id already exists in the database. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em object\_\-id}]Internal object id (a MD5 hash)\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]True if exists, false otherwise \end{Desc}
+\hypertarget{eav_8php_d520925b88a5b09159cc582122b40af8}{
+\index{eav.php@{eav.php}!db\_\-object\_\-insert@{db\_\-object\_\-insert}}
+\index{db\_\-object\_\-insert@{db\_\-object\_\-insert}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-object\_\-insert (\$ {\em object\_\-id}, \/  \$ {\em class\_\-id}, \/  \$ {\em name} = {\tt ''}, \/  \$ {\em description} = {\tt ''}, \/  \$ {\em author\_\-id} = {\tt ''}, \/  \$ {\em ip} = {\tt '127.0.0.1'}, \/  \$ {\em comment} = {\tt ''})}}
+\label{eav_8php_d520925b88a5b09159cc582122b40af8}
+
+
+Insert an object into database. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em object\_\-id}]Internal object id (a MD5 hash) \item[{\em class\_\-id}]Class id \item[{\em name}]Name of object (it's title) \item[{\em description}]Description of object (to be used in search results, for example) \item[{\em author\_\-id}]Internal object id of person or process making edit \item[{\em ip}]IP address of editor \item[{\em comment}]Comment \end{description}
+\end{Desc}
+\hypertarget{eav_8php_1749f5ed26505143b2f675c5f907c4e7}{
+\index{eav.php@{eav.php}!db\_\-record\_\-edit@{db\_\-record\_\-edit}}
+\index{db\_\-record\_\-edit@{db\_\-record\_\-edit}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-record\_\-edit (\$ {\em object\_\-id}, \/  \$ {\em table\_\-name}, \/  \$ {\em row\_\-id}, \/  \$ {\em author\_\-id} = {\tt ''}, \/  \$ {\em ip} = {\tt '127.0.0.1'}, \/  \$ {\em comment} = {\tt ''})}}
+\label{eav_8php_1749f5ed26505143b2f675c5f907c4e7}
+
+
+Record an edit made to database. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em object\_\-id}]Internal object id (a MD5 hash) \item[{\em table\_\-name}]Name of table that has been edited \item[{\em row\_\-id}]Row id (in table) of item being edited \item[{\em author\_\-id}]Internal object id of person or process making edit \item[{\em ip}]IP address of editor \item[{\em comment}]Comment \end{description}
+\end{Desc}
+\hypertarget{eav_8php_af41b9a208dee0874f2fb40ae2678586}{
+\index{eav.php@{eav.php}!db\_\-retrieve\_\-link\_\-id@{db\_\-retrieve\_\-link\_\-id}}
+\index{db\_\-retrieve\_\-link\_\-id@{db\_\-retrieve\_\-link\_\-id}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-retrieve\_\-link\_\-id (\$ {\em source\_\-id}, \/  \$ {\em target\_\-id}, \/  \$ {\em relationship\_\-id}, \/  \$ {\em serial\_\-number} = {\tt 1})}}
+\label{eav_8php_af41b9a208dee0874f2fb40ae2678586}
+
+
+Return id of link (if one exists) two objects in the Database. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em source\_\-id}]Source object \item[{\em target\_\-id}]Target object \item[{\em relationship\_\-id}]Type of relationship \item[{\em serial\_\-number}]Order in which object link occurs. By default is 1.\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]id of link, otherwise 0 \end{Desc}
+\hypertarget{eav_8php_ff4248e5adeb0c01d74689bb6f709691}{
+\index{eav.php@{eav.php}!db\_\-update\_\-attribute\_\-value@{db\_\-update\_\-attribute\_\-value}}
+\index{db\_\-update\_\-attribute\_\-value@{db\_\-update\_\-attribute\_\-value}!eav.php@{eav.php}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}db\_\-update\_\-attribute\_\-value (\$ {\em object\_\-id}, \/  \$ {\em attribute\_\-table}, \/  \$ {\em attribute\_\-id}, \/  \$ {\em attribute\_\-value}, \/  \$ {\em author\_\-id} = {\tt ''}, \/  \$ {\em ip} = {\tt '127.0.0.1'}, \/  \$ {\em comment} = {\tt ''})}}
+\label{eav_8php_ff4248e5adeb0c01d74689bb6f709691}
+
+
+Store an attribute value. 
+
+Store an attribute for object, and record this operation in the edit table. The edits are timestamped so we know when they were done, and by whom. If the an attribute of this type for this object already exists, modify the timestamp of the previous value, and insert the new value. This generates a version history that we can reconstruct.
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em object\_\-id}]Internal object id (a MD5 hash) \item[{\em attribute\_\-table}]Name of attribute table (one of EAV\_\-Date, EAV\_\-Int, EAV\_\-Memo, EAV\_\-Real, EAV\_\-String) \item[{\em attribute\_\-id}]Attribute id (defined in table \char`\"{}attributes\char`\"{}) \item[{\em attribute\_\-value}]Internal object id (a MD5 hash) \item[{\em author\_\-id}]Internal object id of person or process making edit \item[{\em ip}]IP address of editor \item[{\em comment}]Comment \end{description}
+\end{Desc}

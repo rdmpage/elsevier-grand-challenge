@@ -1,0 +1,29 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="First observations on the phylogeny of the families Gammaridae, Crangonyctidae,...", width=0.27433100247,height=0.27433100247];
+node1 [label="A molecular phylogeny of the genus Gammarus (Crustacea: Amphipoda) based...", width=0.27433100247,height=0.27433100247];
+node2 [label="Ulrike Englisch", width=0.27433100247,height=0.27433100247];
+node3 [label="Charles Oliver Coleman", width=0.27433100247,height=0.27433100247];
+node4 [label="Johann Wolfgang Wägele", width=0.27433100247,height=0.27433100247];
+node5 [label="Journal of Natural History", width=0.27433100247,height=0.27433100247];
+node6 [label="AF356545", width=0.27433100247,height=0.27433100247];
+node7 [label="AF419226", width=0.27433100247,height=0.27433100247];
+node8 [label="AF419227", width=0.27433100247,height=0.27433100247];
+node9 [label="AF419222", width=0.27433100247,height=0.27433100247];
+node10 [label="AF419225", width=0.27433100247,height=0.27433100247];
+node11 [label="AF356544", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+node0 -> node6 [label="references"];
+node0 -> node7 [label="references"];
+node0 -> node8 [label="references"];
+node0 -> node9 [label="references"];
+node0 -> node10 [label="references"];
+node0 -> node11 [label="references"];
+}
+

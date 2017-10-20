@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Alytes obstetricans", width=0.27433100247,height=0.27433100247];
+node1 [label="DQ282683", width=0.27433100247,height=0.27433100247];
+node2 [label="DQ283825", width=0.27433100247,height=0.27433100247];
+node3 [label="DQ284158", width=0.27433100247,height=0.27433100247];
+node4 [label="DQ283112", width=0.27433100247,height=0.27433100247];
+node5 [label="DQ283510", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+}
+

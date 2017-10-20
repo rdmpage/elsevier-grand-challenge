@@ -1,0 +1,4 @@
+<area shape="rect" href="$class_object.html" title="Base object." alt="" coords="5,56,67,83">
+<area shape="rect" href="$class_journal.html" title="A journal." alt="" coords="124,6,191,32">
+<area shape="rect" href="$class_person.html" title="Encapsulate a person." alt="" coords="125,56,189,83">
+<area shape="rect" href="$class_reference.html" title="Encapsulate a journal article." alt="" coords="116,107,199,134">

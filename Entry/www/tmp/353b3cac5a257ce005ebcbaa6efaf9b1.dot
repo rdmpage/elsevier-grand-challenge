@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="The Complete Mitochondrial Genome of Tupaia belangeri and the Phylogenetic...", width=0.27433100247,height=0.27433100247];
+node1 [label="Intraordinal phylogenetics of treeshrews (Mammalia: Scandentia) based on evidence from...", width=0.27433100247,height=0.27433100247];
+node2 [label="Jurgen Schmitz", width=0.27433100247,height=0.27433100247];
+node3 [label="Martina Ohme", width=0.27433100247,height=0.27433100247];
+node4 [label="Hans Zischler", width=0.27433100247,height=0.27433100247];
+node5 [label="Molecular Biology and Evolution", width=0.27433100247,height=0.27433100247];
+node6 [label="AF217811", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+node0 -> node6 [label="references"];
+}
+

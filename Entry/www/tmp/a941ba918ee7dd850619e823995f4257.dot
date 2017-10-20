@@ -1,0 +1,29 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Proceedings of the Royal Society B: Biological Sciences", width=0.27433100247,height=0.27433100247];
+node1 [label="Eusociality in African mole-rats: new insights from patterns of genetic...", width=0.27433100247,height=0.27433100247];
+node2 [label="Evolution of the angiosperms: calibrating the family tree", width=0.27433100247,height=0.27433100247];
+node3 [label="Pleistocene phylogeographic effects on avian populations and the speciation process", width=0.27433100247,height=0.27433100247];
+node4 [label="Molecular phylogenetic evidence for a mimetic radiation in Peruvian poison...", width=0.27433100247,height=0.27433100247];
+node5 [label="A phylogenetic hypothesis for passerine birds: taxonomic and biogeographic implications...", width=0.27433100247,height=0.27433100247];
+node6 [label="A phylogenetic review of the African leaf chameleons: genus Rhampholeon...", width=0.27433100247,height=0.27433100247];
+node7 [label="Ridges and rivers: a test of competing hypotheses of Amazonian...", width=0.27433100247,height=0.27433100247];
+node8 [label="Explosive speciation in the New World Dendroica warblers", width=0.27433100247,height=0.27433100247];
+node9 [label="Ecological constraints drive social evolution in the African mole-rats", width=0.27433100247,height=0.27433100247];
+node10 [label="New dates and new rates for divergence across the Isthmus...", width=0.27433100247,height=0.27433100247];
+node11 [label="Analyses of mitochondrial DNA nest ratite birds within the Neognathae:...", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="is_part_of"];
+node2 -> node0 [label="is_part_of"];
+node3 -> node0 [label="is_part_of"];
+node4 -> node0 [label="is_part_of"];
+node5 -> node0 [label="is_part_of"];
+node6 -> node0 [label="is_part_of"];
+node7 -> node0 [label="is_part_of"];
+node8 -> node0 [label="is_part_of"];
+node9 -> node0 [label="is_part_of"];
+node10 -> node0 [label="is_part_of"];
+node11 -> node0 [label="is_part_of"];
+}
+

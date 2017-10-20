@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="EF582940", width=0.27433100247,height=0.27433100247];
+node1 [label="A molecular phylogeny of the genus Gammarus (Crustacea: Amphipoda) based...", width=0.27433100247,height=0.27433100247];
+node2 [label="Crangonyx pseudogracilis", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node0 -> node2 [label="source"];
+}
+

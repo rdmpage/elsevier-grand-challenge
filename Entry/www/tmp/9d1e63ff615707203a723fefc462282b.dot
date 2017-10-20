@@ -1,0 +1,13 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="DQ282654", width=0.27433100247,height=0.27433100247];
+node1 [label="The amphibian tree of life.", width=0.27433100247,height=0.27433100247];
+node2 [label="Ranitomeya claudiae", width=0.27433100247,height=0.27433100247];
+node3 [label="seventh in absentia", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node0 -> node2 [label="source"];
+node0 -> node3 [label="taggedWithTag"];
+}
+

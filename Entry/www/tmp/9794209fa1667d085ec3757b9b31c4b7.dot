@@ -1,0 +1,13 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="EF011521", width=0.27433100247,height=0.27433100247];
+node1 [label="Sexual selection drives speciation in an Amazonian frog", width=0.27433100247,height=0.27433100247];
+node2 [label="Tests of biogeographic hypotheses for diversification in the Amazonian forest...", width=0.27433100247,height=0.27433100247];
+node3 [label="Engystomops petersi", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node0 -> node3 [label="source"];
+}
+

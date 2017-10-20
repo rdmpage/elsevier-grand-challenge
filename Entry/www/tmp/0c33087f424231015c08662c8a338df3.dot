@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="On the nomenclature of Bathyergidae and Fukomys n. gen. (Mammalia:...", width=0.27433100247,height=0.27433100247];
+node1 [label="Cytochrome b sequence analysis reveals differential molecular evolution in African...", width=0.27433100247,height=0.27433100247];
+node2 [label="D Kock", width=0.27433100247,height=0.27433100247];
+node3 [label="C M Ingram", width=0.27433100247,height=0.27433100247];
+node4 [label="L J Frabotta", width=0.27433100247,height=0.27433100247];
+node5 [label="R L Honeycutt", width=0.27433100247,height=0.27433100247];
+node6 [label="H Burda", width=0.27433100247,height=0.27433100247];
+node7 [label="Zootaxa", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node0 -> node7 [label="is_part_of"];
+}
+

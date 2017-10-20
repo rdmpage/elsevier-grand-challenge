@@ -1,0 +1,16 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Molecular evidence for the monophyly of East Asian groups of..."], width=0.27433100247,height=0.27433100247, URL="uri/a838e1979c45faf0a918158991bebbd7"];
+node1 [label="X Wang"], width=0.27433100247,height=0.27433100247, URL="uri/dc62419f1146b128813904c7c71bb43c"];
+node2 [label="J Li"], width=0.27433100247,height=0.27433100247, URL="uri/a30d6205902a92635933d19f12c66595"];
+node3 [label="S He"], width=0.27433100247,height=0.27433100247, URL="uri/5bcd540e7262bd678866f2ea9b59f845"];
+node4 [label="Molecular Phylogenetics and Evolution"], width=0.27433100247,height=0.27433100247, URL="uri/0372512249d34b3c277af530dde7baea"];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="3"];
+}
+
+

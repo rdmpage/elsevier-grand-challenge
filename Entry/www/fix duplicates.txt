@@ -1,0 +1,6 @@
+CREATE TABLE new_locality AS
+SELECT * FROM locality 
+WHERE 1 
+GROUP BY object_id;
+
+-- then delete locality table and rename new_locality

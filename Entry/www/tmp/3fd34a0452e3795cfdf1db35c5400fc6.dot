@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Systematic Biology", width=0.27433100247,height=0.27433100247];
+node1 [label="A Simulation Study of Reduced Tree-Search Effort in Bootstrap Resampling...", width=0.27433100247,height=0.27433100247];
+node2 [label="Molecular Systematics of the Eastern Fence Lizard ( Sceloporus undulatus...", width=0.27433100247,height=0.27433100247];
+node3 [label="Success of Phylogenetic Methods in the Four-Taxon Case", width=0.27433100247,height=0.27433100247];
+node4 [label="Model Selection and Model Averaging in Phylogenetics: Advantages of Akaike...", width=0.27433100247,height=0.27433100247];
+node5 [label="Phylogeny of Frogs of the Physalaemus Pustulosus Species Group, With...", width=0.27433100247,height=0.27433100247];
+node6 [label="Partitioned Bayesian Analyses, Partition Choice, and the Phylogenetic Relationships of...", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="is_part_of"];
+node2 -> node0 [label="is_part_of"];
+node3 -> node0 [label="is_part_of"];
+node4 -> node0 [label="is_part_of"];
+node5 -> node0 [label="is_part_of"];
+node6 -> node0 [label="is_part_of"];
+}
+

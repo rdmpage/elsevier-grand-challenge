@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="A phylogenetic review of the African leaf chameleons: genus Rhampholeon...", width=0.27433100247,height=0.27433100247];
+node1 [label="C A Matthee...", width=0.27433100247,height=0.27433100247];
+node2 [label="C R Tilbury...", width=0.27433100247,height=0.27433100247];
+node3 [label="T Townsend...", width=0.27433100247,height=0.27433100247];
+node4 [label="Proceedings of the Royal Society B: Biological Sciences", width=0.27433100247,height=0.27433100247];
+node5 [label="AY524870", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+node0 -> node5 [label="references"];
+}
+

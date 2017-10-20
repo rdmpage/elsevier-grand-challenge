@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Evolutionary Shifts in Three Major Structural Features of the Mitochondrial...", width=0.27433100247,height=0.27433100247];
+node1 [label="Molecular phylogeny of the scincid lizards of New Caledonia and...", width=0.27433100247,height=0.27433100247];
+node2 [label="J Robert Macey", width=0.27433100247,height=0.27433100247];
+node3 [label="Allan Larson", width=0.27433100247,height=0.27433100247];
+node4 [label="Natalia B Ananjeva", width=0.27433100247,height=0.27433100247];
+node5 [label="Theodore J Papenfuss", width=0.27433100247,height=0.27433100247];
+node6 [label="Journal of Molecular Evolution", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Molecular phylogenetic evidence for a mimetic radiation in Peruvian poison...", width=0.27433100247,height=0.27433100247];
+node1 [label="Mitochondrial paraphyly in a polymorphic poison frog species (Dendrobatidae; D....", width=0.27433100247,height=0.27433100247];
+node2 [label="Rainer Schulte", width=0.27433100247,height=0.27433100247];
+node3 [label="Rebecca Symula", width=0.27433100247,height=0.27433100247];
+node4 [label="Kyle Summers", width=0.27433100247,height=0.27433100247];
+node5 [label="Proceedings of the Royal Society B: Biological Sciences", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+}
+

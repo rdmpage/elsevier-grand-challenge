@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Phylogenetic Relationships of the Asian Box Turtles of the Genus...", width=0.27433100247,height=0.27433100247];
+node1 [label="On the paraphyly of the genus Kachuga (Testudines: Geoemydidae).", width=0.27433100247,height=0.27433100247];
+node2 [label="Masanao Honda", width=0.27433100247,height=0.27433100247];
+node3 [label="Yuichirou Yasukawa", width=0.27433100247,height=0.27433100247];
+node4 [label="Ren Hirayama", width=0.27433100247,height=0.27433100247];
+node5 [label="Hidetoshi Ota", width=0.27433100247,height=0.27433100247];
+node6 [label="ZOOLOGICAL SCIENCE", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

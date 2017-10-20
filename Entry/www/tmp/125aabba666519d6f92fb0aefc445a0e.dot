@@ -1,0 +1,17 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Geologically Dated Sea Barriers Calibrate a Protein Clock for Aegean...", width=0.27433100247,height=0.27433100247];
+node1 [label="Multiple invasions of the Ryukyu Archipelago by Oriental frogs of...", width=0.27433100247,height=0.27433100247];
+node2 [label="Peter Beerli", width=0.27433100247,height=0.27433100247];
+node3 [label="Hansjurg Hotz", width=0.27433100247,height=0.27433100247];
+node4 [label="Thomas Uzzell", width=0.27433100247,height=0.27433100247];
+node5 [label="Evolution", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node0 -> node5 [label="is_part_of"];
+}
+

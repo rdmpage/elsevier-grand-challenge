@@ -1,0 +1,11 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Phylogenies from Molecular Sequences: Inference and Reliability", width=0.27433100247,height=0.27433100247];
+node1 [label="J Felsenstein", width=0.27433100247,height=0.27433100247];
+node2 [label="Annual Review of Genetics", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="creator"];
+node0 -> node2 [label="is_part_of"];
+}
+

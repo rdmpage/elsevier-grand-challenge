@@ -1,0 +1,75 @@
+\hypertarget{class_person}{
+\section{Person Class Reference}
+\label{class_person}\index{Person@{Person}}
+}
+Encapsulate a person.  
+
+
+Inheritance diagram for Person:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=46pt]{class_person__inherit__graph}
+\end{center}
+\end{figure}
+Collaboration diagram for Person:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=46pt]{class_person__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{CompactItemize}
+\item 
+\hypertarget{class_person_436b0141f7e12541fe7a1a2b2251d9a5}{
+\hyperlink{class_person_436b0141f7e12541fe7a1a2b2251d9a5}{CreateName} ()}
+\label{class_person_436b0141f7e12541fe7a1a2b2251d9a5}
+
+\begin{CompactList}\small\item\em Create object name from person's name. \item\end{CompactList}\item 
+\hyperlink{class_person_67edc8688a6119602b69f4641d14892b}{GenerateObjectId} ()
+\begin{CompactList}\small\item\em Generate object identifier. \item\end{CompactList}\item 
+\hyperlink{class_person_706e157885b1f1251a3c9be6992cea66}{GetMicroformat} ()
+\begin{CompactList}\small\item\em hCard for a person \item\end{CompactList}\item 
+\hypertarget{class_person_805b5db1bfd879b869df7f3427675c05}{
+\hyperlink{class_person_805b5db1bfd879b869df7f3427675c05}{SetType} ()}
+\label{class_person_805b5db1bfd879b869df7f3427675c05}
+
+\begin{CompactList}\small\item\em Set object type (must be defined in each oject). \item\end{CompactList}\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+Encapsulate a person. 
+
+\subsection{Member Function Documentation}
+\hypertarget{class_person_67edc8688a6119602b69f4641d14892b}{
+\index{Person@{Person}!GenerateObjectId@{GenerateObjectId}}
+\index{GenerateObjectId@{GenerateObjectId}!Person@{Person}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Person::GenerateObjectId ()}}
+\label{class_person_67edc8688a6119602b69f4641d14892b}
+
+
+Generate object identifier. 
+
+Generate md5 hash of person's name to do: really need a better way of doing this, hashing the email address would be a good place to start... 
+
+Reimplemented from \hyperlink{class_object_291597e1743bd57c40b8b49ae676e940}{Object}.\hypertarget{class_person_706e157885b1f1251a3c9be6992cea66}{
+\index{Person@{Person}!GetMicroformat@{GetMicroformat}}
+\index{GetMicroformat@{GetMicroformat}!Person@{Person}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Person::GetMicroformat ()}}
+\label{class_person_706e157885b1f1251a3c9be6992cea66}
+
+
+hCard for a person 
+
+hCard is described at \href{http://microformats.org/wiki/hcard.}{\tt http://microformats.org/wiki/hcard.}
+
+\begin{Desc}
+\item[Returns:]HTML hCard, enclosed in a DIV tag \end{Desc}
+
+
+Reimplemented from \hyperlink{class_object_28c07f4c361d113e21a934718c1edcc5}{Object}.
+
+The documentation for this class was generated from the following file:\begin{CompactItemize}
+\item 
+/Users/rpage/Sites/challenge/class\_\-person.php\end{CompactItemize}

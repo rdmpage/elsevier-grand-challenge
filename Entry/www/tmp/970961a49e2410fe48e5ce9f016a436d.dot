@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Pseudacris streckeri", width=0.27433100247,height=0.27433100247];
+node1 [label="TNHC 62351", width=0.27433100247,height=0.27433100247];
+node2 [label="TNHC 62317", width=0.27433100247,height=0.27433100247];
+node3 [label="TNHC 63382", width=0.27433100247,height=0.27433100247];
+node4 [label="TNHC 62346", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="taggedWithTag"];
+node2 -> node0 [label="taggedWithTag"];
+node3 -> node0 [label="taggedWithTag"];
+node4 -> node0 [label="taggedWithTag"];
+}
+

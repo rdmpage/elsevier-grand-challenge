@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Neotropical diversification: the effects of a complex history on diversity...", width=0.27433100247,height=0.27433100247];
+node1 [label="Mitochondrial paraphyly in a polymorphic poison frog species (Dendrobatidae; D....", width=0.27433100247,height=0.27433100247];
+node2 [label="Brice P Noonan", width=0.27433100247,height=0.27433100247];
+node3 [label="Kenneth P Wray", width=0.27433100247,height=0.27433100247];
+node4 [label="Journal of Biogeography", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+}
+

@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Rana ishikawae", width=0.27433100247,height=0.27433100247];
+node1 [label="AB200920", width=0.27433100247,height=0.27433100247];
+node2 [label="AB200945", width=0.27433100247,height=0.27433100247];
+node3 [label="AB200921", width=0.27433100247,height=0.27433100247];
+node4 [label="AB200944", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+}
+

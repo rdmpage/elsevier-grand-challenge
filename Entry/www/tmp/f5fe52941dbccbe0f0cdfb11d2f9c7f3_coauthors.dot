@@ -1,0 +1,16 @@
+graph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Gustavo A B Da Fonseca", width=0.27433100247,height=0.27433100247];
+node1 [label="Jennifer Kent", width=0.27433100247,height=0.27433100247];
+node2 [label="Russell A Mittermeier", width=0.27433100247,height=0.27433100247];
+node3 [label="Cristina G Mittermeier", width=0.27433100247,height=0.27433100247];
+node0 -- node1 [label=""];
+node0 -- node2 [label=""];
+node0 -- node3 [label=""];
+node1 -- node2 [label=""];
+node1 -- node3 [label=""];
+node2 -- node3 [label=""];
+}
+

@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Ecology of the Nocturnal Lizard Thecadactylus rapicauda (Sauria: Gekkonidae) in...", width=0.27433100247,height=0.27433100247];
+node1 [label="A phylogeographically distinct and deep divergence in the widespread Neotropical...", width=0.27433100247,height=0.27433100247];
+node2 [label="Laurie J Vitt", width=0.27433100247,height=0.27433100247];
+node3 [label="Peter A Zani", width=0.27433100247,height=0.27433100247];
+node4 [label="Herpetologica", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+}
+

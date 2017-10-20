@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Eusociality in African mole-rats: new insights from patterns of genetic...", width=0.27433100247,height=0.27433100247];
+node1 [label="Cytochrome b sequence analysis reveals differential molecular evolution in African...", width=0.27433100247,height=0.27433100247];
+node2 [label="Tamsin M Burland", width=0.27433100247,height=0.27433100247];
+node3 [label="Nigel C Bennett", width=0.27433100247,height=0.27433100247];
+node4 [label="Jennifer U M Jarvis", width=0.27433100247,height=0.27433100247];
+node5 [label="Christopher G Faulkes", width=0.27433100247,height=0.27433100247];
+node6 [label="Proceedings of the Royal Society B: Biological Sciences", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+

@@ -1,0 +1,15 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Taxonomic Reconsideration of Middle American Frogs of the Eleutherodactylus rugulosus...", width=0.27433100247,height=0.27433100247];
+node1 [label="Cenozoic biogeography and evolution in direct-developing frogs of Central America...", width=0.27433100247,height=0.27433100247];
+node2 [label="Jonathan A Campbell", width=0.27433100247,height=0.27433100247];
+node3 [label="Jay M Savage", width=0.27433100247,height=0.27433100247];
+node4 [label="Herpetological Monographs", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node0 -> node4 [label="is_part_of"];
+}
+

@@ -1,0 +1,222 @@
+\hypertarget{class_object}{
+\section{Object Class Reference}
+\label{class_object}\index{Object@{Object}}
+}
+Base object.  
+
+
+Inheritance diagram for Object:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=120pt]{class_object__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{CompactItemize}
+\item 
+\hypertarget{class_object_a75e92322afb38f52e72df8f716bf1a3}{
+\hyperlink{class_object_a75e92322afb38f52e72df8f716bf1a3}{CreateName} ()}
+\label{class_object_a75e92322afb38f52e72df8f716bf1a3}
+
+\begin{CompactList}\small\item\em Create a name for the object. We use this as the object title when displaying it. \item\end{CompactList}\item 
+\hypertarget{class_object_370675399c0cd6572d3c6e6cdd26db89}{
+\hyperlink{class_object_370675399c0cd6572d3c6e6cdd26db89}{CreateDescription} ()}
+\label{class_object_370675399c0cd6572d3c6e6cdd26db89}
+
+\begin{CompactList}\small\item\em Create a descriptive string for the object. \item\end{CompactList}\item 
+\hypertarget{class_object_21b8ccf86460cc82f605dd7a838494a9}{
+\hyperlink{class_object_21b8ccf86460cc82f605dd7a838494a9}{Dump} ()}
+\label{class_object_21b8ccf86460cc82f605dd7a838494a9}
+
+\begin{CompactList}\small\item\em Dump object contents. \item\end{CompactList}\item 
+\hyperlink{class_object_740e3ddfc03f8d18826fe6ed67344f0f}{Exists} ()
+\begin{CompactList}\small\item\em Test whether this object already exists. \item\end{CompactList}\item 
+\hyperlink{class_object_09d42d8bd63d8d7f9353b5087301b81c}{GetAttributeValue} (\$attribute\_\-name)
+\begin{CompactList}\small\item\em Get value of a given attribute by name. \item\end{CompactList}\item 
+\hyperlink{class_object_291597e1743bd57c40b8b49ae676e940}{GenerateObjectId} ()
+\begin{CompactList}\small\item\em Generate an indentifier for the object. \item\end{CompactList}\item 
+\hyperlink{class_object_28c07f4c361d113e21a934718c1edcc5}{GetMicroformat} ()
+\begin{CompactList}\small\item\em Generate microformat. \item\end{CompactList}\item 
+\hypertarget{class_object_3edf2de2a04b4388c1fb181b1bd7a3bd}{
+\hyperlink{class_object_3edf2de2a04b4388c1fb181b1bd7a3bd}{GetParentObjectId} ()}
+\label{class_object_3edf2de2a04b4388c1fb181b1bd7a3bd}
+
+\begin{CompactList}\small\item\em Get id of parent object (if it exists). \item\end{CompactList}\item 
+\hyperlink{class_object_bff7e02bed36f0396b0c388bc68f725c}{GetRss} (\$feed, \$item)
+\begin{CompactList}\small\item\em Create RSS 2.0 item. \item\end{CompactList}\item 
+\hypertarget{class_object_4ca6ebed0ef8d6b792fec824e3fbe0bc}{
+\hyperlink{class_object_4ca6ebed0ef8d6b792fec824e3fbe0bc}{PostProcess} ()}
+\label{class_object_4ca6ebed0ef8d6b792fec824e3fbe0bc}
+
+\begin{CompactList}\small\item\em Post process attribute data. \item\end{CompactList}\item 
+\hyperlink{class_object_ad5c98da6f5d954fe8ad17294f9d16ce}{SetData} (\$data)
+\begin{CompactList}\small\item\em Set object data. \item\end{CompactList}\item 
+\hypertarget{class_object_ded52fbeea8b723ce53f8c2af3793869}{
+\hyperlink{class_object_ded52fbeea8b723ce53f8c2af3793869}{SetType} ()}
+\label{class_object_ded52fbeea8b723ce53f8c2af3793869}
+
+\begin{CompactList}\small\item\em Set object type (must be defined in each oject). \item\end{CompactList}\item 
+\hyperlink{class_object_9a2ddfa89273d2f5e0d192b6c77d3d83}{Store} (\$author\_\-id='', \$ip='127.0.0.1', \$comment='')
+\begin{CompactList}\small\item\em Store object in EAV database. \item\end{CompactList}\item 
+\hyperlink{class_object_bc9a36b7d0f2b7d5f6ac5467a244b7a0}{StoreAttributes} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store object attributes in EAV database. \item\end{CompactList}\item 
+\hyperlink{class_object_dedb212835b4a878c89f7682ae11f772}{StoreGuids} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store object GUIDs in EAV database. \item\end{CompactList}\item 
+\hyperlink{class_object_b969bdfbdff62485da5de7e12f1ea68d}{StoreLinks} (\$author\_\-id, \$ip, \$comment)
+\begin{CompactList}\small\item\em Store links between this obeject and anny associated objects. \item\end{CompactList}\end{CompactItemize}
+
+
+\subsection{Detailed Description}
+Base object. 
+
+\subsection{Member Function Documentation}
+\hypertarget{class_object_740e3ddfc03f8d18826fe6ed67344f0f}{
+\index{Object@{Object}!Exists@{Exists}}
+\index{Exists@{Exists}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::Exists ()}}
+\label{class_object_740e3ddfc03f8d18826fe6ed67344f0f}
+
+
+Test whether this object already exists. 
+
+\begin{Desc}
+\item[Returns:]True if object exists in database, false otherwise \end{Desc}
+
+
+Reimplemented in \hyperlink{class_journal_972ce1a8531e15757579826aca9f8e49}{Journal}.\hypertarget{class_object_09d42d8bd63d8d7f9353b5087301b81c}{
+\index{Object@{Object}!GetAttributeValue@{GetAttributeValue}}
+\index{GetAttributeValue@{GetAttributeValue}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::GetAttributeValue (\$ {\em attribute\_\-name})}}
+\label{class_object_09d42d8bd63d8d7f9353b5087301b81c}
+
+
+Get value of a given attribute by name. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em attribute\_\-name}]Name of the attribute\end{description}
+\end{Desc}
+\begin{Desc}
+\item[Returns:]Attribute value, or empty string '' if attribute not found. \end{Desc}
+\hypertarget{class_object_291597e1743bd57c40b8b49ae676e940}{
+\index{Object@{Object}!GenerateObjectId@{GenerateObjectId}}
+\index{GenerateObjectId@{GenerateObjectId}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::GenerateObjectId ()}}
+\label{class_object_291597e1743bd57c40b8b49ae676e940}
+
+
+Generate an indentifier for the object. 
+
+We use a md5 hash of some string associated with the identifier to generate a unique identifier that we use as a primary key. 
+
+Reimplemented in \hyperlink{class_journal_d28269cb6daa116d9c26ad91ee0d08f7}{Journal}, \hyperlink{class_person_67edc8688a6119602b69f4641d14892b}{Person}, and \hyperlink{class_reference_654f7079c3dca7b71d4571a0dd5891f2}{Reference}.\hypertarget{class_object_28c07f4c361d113e21a934718c1edcc5}{
+\index{Object@{Object}!GetMicroformat@{GetMicroformat}}
+\index{GetMicroformat@{GetMicroformat}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::GetMicroformat ()}}
+\label{class_object_28c07f4c361d113e21a934718c1edcc5}
+
+
+Generate microformat. 
+
+By default include geo location
+
+Tools such as \href{https://addons.mozilla.org/en-US/firefox/addon/4106}{\tt https://addons.mozilla.org/en-US/firefox/addon/4106} can extract microformats. 
+
+Reimplemented in \hyperlink{class_person_706e157885b1f1251a3c9be6992cea66}{Person}.\hypertarget{class_object_bff7e02bed36f0396b0c388bc68f725c}{
+\index{Object@{Object}!GetRss@{GetRss}}
+\index{GetRss@{GetRss}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::GetRss (\$ {\em feed}, \/  \$ {\em item})}}
+\label{class_object_bff7e02bed36f0396b0c388bc68f725c}
+
+
+Create RSS 2.0 item. 
+
+If object is geotagged then we add the locality(s) to the RSS using GeoRSS tags (see \href{http://georss.org/}{\tt http://georss.org/}) \hypertarget{class_object_ad5c98da6f5d954fe8ad17294f9d16ce}{
+\index{Object@{Object}!SetData@{SetData}}
+\index{SetData@{SetData}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::SetData (\$ {\em data})}}
+\label{class_object_ad5c98da6f5d954fe8ad17294f9d16ce}
+
+
+Set object data. 
+
+Used by external routines that fetch data then populate the object
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em data}]PHP object containing attribute namesa and values \end{description}
+\end{Desc}
+\hypertarget{class_object_9a2ddfa89273d2f5e0d192b6c77d3d83}{
+\index{Object@{Object}!Store@{Store}}
+\index{Store@{Store}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::Store (\$ {\em author\_\-id} = {\tt ''}, \/  \$ {\em ip} = {\tt '127.0.0.1'}, \/  \$ {\em comment} = {\tt ''})}}
+\label{class_object_9a2ddfa89273d2f5e0d192b6c77d3d83}
+
+
+Store object in EAV database. 
+
+We generate a unique identifier for the object, test whether the oject already exists in the database, and if it doesn't, we store the object, its attributes, and any associated GUIDs.
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identfiier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+\hypertarget{class_object_bc9a36b7d0f2b7d5f6ac5467a244b7a0}{
+\index{Object@{Object}!StoreAttributes@{StoreAttributes}}
+\index{StoreAttributes@{StoreAttributes}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::StoreAttributes (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_object_bc9a36b7d0f2b7d5f6ac5467a244b7a0}
+
+
+Store object attributes in EAV database. 
+
+Store object attributes as typed data
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identfiier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+\hypertarget{class_object_dedb212835b4a878c89f7682ae11f772}{
+\index{Object@{Object}!StoreGuids@{StoreGuids}}
+\index{StoreGuids@{StoreGuids}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::StoreGuids (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_object_dedb212835b4a878c89f7682ae11f772}
+
+
+Store object GUIDs in EAV database. 
+
+Store object GUIDs
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identfiier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+
+
+Reimplemented in \hyperlink{class_journal_b182da20eb5ceb7d1709e102a4666344}{Journal}, and \hyperlink{class_reference_eb3baaf7d34623479bbeaeccf8bbd070}{Reference}.\hypertarget{class_object_b969bdfbdff62485da5de7e12f1ea68d}{
+\index{Object@{Object}!StoreLinks@{StoreLinks}}
+\index{StoreLinks@{StoreLinks}!Object@{Object}}
+\subsubsection{\setlength{\rightskip}{0pt plus 5cm}Object::StoreLinks (\$ {\em author\_\-id}, \/  \$ {\em ip}, \/  \$ {\em comment})}}
+\label{class_object_b969bdfbdff62485da5de7e12f1ea68d}
+
+
+Store links between this obeject and anny associated objects. 
+
+\begin{Desc}
+\item[Parameters:]
+\begin{description}
+\item[{\em author\_\-id}]Unique identfiier for author or agent storing the object \item[{\em ip}]IP address of author or agent storing the object \item[{\em comment}]Comment describing the edit \end{description}
+\end{Desc}
+
+
+Reimplemented in \hyperlink{class_reference_fdc9cb746064d8934a3cb8b4b7c66ca6}{Reference}.
+
+The documentation for this class was generated from the following file:\begin{CompactItemize}
+\item 
+/Users/rpage/Sites/challenge/\hyperlink{class__object_8php}{class\_\-object.php}\end{CompactItemize}

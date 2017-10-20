@@ -1,0 +1,43 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="AF128501", width=0.27433100247,height=0.27433100247];
+node1 [label="Evolution and phylogenetic information content of mitochondrial genomic structural features...", width=0.27433100247,height=0.27433100247];
+node2 [label="Evaluating trans-tethys migration: an example using acrodont lizard phylogenetics", width=0.27433100247,height=0.27433100247];
+node3 [label="CAS 194476", width=0.27433100247,height=0.27433100247];
+node4 [label="Japalura splendida", width=0.27433100247,height=0.27433100247];
+node5 [label="COI", width=0.27433100247,height=0.27433100247];
+node6 [label="tRNA-Tyr", width=0.27433100247,height=0.27433100247];
+node7 [label="tRNA-Cys", width=0.27433100247,height=0.27433100247];
+node8 [label="tRNA-Asn", width=0.27433100247,height=0.27433100247];
+node9 [label="tRNA-Ala", width=0.27433100247,height=0.27433100247];
+node10 [label="tRNA-Trp", width=0.27433100247,height=0.27433100247];
+node11 [label="NADH dehydrogenase subunit 2", width=0.27433100247,height=0.27433100247];
+node12 [label="ND2", width=0.27433100247,height=0.27433100247];
+node13 [label="tRNA-Met", width=0.27433100247,height=0.27433100247];
+node14 [label="tRNA-Ile", width=0.27433100247,height=0.27433100247];
+node15 [label="tRNA-Gln", width=0.27433100247,height=0.27433100247];
+node16 [label="NADH dehydrogenase subunit 1", width=0.27433100247,height=0.27433100247];
+node17 [label="ND1", width=0.27433100247,height=0.27433100247];
+node18 [label="cytochrome c oxidase subunit I", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="references"];
+node3 -> node0 [label="voucher_for"];
+node0 -> node4 [label="source"];
+node0 -> node5 [label="taggedWithTag"];
+node0 -> node6 [label="taggedWithTag"];
+node0 -> node7 [label="taggedWithTag"];
+node0 -> node8 [label="taggedWithTag"];
+node0 -> node9 [label="taggedWithTag"];
+node0 -> node10 [label="taggedWithTag"];
+node0 -> node11 [label="taggedWithTag"];
+node0 -> node12 [label="taggedWithTag"];
+node0 -> node13 [label="taggedWithTag"];
+node0 -> node14 [label="taggedWithTag"];
+node0 -> node15 [label="taggedWithTag"];
+node0 -> node16 [label="taggedWithTag"];
+node0 -> node17 [label="taggedWithTag"];
+node0 -> node18 [label="taggedWithTag"];
+}
+

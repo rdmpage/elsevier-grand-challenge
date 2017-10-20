@@ -1,0 +1,21 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="PHYLOGEOGRAPHY OF THE TRUMPETFISHES (AULOSTOMUS): RING SPECIES COMPLEX ON A...", width=0.27433100247,height=0.27433100247];
+node1 [label="Phylogenetic relationships among Palearctic and Nearctic burbot (Lota lota): Pleistocene...", width=0.27433100247,height=0.27433100247];
+node2 [label="B W Bowen", width=0.27433100247,height=0.27433100247];
+node3 [label="A L Bass", width=0.27433100247,height=0.27433100247];
+node4 [label="L A Rocha", width=0.27433100247,height=0.27433100247];
+node5 [label="W S Grant", width=0.27433100247,height=0.27433100247];
+node6 [label="D R Robertson", width=0.27433100247,height=0.27433100247];
+node7 [label="Evolution", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node6 -> node0 [label="creator"];
+node0 -> node7 [label="is_part_of"];
+}
+

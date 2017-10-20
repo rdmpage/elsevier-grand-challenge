@@ -1,0 +1,15 @@
+graph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="J M Cook...", width=0.27433100247,height=0.27433100247];
+node1 [label="D Dixon...", width=0.27433100247,height=0.27433100247];
+node2 [label="J Y Rasplus...", width=0.27433100247,height=0.27433100247];
+node3 [label="G D Weiblen...", width=0.27433100247,height=0.27433100247];
+node0 -- node1 [label=""];
+node0 -- node2 [label=""];
+node0 -- node3 [label=""];
+node1 -- node2 [label=""];
+node2 -- node3 [label=""];
+}
+

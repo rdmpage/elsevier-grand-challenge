@@ -1,0 +1,23 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="Gammarus pulex", width=0.27433100247,height=0.27433100247];
+node1 [label="EF570334", width=0.27433100247,height=0.27433100247];
+node2 [label="AF419225", width=0.27433100247,height=0.27433100247];
+node3 [label="EF582978", width=0.27433100247,height=0.27433100247];
+node4 [label="AF202982", width=0.27433100247,height=0.27433100247];
+node5 [label="EF582923", width=0.27433100247,height=0.27433100247];
+node6 [label="AJ269627", width=0.27433100247,height=0.27433100247];
+node7 [label="EF582877", width=0.27433100247,height=0.27433100247];
+node8 [label="AJ269626", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="source"];
+node2 -> node0 [label="source"];
+node3 -> node0 [label="source"];
+node4 -> node0 [label="source"];
+node5 -> node0 [label="source"];
+node6 -> node0 [label="source"];
+node7 -> node0 [label="source"];
+node8 -> node0 [label="source"];
+}
+

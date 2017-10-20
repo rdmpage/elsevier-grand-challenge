@@ -1,0 +1,19 @@
+digraph G {
+size="3,3";
+node [fontsize=7, fontname="Helvetica"];
+edge [fontsize=7, fontname="Helvetica"];
+node0 [label="A molecular phylogeny for the South African limbless lizard taxa...", width=0.27433100247,height=0.27433100247];
+node1 [label="Phylogenetic relationships and limb loss in sub-Saharan African scincine lizards...", width=0.27433100247,height=0.27433100247];
+node2 [label="S Daniels", width=0.27433100247,height=0.27433100247];
+node3 [label="N Heideman", width=0.27433100247,height=0.27433100247];
+node4 [label="M Hendricks", width=0.27433100247,height=0.27433100247];
+node5 [label="B Willson", width=0.27433100247,height=0.27433100247];
+node6 [label="Molecular Phylogenetics and Evolution", width=0.27433100247,height=0.27433100247];
+node1 -> node0 [label="references"];
+node2 -> node0 [label="creator"];
+node3 -> node0 [label="creator"];
+node4 -> node0 [label="creator"];
+node5 -> node0 [label="creator"];
+node0 -> node6 [label="is_part_of"];
+}
+
