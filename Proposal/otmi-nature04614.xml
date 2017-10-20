@@ -1,0 +1,1653 @@
+    <entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns='http://www.w3.org/2005/Atom'>
+      <title>Southern Ocean sea-ice extent, productivity and iron flux over the past eight glacial cycles</title>
+      <id>info:doi/10.1038/nature04614</id>
+      <link href='http://dx.doi.org/10.1038/nature04614' />
+      <published>2006-03-23T00:00:00Z</published>
+      <updated>2006-03-23T00:00:00Z</updated>
+      <author>
+        <name>E. W. Wolff</name>
+      </author>
+      <author>
+        <name>H. Fischer</name>
+      </author>
+      <author>
+        <name>F. Fundel</name>
+      </author>
+      <author>
+        <name>U. Ruth</name>
+      </author>
+      <author>
+        <name>B. Twarloh</name>
+      </author>
+      <author>
+        <name>G. C. Littot</name>
+      </author>
+      <author>
+        <name>R. Mulvaney</name>
+      </author>
+      <author>
+        <name>R. Röthlisberger</name>
+      </author>
+      <author>
+        <name>M. de Angelis</name>
+      </author>
+      <author>
+        <name>C. F. Boutron</name>
+      </author>
+      <author>
+        <name>M. Hansson</name>
+      </author>
+      <author>
+        <name>U. Jonsell</name>
+      </author>
+      <author>
+        <name>M. A. Hutterli</name>
+      </author>
+      <author>
+        <name>F. Lambert</name>
+      </author>
+      <author>
+        <name>P. Kaufmann</name>
+      </author>
+      <author>
+        <name>B. Stauffer</name>
+      </author>
+      <author>
+        <name>T. F. Stocker</name>
+      </author>
+      <author>
+        <name>J. P. Steffensen</name>
+      </author>
+      <author>
+        <name>M. Bigler</name>
+      </author>
+      <author>
+        <name>M. L. Siggaard-Andersen</name>
+      </author>
+      <author>
+        <name>R. Udisti</name>
+      </author>
+      <author>
+        <name>S. Becagli</name>
+      </author>
+      <author>
+        <name>E. Castellano</name>
+      </author>
+      <author>
+        <name>M. Severi</name>
+      </author>
+      <author>
+        <name>D. Wagenbach</name>
+      </author>
+      <author>
+        <name>C. Barbante</name>
+      </author>
+      <author>
+        <name>P. Gabrielli</name>
+      </author>
+      <author>
+        <name>V. Gaspari</name>
+      </author>
+      <rights type='html'>&amp;copy; 2006 Nature Publishing Group</rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:volume>440</prism:volume>
+      <prism:number>7083</prism:number>
+      <prism:startingPage>491</prism:startingPage>
+      <prism:endingPage>496</prism:endingPage>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4679</prism:eIssn>
+      <otmi:data>
+        <otmi:stoplist href='otmi-stoplist.xml' />
+        <otmi:section name='abstract'>
+          <otmi:rawtext>Sea ice and dust flux increased greatly in the Southern Ocean during the last glacial period. Palaeorecords provide contradictory evidence about marine productivity in this region, but beyond one glacial cycle, data were sparse. Here we present continuous chemical proxy data spanning the last eight glacial cycles (740,000 years) from the Dome C Antarctic ice core. These data constrain winter sea-ice extent in the Indian Ocean, Southern Ocean biogenic productivity and Patagonian climatic conditions. We found that maximum sea-ice extent is closely tied to Antarctic temperature on multi-millennial timescales, but less so on shorter timescales. Biological dimethylsulphide emissions south of the polar front seem to have changed little with climate, suggesting that sulphur compounds were not active in climate regulation. We observe large glacial–interglacial contrasts in iron deposition, which we infer reflects strongly changing Patagonian conditions. During glacial terminations, changes in Patagonia apparently preceded sea-ice reduction, indicating that multiple mechanisms may be responsible for different phases of CO 2 increase during glacial terminations. We observe no changes in internal climatic feedbacks that could have caused the change in amplitude of Antarctic temperature variations observed 440,000 years ago.</otmi:rawtext>
+          <otmi:reducedtext>Sea ice dust flux increased greatly Southern Ocean during last glacial period. Palaeorecords provide contradictory evidence about marine productivity region, but beyond one glacial cycle, data sparse. Here present continuous chemical proxy data spanning last eight glacial cycles (740,000 years) Dome C Antarctic ice core. These data constrain winter sea-ice extent Indian Ocean, Southern Ocean biogenic productivity Patagonian climatic conditions. found maximum sea-ice extent closely tied Antarctic temperature multi-millennial timescales, but less so shorter timescales. Biological dimethylsulphide emissions south polar front seem have changed little climate, suggesting sulphur compounds not active climate regulation. observe large glacial–interglacial contrasts iron deposition, which infer reflects strongly changing Patagonian conditions. During glacial terminations, changes Patagonia apparently preceded sea-ice reduction, indicating multiple mechanisms may responsible different phases CO 2 increase during glacial terminations. observe no changes internal climatic feedbacks could have caused change amplitude Antarctic temperature variations observed 440,000 years ago.</otmi:reducedtext>
+          <otmi:vectors>
+            <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+            <otmi:vector count='5'>glacial</otmi:vector>
+            <otmi:vector count='3'>sea-ice</otmi:vector>
+            <otmi:vector count='3'>Antarctic</otmi:vector>
+            <otmi:vector count='3'>Ocean</otmi:vector>
+            <otmi:vector count='3'>data</otmi:vector>
+            <otmi:vector count='2'>changes</otmi:vector>
+            <otmi:vector count='2'>conditions</otmi:vector>
+            <otmi:vector count='2'>last</otmi:vector>
+            <otmi:vector count='2'>have</otmi:vector>
+            <otmi:vector count='2'>during</otmi:vector>
+            <otmi:vector count='2'>temperature</otmi:vector>
+            <otmi:vector count='2'>climatic</otmi:vector>
+            <otmi:vector count='2'>Southern</otmi:vector>
+            <otmi:vector count='2'>Patagonian</otmi:vector>
+            <otmi:vector count='2'>terminations</otmi:vector>
+            <otmi:vector count='2'>productivity</otmi:vector>
+            <otmi:vector count='2'>years</otmi:vector>
+            <otmi:vector count='2'>ice</otmi:vector>
+            <otmi:vector count='2'>extent</otmi:vector>
+            <otmi:vector count='2'>observe</otmi:vector>
+            <otmi:vector count='2'>but</otmi:vector>
+            <otmi:vector count='2'>climate</otmi:vector>
+            <otmi:vector count='2'>timescales</otmi:vector>
+            <otmi:vector count='1'>These</otmi:vector>
+            <otmi:vector count='1'>Palaeorecords</otmi:vector>
+            <otmi:vector count='1'>eight</otmi:vector>
+            <otmi:vector count='1'>continuous</otmi:vector>
+            <otmi:vector count='1'>constrain</otmi:vector>
+            <otmi:vector count='1'>present</otmi:vector>
+            <otmi:vector count='1'>front</otmi:vector>
+            <otmi:vector count='1'>multiple</otmi:vector>
+            <otmi:vector count='1'>caused</otmi:vector>
+            <otmi:vector count='1'>amplitude</otmi:vector>
+            <otmi:vector count='1'>biogenic</otmi:vector>
+            <otmi:vector count='1'>provide</otmi:vector>
+            <otmi:vector count='1'>feedbacks</otmi:vector>
+            <otmi:vector count='1'>Dome</otmi:vector>
+            <otmi:vector count='1'>2</otmi:vector>
+            <otmi:vector count='1'>dimethylsulphide</otmi:vector>
+            <otmi:vector count='1'>so</otmi:vector>
+            <otmi:vector count='1'>may</otmi:vector>
+            <otmi:vector count='1'>region</otmi:vector>
+            <otmi:vector count='1'>cycles</otmi:vector>
+            <otmi:vector count='1'>indicating</otmi:vector>
+            <otmi:vector count='1'>mechanisms</otmi:vector>
+            <otmi:vector count='1'>regulation</otmi:vector>
+            <otmi:vector count='1'>shorter</otmi:vector>
+            <otmi:vector count='1'>changing</otmi:vector>
+            <otmi:vector count='1'>increased</otmi:vector>
+            <otmi:vector count='1'>internal</otmi:vector>
+            <otmi:vector count='1'>one</otmi:vector>
+            <otmi:vector count='1'>chemical</otmi:vector>
+            <otmi:vector count='1'>apparently</otmi:vector>
+            <otmi:vector count='1'>greatly</otmi:vector>
+            <otmi:vector count='1'>large</otmi:vector>
+            <otmi:vector count='1'>change</otmi:vector>
+            <otmi:vector count='1'>evidence</otmi:vector>
+            <otmi:vector count='1'>found</otmi:vector>
+            <otmi:vector count='1'>could</otmi:vector>
+            <otmi:vector count='1'>During</otmi:vector>
+            <otmi:vector count='1'>less</otmi:vector>
+            <otmi:vector count='1'>marine</otmi:vector>
+            <otmi:vector count='1'>sulphur</otmi:vector>
+            <otmi:vector count='1'>period</otmi:vector>
+            <otmi:vector count='1'>iron</otmi:vector>
+            <otmi:vector count='1'>responsible</otmi:vector>
+            <otmi:vector count='1'>proxy</otmi:vector>
+            <otmi:vector count='1'>active</otmi:vector>
+            <otmi:vector count='1'>changed</otmi:vector>
+            <otmi:vector count='1'>sparse</otmi:vector>
+            <otmi:vector count='1'>440,000</otmi:vector>
+            <otmi:vector count='1'>no</otmi:vector>
+            <otmi:vector count='1'>multi-millennial</otmi:vector>
+            <otmi:vector count='1'>CO</otmi:vector>
+            <otmi:vector count='1'>not</otmi:vector>
+            <otmi:vector count='1'>reflects</otmi:vector>
+            <otmi:vector count='1'>little</otmi:vector>
+            <otmi:vector count='1'>deposition</otmi:vector>
+            <otmi:vector count='1'>Here</otmi:vector>
+            <otmi:vector count='1'>closely</otmi:vector>
+            <otmi:vector count='1'>maximum</otmi:vector>
+            <otmi:vector count='1'>observed</otmi:vector>
+            <otmi:vector count='1'>which</otmi:vector>
+            <otmi:vector count='1'>winter</otmi:vector>
+            <otmi:vector count='1'>polar</otmi:vector>
+            <otmi:vector count='1'>phases</otmi:vector>
+            <otmi:vector count='1'>flux</otmi:vector>
+            <otmi:vector count='1'>increase</otmi:vector>
+            <otmi:vector count='1'>contrasts</otmi:vector>
+            <otmi:vector count='1'>740,000</otmi:vector>
+            <otmi:vector count='1'>contradictory</otmi:vector>
+            <otmi:vector count='1'>core</otmi:vector>
+            <otmi:vector count='1'>compounds</otmi:vector>
+            <otmi:vector count='1'>tied</otmi:vector>
+            <otmi:vector count='1'>infer</otmi:vector>
+            <otmi:vector count='1'>cycle</otmi:vector>
+            <otmi:vector count='1'>seem</otmi:vector>
+            <otmi:vector count='1'>glacial–interglacial</otmi:vector>
+            <otmi:vector count='1'>Biological</otmi:vector>
+            <otmi:vector count='1'>south</otmi:vector>
+            <otmi:vector count='1'>suggesting</otmi:vector>
+            <otmi:vector count='1'>C</otmi:vector>
+            <otmi:vector count='1'>dust</otmi:vector>
+            <otmi:vector count='1'>emissions</otmi:vector>
+            <otmi:vector count='1'>about</otmi:vector>
+            <otmi:vector count='1'>different</otmi:vector>
+            <otmi:vector count='1'>beyond</otmi:vector>
+            <otmi:vector count='1'>reduction</otmi:vector>
+            <otmi:vector count='1'>preceded</otmi:vector>
+            <otmi:vector count='1'>variations</otmi:vector>
+            <otmi:vector count='1'>Sea</otmi:vector>
+            <otmi:vector count='1'>Patagonia</otmi:vector>
+            <otmi:vector count='1'>strongly</otmi:vector>
+            <otmi:vector count='1'>ago.</otmi:vector>
+            <otmi:vector count='1'>Indian</otmi:vector>
+            <otmi:vector count='1'>spanning</otmi:vector>
+          </otmi:vectors>
+          <otmi:snippets>
+            <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+            <otmi:snippet>Biological dimethylsulphide emissions south of the polar front seem to have changed little with climate, suggesting that sulphur compounds were not active in climate regulation</otmi:snippet>
+            <otmi:snippet>During glacial terminations, changes in Patagonia apparently preceded sea-ice reduction, indicating that multiple mechanisms may be responsible for different phases of CO 2 increase during glacial terminations</otmi:snippet>
+            <otmi:snippet>Here we present continuous chemical proxy data spanning the last eight glacial cycles (740,000 years) from the Dome C Antarctic ice core</otmi:snippet>
+            <otmi:snippet>Palaeorecords provide contradictory evidence about marine productivity in this region, but beyond one glacial cycle, data were sparse</otmi:snippet>
+            <otmi:snippet>Sea ice and dust flux increased greatly in the Southern Ocean during the last glacial period</otmi:snippet>
+            <otmi:snippet>These data constrain winter sea-ice extent in the Indian Ocean, Southern Ocean biogenic productivity and Patagonian climatic conditions</otmi:snippet>
+            <otmi:snippet>We found that maximum sea-ice extent is closely tied to Antarctic temperature on multi-millennial timescales, but less so on shorter timescales</otmi:snippet>
+            <otmi:snippet>We observe large glacial–interglacial contrasts in iron deposition, which we infer reflects strongly changing Patagonian conditions</otmi:snippet>
+            <otmi:snippet>We observe no changes in internal climatic feedbacks that could have caused the change in amplitude of Antarctic temperature variations observed 440,000 years ago.</otmi:snippet>
+          </otmi:snippets>
+        </otmi:section>
+        <otmi:section name='body'>
+          <otmi:section name='methods'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='9'>IC</otmi:vector>
+              <otmi:vector count='7'>Ca</otmi:vector>
+              <otmi:vector count='7'>m</otmi:vector>
+              <otmi:vector count='7'>2</otmi:vector>
+              <otmi:vector count='7'>data</otmi:vector>
+              <otmi:vector count='6'>between</otmi:vector>
+              <otmi:vector count='6'>samples</otmi:vector>
+              <otmi:vector count='5'>CFA</otmi:vector>
+              <otmi:vector count='5'>using</otmi:vector>
+              <otmi:vector count='5'>Na</otmi:vector>
+              <otmi:vector count='4'>into</otmi:vector>
+              <otmi:vector count='4'>sea</otmi:vector>
+              <otmi:vector count='4'>nssCa</otmi:vector>
+              <otmi:vector count='4'>terrestrial</otmi:vector>
+              <otmi:vector count='4'>ratio</otmi:vector>
+              <otmi:vector count='4'>periods</otmi:vector>
+              <otmi:vector count='4'>water</otmi:vector>
+              <otmi:vector count='4'>SO42</otmi:vector>
+              <otmi:vector count='4'>Fe</otmi:vector>
+              <otmi:vector count='4'>used</otmi:vector>
+              <otmi:vector count='4'>here</otmi:vector>
+              <otmi:vector count='4'>580</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>calculated</otmi:vector>
+              <otmi:vector count='3'>agreement</otmi:vector>
+              <otmi:vector count='3'>glacial</otmi:vector>
+              <otmi:vector count='3'>part</otmi:vector>
+              <otmi:vector count='3'>analysis</otmi:vector>
+              <otmi:vector count='3'>cm</otmi:vector>
+              <otmi:vector count='3'>interglacial</otmi:vector>
+              <otmi:vector count='3'>ssNa</otmi:vector>
+              <otmi:vector count='3'>at</otmi:vector>
+              <otmi:vector count='3'>material</otmi:vector>
+              <otmi:vector count='3'>methods</otmi:vector>
+              <otmi:vector count='3'>but</otmi:vector>
+              <otmi:vector count='3'>latter</otmi:vector>
+              <otmi:vector count='3'>affect</otmi:vector>
+              <otmi:vector count='3'>have</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>time</otmi:vector>
+              <otmi:vector count='3'>discrete</otmi:vector>
+              <otmi:vector count='3'>source</otmi:vector>
+              <otmi:vector count='3'>measured</otmi:vector>
+              <otmi:vector count='3'>5</otmi:vector>
+              <otmi:vector count='2'>device</otmi:vector>
+              <otmi:vector count='2'>contaminated</otmi:vector>
+              <otmi:vector count='2'>interval</otmi:vector>
+              <otmi:vector count='2'>results</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>three</otmi:vector>
+              <otmi:vector count='2'>Fig</otmi:vector>
+              <otmi:vector count='2'>shown</otmi:vector>
+              <otmi:vector count='2'>case</otmi:vector>
+              <otmi:vector count='2'>measurements</otmi:vector>
+              <otmi:vector count='2'>ions</otmi:vector>
+              <otmi:vector count='2'>ice</otmi:vector>
+              <otmi:vector count='2'>outer</otmi:vector>
+              <otmi:vector count='2'>field</otmi:vector>
+              <otmi:vector count='2'>melted</otmi:vector>
+              <otmi:vector count='2'>3.4</otmi:vector>
+              <otmi:vector count='2'>If</otmi:vector>
+              <otmi:vector count='2'>1</otmi:vector>
+              <otmi:vector count='2'>any</otmi:vector>
+              <otmi:vector count='2'>upper</otmi:vector>
+              <otmi:vector count='2'>ratios</otmi:vector>
+              <otmi:vector count='2'>present</otmi:vector>
+              <otmi:vector count='2'>other</otmi:vector>
+              <otmi:vector count='2'>sources</otmi:vector>
+              <otmi:vector count='2'>marine</otmi:vector>
+              <otmi:vector count='2'>weight</otmi:vector>
+              <otmi:vector count='2'>average</otmi:vector>
+              <otmi:vector count='2'>cut</otmi:vector>
+              <otmi:vector count='2'>ultrapure</otmi:vector>
+              <otmi:vector count='2'>concentrations</otmi:vector>
+              <otmi:vector count='2'>crustal</otmi:vector>
+              <otmi:vector count='2'>seen</otmi:vector>
+              <otmi:vector count='2'>EDC2</otmi:vector>
+              <otmi:vector count='2'>averages</otmi:vector>
+              <otmi:vector count='2'>removal</otmi:vector>
+              <otmi:vector count='2'>correction</otmi:vector>
+              <otmi:vector count='2'>rather</otmi:vector>
+              <otmi:vector count='2'>melt</otmi:vector>
+              <otmi:vector count='2'>below</otmi:vector>
+              <otmi:vector count='2'>directly</otmi:vector>
+              <otmi:vector count='2'>proportion</otmi:vector>
+              <otmi:vector count='2'>about</otmi:vector>
+              <otmi:vector count='2'>uncertainty</otmi:vector>
+              <otmi:vector count='2'>layers</otmi:vector>
+              <otmi:vector count='2'>core</otmi:vector>
+              <otmi:vector count='2'>90</otmi:vector>
+              <otmi:vector count='2'>conventional</otmi:vector>
+              <otmi:vector count='2'>does</otmi:vector>
+              <otmi:vector count='2'>system</otmi:vector>
+              <otmi:vector count='2'>salt</otmi:vector>
+              <otmi:vector count='2'>paper</otmi:vector>
+              <otmi:vector count='2'>would</otmi:vector>
+              <otmi:vector count='2'>well</otmi:vector>
+              <otmi:vector count='2'>use</otmi:vector>
+              <otmi:vector count='2'>collected</otmi:vector>
+              <otmi:vector count='2'>derived</otmi:vector>
+              <otmi:vector count='2'>not</otmi:vector>
+              <otmi:vector count='2'>good</otmi:vector>
+              <otmi:vector count='2'>calculate</otmi:vector>
+              <otmi:vector count='2'>vials</otmi:vector>
+              <otmi:vector count='1'>occasionally</otmi:vector>
+              <otmi:vector count='1'>later</otmi:vector>
+              <otmi:vector count='1'>cold</otmi:vector>
+              <otmi:vector count='1'>possible</otmi:vector>
+              <otmi:vector count='1'>acid</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>could</otmi:vector>
+              <otmi:vector count='1'>excellent</otmi:vector>
+              <otmi:vector count='1'>had</otmi:vector>
+              <otmi:vector count='1'>nor</otmi:vector>
+              <otmi:vector count='1'>cent</otmi:vector>
+              <otmi:vector count='1'>nitric</otmi:vector>
+              <otmi:vector count='1'>0.038</otmi:vector>
+              <otmi:vector count='1'>(but</otmi:vector>
+              <otmi:vector count='1'>beyond</otmi:vector>
+              <otmi:vector count='1'>significantly</otmi:vector>
+              <otmi:vector count='1'>spectrometrically</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>fed</otmi:vector>
+              <otmi:vector count='1'>points</otmi:vector>
+              <otmi:vector count='1'>representing</otmi:vector>
+              <otmi:vector count='1'>chromatography</otmi:vector>
+              <otmi:vector count='1'>lower</otmi:vector>
+              <otmi:vector count='1'>sections</otmi:vector>
+              <otmi:vector count='1'>better</otmi:vector>
+              <otmi:vector count='1'>sample</otmi:vector>
+              <otmi:vector count='1'>choice</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>70</otmi:vector>
+              <otmi:vector count='1'>Precision</otmi:vector>
+              <otmi:vector count='1'>averaged</otmi:vector>
+              <otmi:vector count='1'>long</otmi:vector>
+              <otmi:vector count='1'>18</otmi:vector>
+              <otmi:vector count='1'>0.25</otmi:vector>
+              <otmi:vector count='1'>reasonable</otmi:vector>
+              <otmi:vector count='1'>different</otmi:vector>
+              <otmi:vector count='1'>consist</otmi:vector>
+              <otmi:vector count='1'>marker</otmi:vector>
+              <otmi:vector count='1'>section</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>some</otmi:vector>
+              <otmi:vector count='1'>accumulation</otmi:vector>
+              <otmi:vector count='1'>ion</otmi:vector>
+              <otmi:vector count='1'>element</otmi:vector>
+              <otmi:vector count='1'>anything</otmi:vector>
+              <otmi:vector count='1'>problem</otmi:vector>
+              <otmi:vector count='1'>insoluble</otmi:vector>
+              <otmi:vector count='1'>may</otmi:vector>
+              <otmi:vector count='1'>larger</otmi:vector>
+              <otmi:vector count='1'>0.1</otmi:vector>
+              <otmi:vector count='1'>close</otmi:vector>
+              <otmi:vector count='1'>melting</otmi:vector>
+              <otmi:vector count='1'>highly</otmi:vector>
+              <otmi:vector count='1'>assuming</otmi:vector>
+              <otmi:vector count='1'>around</otmi:vector>
+              <otmi:vector count='1'>0–580</otmi:vector>
+              <otmi:vector count='1'>leading</otmi:vector>
+              <otmi:vector count='1'>before</otmi:vector>
+              <otmi:vector count='1'>interglacials</otmi:vector>
+              <otmi:vector count='1'>sector</otmi:vector>
+              <otmi:vector count='1'>detection</otmi:vector>
+              <otmi:vector count='1'>flux</otmi:vector>
+              <otmi:vector count='1'>2.2</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>which</otmi:vector>
+              <otmi:vector count='1'>led</otmi:vector>
+              <otmi:vector count='1'>sulphate</otmi:vector>
+              <otmi:vector count='1'>passing</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>strip</otmi:vector>
+              <otmi:vector count='1'>prefer</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>arise</otmi:vector>
+              <otmi:vector count='1'>h</otmi:vector>
+              <otmi:vector count='1'>rates</otmi:vector>
+              <otmi:vector count='1'>left</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>comparison</otmi:vector>
+              <otmi:vector count='1'>Some</otmi:vector>
+              <otmi:vector count='1'>sea-salt</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>dust</otmi:vector>
+              <otmi:vector count='1'>widely</otmi:vector>
+              <otmi:vector count='1'>higher</otmi:vector>
+              <otmi:vector count='1'>actually</otmi:vector>
+              <otmi:vector count='1'>also</otmi:vector>
+              <otmi:vector count='1'>per</otmi:vector>
+              <otmi:vector count='1'>individual</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>traditionally</otmi:vector>
+              <otmi:vector count='1'>hereafter</otmi:vector>
+              <otmi:vector count='1'>Major</otmi:vector>
+              <otmi:vector count='1'>European</otmi:vector>
+              <otmi:vector count='1'>method—again</otmi:vector>
+              <otmi:vector count='1'>much</otmi:vector>
+              <otmi:vector count='1'>acidified</otmi:vector>
+              <otmi:vector count='1'>even</otmi:vector>
+              <otmi:vector count='1'>derive</otmi:vector>
+              <otmi:vector count='1'>conclusions</otmi:vector>
+              <otmi:vector count='1'>covering</otmi:vector>
+              <otmi:vector count='1'>often</otmi:vector>
+              <otmi:vector count='1'>Although</otmi:vector>
+              <otmi:vector count='1'>washings</otmi:vector>
+              <otmi:vector count='1'>repeat</otmi:vector>
+              <otmi:vector count='1'>no</otmi:vector>
+              <otmi:vector count='1'>inductively</otmi:vector>
+              <otmi:vector count='1'>few</otmi:vector>
+              <otmi:vector count='1'>main</otmi:vector>
+              <otmi:vector count='1'>only</otmi:vector>
+              <otmi:vector count='1'>reason</otmi:vector>
+              <otmi:vector count='1'>suitable</otmi:vector>
+              <otmi:vector count='1'>27</otmi:vector>
+              <otmi:vector count='1'>low</otmi:vector>
+              <otmi:vector count='1'>1,038</otmi:vector>
+              <otmi:vector count='1'>kyr</otmi:vector>
+              <otmi:vector count='1'>contrast</otmi:vector>
+              <otmi:vector count='1'>ICP-SFMS</otmi:vector>
+              <otmi:vector count='1'>Ice-core</otmi:vector>
+              <otmi:vector count='1'>measure</otmi:vector>
+              <otmi:vector count='1'>stand</otmi:vector>
+              <otmi:vector count='1'>None</otmi:vector>
+              <otmi:vector count='1'>flow</otmi:vector>
+              <otmi:vector count='1'>plasma</otmi:vector>
+              <otmi:vector count='1'>exception</otmi:vector>
+              <otmi:vector count='1'>subtracting</otmi:vector>
+              <otmi:vector count='1'>can</otmi:vector>
+              <otmi:vector count='1'>shape</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>spaced</otmi:vector>
+              <otmi:vector count='1'>more</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>paper.</otmi:vector>
+              <otmi:vector count='1'>aerosols</otmi:vector>
+              <otmi:vector count='1'>mass</otmi:vector>
+              <otmi:vector count='1'>falls</otmi:vector>
+              <otmi:vector count='1'>refs</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>nss</otmi:vector>
+              <otmi:vector count='1'>suggested</otmi:vector>
+              <otmi:vector count='1'>shows</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>fast-IC</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>4</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>24</otmi:vector>
+              <otmi:vector count='1'>crust</otmi:vector>
+              <otmi:vector count='1'>continuous</otmi:vector>
+              <otmi:vector count='1'>depth</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>smaller</otmi:vector>
+              <otmi:vector count='1'>timescale</otmi:vector>
+              <otmi:vector count='1'>analysed</otmi:vector>
+              <otmi:vector count='1'>lowest</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>fluxes</otmi:vector>
+              <otmi:vector count='1'>authors</otmi:vector>
+              <otmi:vector count='1'>substantial</otmi:vector>
+              <otmi:vector count='1'>therefore</otmi:vector>
+              <otmi:vector count='1'>owing</otmi:vector>
+              <otmi:vector count='1'>components</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>cumulative</otmi:vector>
+              <otmi:vector count='1'>our</otmi:vector>
+              <otmi:vector count='1'>incomplete</otmi:vector>
+              <otmi:vector count='1'>inner</otmi:vector>
+              <otmi:vector count='1'>Na-rich</otmi:vector>
+              <otmi:vector count='1'>clays</otmi:vector>
+              <otmi:vector count='1'>variable</otmi:vector>
+              <otmi:vector count='1'>been</otmi:vector>
+              <otmi:vector count='1'>after</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>onto</otmi:vector>
+              <otmi:vector count='1'>various</otmi:vector>
+              <otmi:vector count='1'>compared</otmi:vector>
+              <otmi:vector count='1'>depleted</otmi:vector>
+              <otmi:vector count='1'>spectrometry</otmi:vector>
+              <otmi:vector count='1'>averaging</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>sea-ice</otmi:vector>
+              <otmi:vector count='1'>series</otmi:vector>
+              <otmi:vector count='1'>figure</otmi:vector>
+              <otmi:vector count='1'>Samples</otmi:vector>
+              <otmi:vector count='1'>they</otmi:vector>
+              <otmi:vector count='1'>1.1</otmi:vector>
+              <otmi:vector count='1'>However</otmi:vector>
+              <otmi:vector count='1'>devices</otmi:vector>
+              <otmi:vector count='1'>hotplate</otmi:vector>
+              <otmi:vector count='1'>first</otmi:vector>
+              <otmi:vector count='1'>although</otmi:vector>
+              <otmi:vector count='1'>nssSO</otmi:vector>
+              <otmi:vector count='1'>decontaminated</otmi:vector>
+              <otmi:vector count='1'>fact</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>surface</otmi:vector>
+              <otmi:vector count='1'>least</otmi:vector>
+              <otmi:vector count='1'>increments</otmi:vector>
+              <otmi:vector count='1'>1.78</otmi:vector>
+              <otmi:vector count='1'>pH</otmi:vector>
+              <otmi:vector count='1'>described</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>laboratory</otmi:vector>
+              <otmi:vector count='1'>Methods</otmi:vector>
+              <otmi:vector count='1'>than</otmi:vector>
+              <otmi:vector count='1'>estimated</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A comparison between the two methods shows excellent agreement, but hereafter conventional IC data are used</otmi:snippet>
+              <otmi:snippet>Although the latter figure could be highly variable between different terrestrial sources, leading to a substantial uncertainty in ssNa, previous authors have suggested that this is the most suitable ratio to use</otmi:snippet>
+              <otmi:snippet>Fe was measured on 1,038 discrete samples using inductively coupled plasma sector field mass spectrometry (ICP-SFMS)</otmi:snippet>
+              <otmi:snippet>For the IC measurements, samples were collected as the cumulative melt or cut from anything between 5 cm to 1.1 m of ice, and in Fig. 1 we present averages of 2.2 m increments</otmi:snippet>
+              <otmi:snippet>However, if the main source of sea salt is actually the sea-ice surface, then this source is depleted in sulphate compared to sea water, with a ratio close to 0.1 (refs 17 , 18 )</otmi:snippet>
+              <otmi:snippet>Ice-core sections 5 cm long were decontaminated by three repeat washings in ultrapure water to remove 60% of the material, acidified to pH 1 with ultrapure nitric acid, and then left to stand for at least 24 h before analysis </otmi:snippet>
+              <otmi:snippet>If the crustal source material is dominated by marine clays or other Na-rich material the correction would be larger</otmi:snippet>
+              <otmi:snippet>If we had used crustal ratios with Fe as the terrestrial marker element, the correction would have been smaller</otmi:snippet>
+              <otmi:snippet>In any case, no reasonable ratios affect the shape of the derived time series, nor the conclusions of this paper</otmi:snippet>
+              <otmi:snippet>In glacial periods, about 90% of Ca is from terrestrial sources, but the proportion can be much lower in interglacials. nss SO42- was first derived by subtracting the sea-salt part, traditionally calculated by using ssNa, along with the weight ratio of SO42- /Na in sea water (0.25)</otmi:snippet>
+              <otmi:snippet>In the latter case, a 3.4 × 3.4 cm strip of ice was melted onto a hotplate (either in the field or in a European cold laboratory) , and part of the melt from the inner part of the core was led directly to various detection devices (in a continuous flow analysis (CFA) system), or fed into vials for later IC analysis</otmi:snippet>
+              <otmi:snippet>It is for this reason that we prefer to use nssCa for most of the paper</otmi:snippet>
+              <otmi:snippet>Methods Major ions presented here (Na + , Ca 2+ , SO42- ) were measured using IC (ion chromatography), with an estimated uncertainty on individual measurements of better than 5% (but rather higher at the lowest concentrations seen in interglacial periods) </otmi:snippet>
+              <otmi:snippet>None of the three methods described here is likely to measure the insoluble fraction of terrestrial dust</otmi:snippet>
+              <otmi:snippet>Of the components shown here, Na + and Ca 2+ were determined spectrometrically using the CFA system as well as by IC</otmi:snippet>
+              <otmi:snippet>On average we calculate that about 90% of Na is from sea salt, although the proportion occasionally falls below 70% in glacial periods</otmi:snippet>
+              <otmi:snippet>Precision is around 20% for interglacial and 10% for glacial samples</otmi:snippet>
+              <otmi:snippet>SO42- was measured by passing some of the CFA water directly into a fast-IC device , as well as by conventional IC</otmi:snippet>
+              <otmi:snippet>Samples from 0–580 m depth were cut into discrete samples from a section of the core after removal of the contaminated outer layers, melted and analysed; below 580 m, they were collected into sample vials using a melting device</otmi:snippet>
+              <otmi:snippet>Some of the detailed differences between nssCa and Fe arise from the fact that the nssCa data are averaged from samples covering most of the averaging interval, in contrast to the Fe data</otmi:snippet>
+              <otmi:snippet>The discrete samples are rather widely spaced, so that the time averages seen in Fig. 2 often consist of one or more data points representing only a few per cent of the time interval</otmi:snippet>
+              <otmi:snippet>The exception is for Ca 2+ in the upper 580 m, for which the IC data may be slightly contaminated owing to possible incomplete removal of outer layers</otmi:snippet>
+              <otmi:snippet>The results shown here are from IC, but good agreement between methods is generally found </otmi:snippet>
+              <otmi:snippet>The timescale is EDC2 (ref. 6 ), and the accumulation rates used to calculate flux also derive from EDC2</otmi:snippet>
+              <otmi:snippet>This problem does not affect any other ions, and we found good agreement between IC and CFA Ca 2+ data, even at the low concentrations found in interglacial periods, beyond 580 m</otmi:snippet>
+              <otmi:snippet>We calculated ssNa and nssCa assuming a Ca/Na weight ratio of 0.038 for marine aerosols and 1.78 for the average crust </otmi:snippet>
+              <otmi:snippet>We have therefore used the CFA Ca 2+ data for the upper 580 m (27 kyr)</otmi:snippet>
+              <otmi:snippet>We present nssSO 4 2- fluxes calculated with the latter method—again, our choice does not significantly affect the results of this paper.</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+          <otmi:section name='other'>
+            <otmi:vectors>
+              <otmi:splitregex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:splitregex>
+              <otmi:vector count='37'>at</otmi:vector>
+              <otmi:vector count='31'>flux</otmi:vector>
+              <otmi:vector count='25'>changes</otmi:vector>
+              <otmi:vector count='25'>kyr</otmi:vector>
+              <otmi:vector count='24'>sea</otmi:vector>
+              <otmi:vector count='21'>source</otmi:vector>
+              <otmi:vector count='21'>record</otmi:vector>
+              <otmi:vector count='21'>have</otmi:vector>
+              <otmi:vector count='20'>change</otmi:vector>
+              <otmi:vector count='19'>between</otmi:vector>
+              <otmi:vector count='18'>has</otmi:vector>
+              <otmi:vector count='18'>been</otmi:vector>
+              <otmi:vector count='18'>also</otmi:vector>
+              <otmi:vector count='18'>climate</otmi:vector>
+              <otmi:vector count='15'>salt</otmi:vector>
+              <otmi:vector count='15'>DMS</otmi:vector>
+              <otmi:vector count='15'>SO42</otmi:vector>
+              <otmi:vector count='15'>glacial</otmi:vector>
+              <otmi:vector count='14'>during</otmi:vector>
+              <otmi:vector count='14'>Antarctica</otmi:vector>
+              <otmi:vector count='14'>Dome</otmi:vector>
+              <otmi:vector count='14'>sea-ice</otmi:vector>
+              <otmi:vector count='13'>Fig</otmi:vector>
+              <otmi:vector count='13'>Antarctic</otmi:vector>
+              <otmi:vector count='13'>marine</otmi:vector>
+              <otmi:vector count='13'>2</otmi:vector>
+              <otmi:vector count='13'>about</otmi:vector>
+              <otmi:vector count='13'>dust</otmi:vector>
+              <otmi:vector count='12'>transport</otmi:vector>
+              <otmi:vector count='12'>not</otmi:vector>
+              <otmi:vector count='12'>extent</otmi:vector>
+              <otmi:vector count='12'>periods</otmi:vector>
+              <otmi:vector count='12'>C</otmi:vector>
+              <otmi:vector count='11'>but</otmi:vector>
+              <otmi:vector count='11'>no</otmi:vector>
+              <otmi:vector count='11'>very</otmi:vector>
+              <otmi:vector count='11'>snow</otmi:vector>
+              <otmi:vector count='11'>ice</otmi:vector>
+              <otmi:vector count='11'>terrestrial</otmi:vector>
+              <otmi:vector count='11'>increased</otmi:vector>
+              <otmi:vector count='11'>these</otmi:vector>
+              <otmi:vector count='11'>production</otmi:vector>
+              <otmi:vector count='11'>nssCa</otmi:vector>
+              <otmi:vector count='11'>main</otmi:vector>
+              <otmi:vector count='10'>our</otmi:vector>
+              <otmi:vector count='10'>mainly</otmi:vector>
+              <otmi:vector count='10'>conditions</otmi:vector>
+              <otmi:vector count='10'>present</otmi:vector>
+              <otmi:vector count='10'>aerosol</otmi:vector>
+              <otmi:vector count='9'>Patagonian</otmi:vector>
+              <otmi:vector count='9'>period</otmi:vector>
+              <otmi:vector count='9'>LGM</otmi:vector>
+              <otmi:vector count='9'>data</otmi:vector>
+              <otmi:vector count='9'>MS</otmi:vector>
+              <otmi:vector count='9'>concentrations</otmi:vector>
+              <otmi:vector count='9'>than</otmi:vector>
+              <otmi:vector count='9'>interglacials</otmi:vector>
+              <otmi:vector count='8'>Fe</otmi:vector>
+              <otmi:vector count='8'>Ocean</otmi:vector>
+              <otmi:vector count='8'>only</otmi:vector>
+              <otmi:vector count='8'>temperature</otmi:vector>
+              <otmi:vector count='8'>deposition</otmi:vector>
+              <otmi:vector count='8'>see</otmi:vector>
+              <otmi:vector count='8'>Na</otmi:vector>
+              <otmi:vector count='7'>ssNa</otmi:vector>
+              <otmi:vector count='7'>maximum</otmi:vector>
+              <otmi:vector count='7'>constant</otmi:vector>
+              <otmi:vector count='7'>would</otmi:vector>
+              <otmi:vector count='7'>although</otmi:vector>
+              <otmi:vector count='7'>which</otmi:vector>
+              <otmi:vector count='7'>atmospheric</otmi:vector>
+              <otmi:vector count='7'>sector</otmi:vector>
+              <otmi:vector count='7'>shelf</otmi:vector>
+              <otmi:vector count='7'>evidence</otmi:vector>
+              <otmi:vector count='7'>recent</otmi:vector>
+              <otmi:vector count='7'>continental</otmi:vector>
+              <otmi:vector count='7'>significant</otmi:vector>
+              <otmi:vector count='7'>CO</otmi:vector>
+              <otmi:vector count='7'>south</otmi:vector>
+              <otmi:vector count='7'>concentration</otmi:vector>
+              <otmi:vector count='7'>therefore</otmi:vector>
+              <otmi:vector count='6'>interglacial</otmi:vector>
+              <otmi:vector count='6'>higher</otmi:vector>
+              <otmi:vector count='6'>seen</otmi:vector>
+              <otmi:vector count='6'>nss</otmi:vector>
+              <otmi:vector count='6'>should</otmi:vector>
+              <otmi:vector count='6'>Patagonia</otmi:vector>
+              <otmi:vector count='6'>representing</otmi:vector>
+              <otmi:vector count='6'>last</otmi:vector>
+              <otmi:vector count='6'>when</otmi:vector>
+              <otmi:vector count='6'>440</otmi:vector>
+              <otmi:vector count='6'>both</otmi:vector>
+              <otmi:vector count='6'>deuterium</otmi:vector>
+              <otmi:vector count='6'>probably</otmi:vector>
+              <otmi:vector count='6'>part</otmi:vector>
+              <otmi:vector count='6'>new</otmi:vector>
+              <otmi:vector count='6'>bp</otmi:vector>
+              <otmi:vector count='6'>throughout</otmi:vector>
+              <otmi:vector count='6'>due</otmi:vector>
+              <otmi:vector count='6'>result</otmi:vector>
+              <otmi:vector count='6'>biogenic</otmi:vector>
+              <otmi:vector count='6'>influence</otmi:vector>
+              <otmi:vector count='6'>S</otmi:vector>
+              <otmi:vector count='6'>can</otmi:vector>
+              <otmi:vector count='6'>material</otmi:vector>
+              <otmi:vector count='6'>iron</otmi:vector>
+              <otmi:vector count='6'>740</otmi:vector>
+              <otmi:vector count='6'>suggest</otmi:vector>
+              <otmi:vector count='6'>conclude</otmi:vector>
+              <otmi:vector count='5'>strength</otmi:vector>
+              <otmi:vector count='5'>winter</otmi:vector>
+              <otmi:vector count='5'>timescales</otmi:vector>
+              <otmi:vector count='5'>related</otmi:vector>
+              <otmi:vector count='5'>there</otmi:vector>
+              <otmi:vector count='5'>Southern</otmi:vector>
+              <otmi:vector count='5'>emissions</otmi:vector>
+              <otmi:vector count='5'>feedback</otmi:vector>
+              <otmi:vector count='5'>studies</otmi:vector>
+              <otmi:vector count='5'>level</otmi:vector>
+              <otmi:vector count='5'>factors</otmi:vector>
+              <otmi:vector count='5'>through</otmi:vector>
+              <otmi:vector count='5'>fertilization</otmi:vector>
+              <otmi:vector count='5'>pattern</otmi:vector>
+              <otmi:vector count='5'>compared</otmi:vector>
+              <otmi:vector count='5'>values</otmi:vector>
+              <otmi:vector count='5'>occurred</otmi:vector>
+              <otmi:vector count='5'>use</otmi:vector>
+              <otmi:vector count='5'>APF</otmi:vector>
+              <otmi:vector count='5'>each</otmi:vector>
+              <otmi:vector count='5'>productivity</otmi:vector>
+              <otmi:vector count='5'>ice-core</otmi:vector>
+              <otmi:vector count='5'>such</otmi:vector>
+              <otmi:vector count='5'>their</otmi:vector>
+              <otmi:vector count='5'>chemical</otmi:vector>
+              <otmi:vector count='5'>accumulation</otmi:vector>
+              <otmi:vector count='5'>suggests</otmi:vector>
+              <otmi:vector count='5'>value</otmi:vector>
+              <otmi:vector count='4'>later</otmi:vector>
+              <otmi:vector count='4'>around</otmi:vector>
+              <otmi:vector count='4'>sources</otmi:vector>
+              <otmi:vector count='4'>input</otmi:vector>
+              <otmi:vector count='4'>large</otmi:vector>
+              <otmi:vector count='4'>sites</otmi:vector>
+              <otmi:vector count='4'>role</otmi:vector>
+              <otmi:vector count='4'>similar</otmi:vector>
+              <otmi:vector count='4'>cold</otmi:vector>
+              <otmi:vector count='4'>despite</otmi:vector>
+              <otmi:vector count='4'>strong</otmi:vector>
+              <otmi:vector count='4'>some</otmi:vector>
+              <otmi:vector count='4'>continuous</otmi:vector>
+              <otmi:vector count='4'>low</otmi:vector>
+              <otmi:vector count='4'>Supplementary</otmi:vector>
+              <otmi:vector count='4'>over</otmi:vector>
+              <otmi:vector count='4'>more</otmi:vector>
+              <otmi:vector count='4'>may</otmi:vector>
+              <otmi:vector count='4'>fluxes</otmi:vector>
+              <otmi:vector count='4'>must</otmi:vector>
+              <otmi:vector count='4'>emission</otmi:vector>
+              <otmi:vector count='4'>amplitude</otmi:vector>
+              <otmi:vector count='4'>transition</otmi:vector>
+              <otmi:vector count='4'>increases</otmi:vector>
+              <otmi:vector count='4'>South</otmi:vector>
+              <otmi:vector count='4'>least</otmi:vector>
+              <otmi:vector count='4'>first</otmi:vector>
+              <otmi:vector count='4'>reduction</otmi:vector>
+              <otmi:vector count='4'>relationship</otmi:vector>
+              <otmi:vector count='4'>Information</otmi:vector>
+              <otmi:vector count='4'>However</otmi:vector>
+              <otmi:vector count='4'>could</otmi:vector>
+              <otmi:vector count='4'>Vostok</otmi:vector>
+              <otmi:vector count='4'>background</otmi:vector>
+              <otmi:vector count='4'>3</otmi:vector>
+              <otmi:vector count='4'>changing</otmi:vector>
+              <otmi:vector count='4'>Methods</otmi:vector>
+              <otmi:vector count='4'>activity</otmi:vector>
+              <otmi:vector count='3'>glacial–interglacial</otmi:vector>
+              <otmi:vector count='3'>summer</otmi:vector>
+              <otmi:vector count='3'>Indian</otmi:vector>
+              <otmi:vector count='3'>ocean</otmi:vector>
+              <otmi:vector count='3'>occurs</otmi:vector>
+              <otmi:vector count='3'>interpretation</otmi:vector>
+              <otmi:vector count='3'>shows</otmi:vector>
+              <otmi:vector count='3'>1</otmi:vector>
+              <otmi:vector count='3'>rate</otmi:vector>
+              <otmi:vector count='3'>modelling</otmi:vector>
+              <otmi:vector count='3'>any</otmi:vector>
+              <otmi:vector count='3'>greater</otmi:vector>
+              <otmi:vector count='3'>lower</otmi:vector>
+              <otmi:vector count='3'>close</otmi:vector>
+              <otmi:vector count='3'>often</otmi:vector>
+              <otmi:vector count='3'>strongly</otmi:vector>
+              <otmi:vector count='3'>attributed</otmi:vector>
+              <otmi:vector count='3'>north</otmi:vector>
+              <otmi:vector count='3'>most</otmi:vector>
+              <otmi:vector count='3'>much</otmi:vector>
+              <otmi:vector count='3'>spikes</otmi:vector>
+              <otmi:vector count='3'>chemistry</otmi:vector>
+              <otmi:vector count='3'>past</otmi:vector>
+              <otmi:vector count='3'>within</otmi:vector>
+              <otmi:vector count='3'>contrast</otmi:vector>
+              <otmi:vector count='3'>proxy</otmi:vector>
+              <otmi:vector count='3'>dominant</otmi:vector>
+              <otmi:vector count='3'>leading</otmi:vector>
+              <otmi:vector count='3'>America</otmi:vector>
+              <otmi:vector count='3'>general</otmi:vector>
+              <otmi:vector count='3'>core</otmi:vector>
+              <otmi:vector count='3'>particularly</otmi:vector>
+              <otmi:vector count='3'>cannot</otmi:vector>
+              <otmi:vector count='3'>while</otmi:vector>
+              <otmi:vector count='3'>other</otmi:vector>
+              <otmi:vector count='3'>single</otmi:vector>
+              <otmi:vector count='3'>into</otmi:vector>
+              <otmi:vector count='3'>rather</otmi:vector>
+              <otmi:vector count='3'>different</otmi:vector>
+              <otmi:vector count='3'>environmental</otmi:vector>
+              <otmi:vector count='3'>region</otmi:vector>
+              <otmi:vector count='3'>almost</otmi:vector>
+              <otmi:vector count='3'>Termination</otmi:vector>
+              <otmi:vector count='3'>time</otmi:vector>
+              <otmi:vector count='3'>parameters</otmi:vector>
+              <otmi:vector count='3'>reaching</otmi:vector>
+              <otmi:vector count='3'>profiles</otmi:vector>
+              <otmi:vector count='3'>had</otmi:vector>
+              <otmi:vector count='3'>process</otmi:vector>
+              <otmi:vector count='3'>central</otmi:vector>
+              <otmi:vector count='3'>representative</otmi:vector>
+              <otmi:vector count='3'>relevant</otmi:vector>
+              <otmi:vector count='3'>discussions</otmi:vector>
+              <otmi:vector count='3'>Marine</otmi:vector>
+              <otmi:vector count='3'>rates</otmi:vector>
+              <otmi:vector count='3'>half</otmi:vector>
+              <otmi:vector count='3'>does</otmi:vector>
+              <otmi:vector count='3'>significantly</otmi:vector>
+              <otmi:vector count='3'>measurements</otmi:vector>
+              <otmi:vector count='3'>termination</otmi:vector>
+              <otmi:vector count='3'>exposed</otmi:vector>
+              <otmi:vector count='3'>closely</otmi:vector>
+              <otmi:vector count='3'>cycles</otmi:vector>
+              <otmi:vector count='3'>longer</otmi:vector>
+              <otmi:vector count='3'>few</otmi:vector>
+              <otmi:vector count='3'>might</otmi:vector>
+              <otmi:vector count='3'>used</otmi:vector>
+              <otmi:vector count='3'>There</otmi:vector>
+              <otmi:vector count='3'>double</otmi:vector>
+              <otmi:vector count='3'>below</otmi:vector>
+              <otmi:vector count='3'>found</otmi:vector>
+              <otmi:vector count='3'>transitions</otmi:vector>
+              <otmi:vector count='3'>Holocene</otmi:vector>
+              <otmi:vector count='3'>seems</otmi:vector>
+              <otmi:vector count='3'>major</otmi:vector>
+              <otmi:vector count='3'>components</otmi:vector>
+              <otmi:vector count='3'>biological</otmi:vector>
+              <otmi:vector count='3'>represented</otmi:vector>
+              <otmi:vector count='3'>high</otmi:vector>
+              <otmi:vector count='3'>because</otmi:vector>
+              <otmi:vector count='3'>sulphate</otmi:vector>
+              <otmi:vector count='3'>they</otmi:vector>
+              <otmi:vector count='3'>changed</otmi:vector>
+              <otmi:vector count='3'>quoted</otmi:vector>
+              <otmi:vector count='3'>740-kyr</otmi:vector>
+              <otmi:vector count='3'>even</otmi:vector>
+              <otmi:vector count='3'>including</otmi:vector>
+              <otmi:vector count='3'>small</otmi:vector>
+              <otmi:vector count='3'>before</otmi:vector>
+              <otmi:vector count='3'>earlier</otmi:vector>
+              <otmi:vector count='2'>important</otmi:vector>
+              <otmi:vector count='2'>cause</otmi:vector>
+              <otmi:vector count='2'>marker</otmi:vector>
+              <otmi:vector count='2'>further</otmi:vector>
+              <otmi:vector count='2'>characterized</otmi:vector>
+              <otmi:vector count='2'>cyclonic</otmi:vector>
+              <otmi:vector count='2'>coastal</otmi:vector>
+              <otmi:vector count='2'>synchronous</otmi:vector>
+              <otmi:vector count='2'>detail</otmi:vector>
+              <otmi:vector count='2'>among</otmi:vector>
+              <otmi:vector count='2'>giving</otmi:vector>
+              <otmi:vector count='2'>assumed</otmi:vector>
+              <otmi:vector count='2'>many</otmi:vector>
+              <otmi:vector count='2'>all</otmi:vector>
+              <otmi:vector count='2'>terminations</otmi:vector>
+              <otmi:vector count='2'>estimated</otmi:vector>
+              <otmi:vector count='2'>moisture</otmi:vector>
+              <otmi:vector count='2'>note</otmi:vector>
+              <otmi:vector count='2'>clearly</otmi:vector>
+              <otmi:vector count='2'>circulation</otmi:vector>
+              <otmi:vector count='2'>tens</otmi:vector>
+              <otmi:vector count='2'>Iron</otmi:vector>
+              <otmi:vector count='2'>cycle</otmi:vector>
+              <otmi:vector count='2'>suggested</otmi:vector>
+              <otmi:vector count='2'>isotope</otmi:vector>
+              <otmi:vector count='2'>calculated</otmi:vector>
+              <otmi:vector count='2'>variability</otmi:vector>
+              <otmi:vector count='2'>assessing</otmi:vector>
+              <otmi:vector count='2'>better</otmi:vector>
+              <otmi:vector count='2'>annual</otmi:vector>
+              <otmi:vector count='2'>V</otmi:vector>
+              <otmi:vector count='2'>sea-salt</otmi:vector>
+              <otmi:vector count='2'>exposure</otmi:vector>
+              <otmi:vector count='2'>tied</otmi:vector>
+              <otmi:vector count='2'>Because</otmi:vector>
+              <otmi:vector count='2'>proxies</otmi:vector>
+              <otmi:vector count='2'>dry</otmi:vector>
+              <otmi:vector count='2'>present-day</otmi:vector>
+              <otmi:vector count='2'>acid</otmi:vector>
+              <otmi:vector count='2'>budget</otmi:vector>
+              <otmi:vector count='2'>422</otmi:vector>
+              <otmi:vector count='2'>model</otmi:vector>
+              <otmi:vector count='2'>feedbacks</otmi:vector>
+              <otmi:vector count='2'>MIS16</otmi:vector>
+              <otmi:vector count='2'>NssCa</otmi:vector>
+              <otmi:vector count='2'>producers</otmi:vector>
+              <otmi:vector count='2'>using</otmi:vector>
+              <otmi:vector count='2'>Our</otmi:vector>
+              <otmi:vector count='2'>Ice</otmi:vector>
+              <otmi:vector count='2'>suitable</otmi:vector>
+              <otmi:vector count='2'>climatic</otmi:vector>
+              <otmi:vector count='2'>maxima</otmi:vector>
+              <otmi:vector count='2'>non-sea-salt</otmi:vector>
+              <otmi:vector count='2'>assumptions</otmi:vector>
+              <otmi:vector count='2'>open-water</otmi:vector>
+              <otmi:vector count='2'>observed</otmi:vector>
+              <otmi:vector count='2'>point</otmi:vector>
+              <otmi:vector count='2'>distance</otmi:vector>
+              <otmi:vector count='2'>providing</otmi:vector>
+              <otmi:vector count='2'>post-depositional</otmi:vector>
+              <otmi:vector count='2'>less</otmi:vector>
+              <otmi:vector count='2'>reflects</otmi:vector>
+              <otmi:vector count='2'>Recently</otmi:vector>
+              <otmi:vector count='2'>per</otmi:vector>
+              <otmi:vector count='2'>case</otmi:vector>
+              <otmi:vector count='2'>D</otmi:vector>
+              <otmi:vector count='2'>rest</otmi:vector>
+              <otmi:vector count='2'>mechanisms</otmi:vector>
+              <otmi:vector count='2'>where</otmi:vector>
+              <otmi:vector count='2'>area</otmi:vector>
+              <otmi:vector count='2'>export</otmi:vector>
+              <otmi:vector count='2'>derived</otmi:vector>
+              <otmi:vector count='2'>cores</otmi:vector>
+              <otmi:vector count='2'>possible</otmi:vector>
+              <otmi:vector count='2'>methanesulphonic</otmi:vector>
+              <otmi:vector count='2'>above</otmi:vector>
+              <otmi:vector count='2'>fact</otmi:vector>
+              <otmi:vector count='2'>based</otmi:vector>
+              <otmi:vector count='2'>external</otmi:vector>
+              <otmi:vector count='2'>approximately</otmi:vector>
+              <otmi:vector count='2'>aridity</otmi:vector>
+              <otmi:vector count='2'>its</otmi:vector>
+              <otmi:vector count='2'>sensitive</otmi:vector>
+              <otmi:vector count='2'>active</otmi:vector>
+              <otmi:vector count='2'>volcanic</otmi:vector>
+              <otmi:vector count='2'>increase</otmi:vector>
+              <otmi:vector count='2'>coldest</otmi:vector>
+              <otmi:vector count='2'>location</otmi:vector>
+              <otmi:vector count='2'>remained</otmi:vector>
+              <otmi:vector count='2'>Model</otmi:vector>
+              <otmi:vector count='2'>causes</otmi:vector>
+              <otmi:vector count='2'>stable</otmi:vector>
+              <otmi:vector count='2'>remarkably</otmi:vector>
+              <otmi:vector count='2'>way</otmi:vector>
+              <otmi:vector count='2'>correspondence</otmi:vector>
+              <otmi:vector count='2'>profile</otmi:vector>
+              <otmi:vector count='2'>forcing</otmi:vector>
+              <otmi:vector count='2'>42</otmi:vector>
+              <otmi:vector count='2'>under</otmi:vector>
+              <otmi:vector count='2'>peak</otmi:vector>
+              <otmi:vector count='2'>wind</otmi:vector>
+              <otmi:vector count='2'>led</otmi:vector>
+              <otmi:vector count='2'>water</otmi:vector>
+              <otmi:vector count='2'>meridional</otmi:vector>
+              <otmi:vector count='2'>several</otmi:vector>
+              <otmi:vector count='2'>yr</otmi:vector>
+              <otmi:vector count='2'>expected</otmi:vector>
+              <otmi:vector count='2'>organisms</otmi:vector>
+              <otmi:vector count='2'>limited</otmi:vector>
+              <otmi:vector count='2'>Although</otmi:vector>
+              <otmi:vector count='2'>multimillennial</otmi:vector>
+              <otmi:vector count='2'>oxidation</otmi:vector>
+              <otmi:vector count='2'>surface</otmi:vector>
+              <otmi:vector count='2'>interpretations</otmi:vector>
+              <otmi:vector count='2'>play</otmi:vector>
+              <otmi:vector count='2'>Sea</otmi:vector>
+              <otmi:vector count='2'>atmosphere</otmi:vector>
+              <otmi:vector count='2'>then</otmi:vector>
+              <otmi:vector count='2'>those</otmi:vector>
+              <otmi:vector count='2'>how</otmi:vector>
+              <otmi:vector count='2'>implies</otmi:vector>
+              <otmi:vector count='2'>remaining</otmi:vector>
+              <otmi:vector count='2'>Fuji</otmi:vector>
+              <otmi:vector count='2'>continent</otmi:vector>
+              <otmi:vector count='2'>yet</otmi:vector>
+              <otmi:vector count='2'>remains</otmi:vector>
+              <otmi:vector count='2'>Ca</otmi:vector>
+              <otmi:vector count='2'>example</otmi:vector>
+              <otmi:vector count='2'>timing</otmi:vector>
+              <otmi:vector count='2'>4</otmi:vector>
+              <otmi:vector count='2'>implying</otmi:vector>
+              <otmi:vector count='2'>cent</otmi:vector>
+              <otmi:vector count='2'>factor</otmi:vector>
+              <otmi:vector count='2'>good</otmi:vector>
+              <otmi:vector count='2'>oceanic</otmi:vector>
+              <otmi:vector count='1'>averaged</otmi:vector>
+              <otmi:vector count='1'>replicated</otmi:vector>
+              <otmi:vector count='1'>addition</otmi:vector>
+              <otmi:vector count='1'>50</otmi:vector>
+              <otmi:vector count='1'>geochemical</otmi:vector>
+              <otmi:vector count='1'>dealing</otmi:vector>
+              <otmi:vector count='1'>comparisons</otmi:vector>
+              <otmi:vector count='1'>climate-dust</otmi:vector>
+              <otmi:vector count='1'>coupled</otmi:vector>
+              <otmi:vector count='1'>Phaeocystis</otmi:vector>
+              <otmi:vector count='1'>Project</otmi:vector>
+              <otmi:vector count='1'>Australia</otmi:vector>
+              <otmi:vector count='1'>Such</otmi:vector>
+              <otmi:vector count='1'>interpreted</otmi:vector>
+              <otmi:vector count='1'>widely</otmi:vector>
+              <otmi:vector count='1'>latest</otmi:vector>
+              <otmi:vector count='1'>6</otmi:vector>
+              <otmi:vector count='1'>55</otmi:vector>
+              <otmi:vector count='1'>drilled</otmi:vector>
+              <otmi:vector count='1'>resolution</otmi:vector>
+              <otmi:vector count='1'>millennial</otmi:vector>
+              <otmi:vector count='1'>aspects</otmi:vector>
+              <otmi:vector count='1'>heavily</otmi:vector>
+              <otmi:vector count='1'>already</otmi:vector>
+              <otmi:vector count='1'>Unfortunately</otmi:vector>
+              <otmi:vector count='1'>decisive</otmi:vector>
+              <otmi:vector count='1'>precipitation</otmi:vector>
+              <otmi:vector count='1'>show</otmi:vector>
+              <otmi:vector count='1'>dynamics</otmi:vector>
+              <otmi:vector count='1'>showing</otmi:vector>
+              <otmi:vector count='1'>metals</otmi:vector>
+              <otmi:vector count='1'>volcanism—the</otmi:vector>
+              <otmi:vector count='1'>ratios</otmi:vector>
+              <otmi:vector count='1'>Major</otmi:vector>
+              <otmi:vector count='1'>attempt</otmi:vector>
+              <otmi:vector count='1'>If</otmi:vector>
+              <otmi:vector count='1'>proportion</otmi:vector>
+              <otmi:vector count='1'>60</otmi:vector>
+              <otmi:vector count='1'>called</otmi:vector>
+              <otmi:vector count='1'>stage</otmi:vector>
+              <otmi:vector count='1'>vegetation</otmi:vector>
+              <otmi:vector count='1'>removing</otmi:vector>
+              <otmi:vector count='1'>describe</otmi:vector>
+              <otmi:vector count='1'>anthropogenic</otmi:vector>
+              <otmi:vector count='1'>derives</otmi:vector>
+              <otmi:vector count='1'>system</otmi:vector>
+              <otmi:vector count='1'>14–12</otmi:vector>
+              <otmi:vector count='1'>products</otmi:vector>
+              <otmi:vector count='1'>three</otmi:vector>
+              <otmi:vector count='1'>differences</otmi:vector>
+              <otmi:vector count='1'>LGM–Holocene</otmi:vector>
+              <otmi:vector count='1'>date</otmi:vector>
+              <otmi:vector count='1'>seasonally</otmi:vector>
+              <otmi:vector count='1'>mass</otmi:vector>
+              <otmi:vector count='1'>unless</otmi:vector>
+              <otmi:vector count='1'>climate–sea-ice</otmi:vector>
+              <otmi:vector count='1'>inputs</otmi:vector>
+              <otmi:vector count='1'>m</otmi:vector>
+              <otmi:vector count='1'>implied</otmi:vector>
+              <otmi:vector count='1'>out</otmi:vector>
+              <otmi:vector count='1'>provide</otmi:vector>
+              <otmi:vector count='1'>influencing</otmi:vector>
+              <otmi:vector count='1'>fraction</otmi:vector>
+              <otmi:vector count='1'>appear</otmi:vector>
+              <otmi:vector count='1'>amount</otmi:vector>
+              <otmi:vector count='1'>dimethylsulphide</otmi:vector>
+              <otmi:vector count='1'>explanation</otmi:vector>
+              <otmi:vector count='1'>study</otmi:vector>
+              <otmi:vector count='1'>06</otmi:vector>
+              <otmi:vector count='1'>calibration</otmi:vector>
+              <otmi:vector count='1'>indicator</otmi:vector>
+              <otmi:vector count='1'>sodium</otmi:vector>
+              <otmi:vector count='1'>inland</otmi:vector>
+              <otmi:vector count='1'>suffers</otmi:vector>
+              <otmi:vector count='1'>areas</otmi:vector>
+              <otmi:vector count='1'>According</otmi:vector>
+              <otmi:vector count='1'>will</otmi:vector>
+              <otmi:vector count='1'>non-volcanic</otmi:vector>
+              <otmi:vector count='1'>route</otmi:vector>
+              <otmi:vector count='1'>Fluxes</otmi:vector>
+              <otmi:vector count='1'>figures</otmi:vector>
+              <otmi:vector count='1'>unlikely</otmi:vector>
+              <otmi:vector count='1'>chromatography</otmi:vector>
+              <otmi:vector count='1'>remarkable</otmi:vector>
+              <otmi:vector count='1'>variables</otmi:vector>
+              <otmi:vector count='1'>order</otmi:vector>
+              <otmi:vector count='1'>3,233</otmi:vector>
+              <otmi:vector count='1'>overcome</otmi:vector>
+              <otmi:vector count='1'>nearest</otmi:vector>
+              <otmi:vector count='1'>45</otmi:vector>
+              <otmi:vector count='1'>travel</otmi:vector>
+              <otmi:vector count='1'>deglaciation</otmi:vector>
+              <otmi:vector count='1'>ionic</otmi:vector>
+              <otmi:vector count='1'>75</otmi:vector>
+              <otmi:vector count='1'>shown</otmi:vector>
+              <otmi:vector count='1'>exactly</otmi:vector>
+              <otmi:vector count='1'>removed</otmi:vector>
+              <otmi:vector count='1'>origin</otmi:vector>
+              <otmi:vector count='1'>Here</otmi:vector>
+              <otmi:vector count='1'>residence</otmi:vector>
+              <otmi:vector count='1'>uplift</otmi:vector>
+              <otmi:vector count='1'>frost</otmi:vector>
+              <otmi:vector count='1'>look</otmi:vector>
+              <otmi:vector count='1'>likely</otmi:vector>
+              <otmi:vector count='1'>inception</otmi:vector>
+              <otmi:vector count='1'>argued</otmi:vector>
+              <otmi:vector count='1'>impact</otmi:vector>
+              <otmi:vector count='1'>given</otmi:vector>
+              <otmi:vector count='1'>together</otmi:vector>
+              <otmi:vector count='1'>late</otmi:vector>
+              <otmi:vector count='1'>give</otmi:vector>
+              <otmi:vector count='1'>High</otmi:vector>
+              <otmi:vector count='1'>Using</otmi:vector>
+              <otmi:vector count='1'>depleted</otmi:vector>
+              <otmi:vector count='1'>rule</otmi:vector>
+              <otmi:vector count='1'>affect</otmi:vector>
+              <otmi:vector count='1'>rapidly</otmi:vector>
+              <otmi:vector count='1'>Mechanisms</otmi:vector>
+              <otmi:vector count='1'>did</otmi:vector>
+              <otmi:vector count='1'>signature</otmi:vector>
+              <otmi:vector count='1'>time-resolved</otmi:vector>
+              <otmi:vector count='1'>particle</otmi:vector>
+              <otmi:vector count='1'>considerably</otmi:vector>
+              <otmi:vector count='1'>analogy</otmi:vector>
+              <otmi:vector count='1'>cloud</otmi:vector>
+              <otmi:vector count='1'>being</otmi:vector>
+              <otmi:vector count='1'>self-regulation</otmi:vector>
+              <otmi:vector count='1'>Estimates</otmi:vector>
+              <otmi:vector count='1'>dominated</otmi:vector>
+              <otmi:vector count='1'>element</otmi:vector>
+              <otmi:vector count='1'>overall</otmi:vector>
+              <otmi:vector count='1'>continents</otmi:vector>
+              <otmi:vector count='1'>fills</otmi:vector>
+              <otmi:vector count='1'>serve</otmi:vector>
+              <otmi:vector count='1'>transformations</otmi:vector>
+              <otmi:vector count='1'>situation</otmi:vector>
+              <otmi:vector count='1'>moved</otmi:vector>
+              <otmi:vector count='1'>weak</otmi:vector>
+              <otmi:vector count='1'>sublimation</otmi:vector>
+              <otmi:vector count='1'>leads</otmi:vector>
+              <otmi:vector count='1'>challenged</otmi:vector>
+              <otmi:vector count='1'>Very</otmi:vector>
+              <otmi:vector count='1'>Climate</otmi:vector>
+              <otmi:vector count='1'>p.p.m.v</otmi:vector>
+              <otmi:vector count='1'>discussed</otmi:vector>
+              <otmi:vector count='1'>considered</otmi:vector>
+              <otmi:vector count='1'>imply</otmi:vector>
+              <otmi:vector count='1'>unspecified</otmi:vector>
+              <otmi:vector count='1'>short-lived</otmi:vector>
+              <otmi:vector count='1'>determined</otmi:vector>
+              <otmi:vector count='1'>grounds</otmi:vector>
+              <otmi:vector count='1'>preferred</otmi:vector>
+              <otmi:vector count='1'>re-flooded</otmi:vector>
+              <otmi:vector count='1'>loss</otmi:vector>
+              <otmi:vector count='1'>extreme</otmi:vector>
+              <otmi:vector count='1'>internal</otmi:vector>
+              <otmi:vector count='1'>glacier</otmi:vector>
+              <otmi:vector count='1'>18–15</otmi:vector>
+              <otmi:vector count='1'>same</otmi:vector>
+              <otmi:vector count='1'>without</otmi:vector>
+              <otmi:vector count='1'>define</otmi:vector>
+              <otmi:vector count='1'>linkage</otmi:vector>
+              <otmi:vector count='1'>occur</otmi:vector>
+              <otmi:vector count='1'>740,000</otmi:vector>
+              <otmi:vector count='1'>key</otmi:vector>
+              <otmi:vector count='1'>insoluble</otmi:vector>
+              <otmi:vector count='1'>slightly</otmi:vector>
+              <otmi:vector count='1'>quantitative</otmi:vector>
+              <otmi:vector count='1'>test</otmi:vector>
+              <otmi:vector count='1'>nutrient</otmi:vector>
+              <otmi:vector count='1'>models</otmi:vector>
+              <otmi:vector count='1'>metres</otmi:vector>
+              <otmi:vector count='1'>All</otmi:vector>
+              <otmi:vector count='1'>circumstantial</otmi:vector>
+              <otmi:vector count='1'>represent</otmi:vector>
+              <otmi:vector count='1'>high-plateau</otmi:vector>
+              <otmi:vector count='1'>ref</otmi:vector>
+              <otmi:vector count='1'>hence</otmi:vector>
+              <otmi:vector count='1'>fossil</otmi:vector>
+              <otmi:vector count='1'>sea-level</otmi:vector>
+              <otmi:vector count='1'>EPICA</otmi:vector>
+              <otmi:vector count='1'>responsible</otmi:vector>
+              <otmi:vector count='1'>halves</otmi:vector>
+              <otmi:vector count='1'>Coring</otmi:vector>
+              <otmi:vector count='1'>investigate</otmi:vector>
+              <otmi:vector count='1'>entire</otmi:vector>
+              <otmi:vector count='1'>Phasing</otmi:vector>
+              <otmi:vector count='1'>diatom</otmi:vector>
+              <otmi:vector count='1'>100</otmi:vector>
+              <otmi:vector count='1'>conclusion</otmi:vector>
+              <otmi:vector count='1'>Deuterium</otmi:vector>
+              <otmi:vector count='1'>fixation</otmi:vector>
+              <otmi:vector count='1'>emphasized</otmi:vector>
+              <otmi:vector count='1'>speed</otmi:vector>
+              <otmi:vector count='1'>implications</otmi:vector>
+              <otmi:vector count='1'>one</otmi:vector>
+              <otmi:vector count='1'>Sodium</otmi:vector>
+              <otmi:vector count='1'>responded</otmi:vector>
+              <otmi:vector count='1'>vary</otmi:vector>
+              <otmi:vector count='1'>followed</otmi:vector>
+              <otmi:vector count='1'>downward</otmi:vector>
+              <otmi:vector count='1'>apparently</otmi:vector>
+              <otmi:vector count='1'>10</otmi:vector>
+              <otmi:vector count='1'>stratosphere</otmi:vector>
+              <otmi:vector count='1'>mechanism</otmi:vector>
+              <otmi:vector count='1'>objective</otmi:vector>
+              <otmi:vector count='1'>need</otmi:vector>
+              <otmi:vector count='1'>available</otmi:vector>
+              <otmi:vector count='1'>fractionation</otmi:vector>
+              <otmi:vector count='1'>428</otmi:vector>
+              <otmi:vector count='1'>seasonal</otmi:vector>
+              <otmi:vector count='1'>minima</otmi:vector>
+              <otmi:vector count='1'>positive</otmi:vector>
+              <otmi:vector count='1'>troposphere</otmi:vector>
+              <otmi:vector count='1'>question</otmi:vector>
+              <otmi:vector count='1'>intermittent</otmi:vector>
+              <otmi:vector count='1'>largest</otmi:vector>
+              <otmi:vector count='1'>gases</otmi:vector>
+              <otmi:vector count='1'>plausible</otmi:vector>
+              <otmi:vector count='1'>events</otmi:vector>
+              <otmi:vector count='1'>upper</otmi:vector>
+              <otmi:vector count='1'>426</otmi:vector>
+              <otmi:vector count='1'>westerlies</otmi:vector>
+              <otmi:vector count='1'>measure</otmi:vector>
+              <otmi:vector count='1'>showed</otmi:vector>
+              <otmi:vector count='1'>stages</otmi:vector>
+              <otmi:vector count='1'>en</otmi:vector>
+              <otmi:vector count='1'>brine</otmi:vector>
+              <otmi:vector count='1'>cancel</otmi:vector>
+              <otmi:vector count='1'>just</otmi:vector>
+              <otmi:vector count='1'>(nss</otmi:vector>
+              <otmi:vector count='1'>representing—at</otmi:vector>
+              <otmi:vector count='1'>modelled</otmi:vector>
+              <otmi:vector count='1'>varying</otmi:vector>
+              <otmi:vector count='1'>burden</otmi:vector>
+              <otmi:vector count='1'>generally</otmi:vector>
+              <otmi:vector count='1'>intensified</otmi:vector>
+              <otmi:vector count='1'>enhanced</otmi:vector>
+              <otmi:vector count='1'>effects</otmi:vector>
+              <otmi:vector count='1'>425–422</otmi:vector>
+              <otmi:vector count='1'>ten</otmi:vector>
+              <otmi:vector count='1'>little</otmi:vector>
+              <otmi:vector count='1'>negligible</otmi:vector>
+              <otmi:vector count='1'>approximate</otmi:vector>
+              <otmi:vector count='1'>E</otmi:vector>
+              <otmi:vector count='1'>primarily</otmi:vector>
+              <otmi:vector count='1'>Assuming</otmi:vector>
+              <otmi:vector count='1'>agreement</otmi:vector>
+              <otmi:vector count='1'>along</otmi:vector>
+              <otmi:vector count='1'>size</otmi:vector>
+              <otmi:vector count='1'>remove</otmi:vector>
+              <otmi:vector count='1'>Both</otmi:vector>
+              <otmi:vector count='1'>themselves</otmi:vector>
+              <otmi:vector count='1'>glaciation</otmi:vector>
+              <otmi:vector count='1'>edge</otmi:vector>
+              <otmi:vector count='1'>previous</otmi:vector>
+              <otmi:vector count='1'>snowpits</otmi:vector>
+              <otmi:vector count='1'>complete</otmi:vector>
+              <otmi:vector count='1'>Therefore</otmi:vector>
+              <otmi:vector count='1'>surrounding</otmi:vector>
+              <otmi:vector count='1'>simply</otmi:vector>
+              <otmi:vector count='1'>losses</otmi:vector>
+              <otmi:vector count='1'>evaporative</otmi:vector>
+              <otmi:vector count='1'>123</otmi:vector>
+              <otmi:vector count='1'>coverage</otmi:vector>
+              <otmi:vector count='1'>shorter</otmi:vector>
+              <otmi:vector count='1'>tracer</otmi:vector>
+              <otmi:vector count='1'>certainly</otmi:vector>
+              <otmi:vector count='1'>presented</otmi:vector>
+              <otmi:vector count='1'>obvious</otmi:vector>
+              <otmi:vector count='1'>nearby</otmi:vector>
+              <otmi:vector count='1'>knowledge</otmi:vector>
+              <otmi:vector count='1'>30</otmi:vector>
+              <otmi:vector count='1'>part—changes</otmi:vector>
+              <otmi:vector count='1'>similarly</otmi:vector>
+              <otmi:vector count='1'>records</otmi:vector>
+              <otmi:vector count='1'>make</otmi:vector>
+              <otmi:vector count='1'>100,000-year</otmi:vector>
+              <otmi:vector count='1'>glacials</otmi:vector>
+              <otmi:vector count='1'>American</otmi:vector>
+              <otmi:vector count='1'>fortuitously</otmi:vector>
+              <otmi:vector count='1'>halved</otmi:vector>
+              <otmi:vector count='1'>understanding</otmi:vector>
+              <otmi:vector count='1'>ceases</otmi:vector>
+              <otmi:vector count='1'>curve</otmi:vector>
+              <otmi:vector count='1'>distinguish</otmi:vector>
+              <otmi:vector count='1'>variations</otmi:vector>
+              <otmi:vector count='1'>sheet</otmi:vector>
+              <otmi:vector count='1'>estimates</otmi:vector>
+              <otmi:vector count='1'>uncertainty</otmi:vector>
+              <otmi:vector count='1'>424</otmi:vector>
+              <otmi:vector count='1'>emphasis</otmi:vector>
+              <otmi:vector count='1'>particular</otmi:vector>
+              <otmi:vector count='1'>extending</otmi:vector>
+              <otmi:vector count='1'>intermediate</otmi:vector>
+              <otmi:vector count='1'>recently</otmi:vector>
+              <otmi:vector count='1'>depletion</otmi:vector>
+              <otmi:vector count='1'>2-kyr</otmi:vector>
+              <otmi:vector count='1'>indicates</otmi:vector>
+              <otmi:vector count='1'>polar</otmi:vector>
+              <otmi:vector count='1'>Methanesulphonate</otmi:vector>
+              <otmi:vector count='1'>range</otmi:vector>
+              <otmi:vector count='1'>previously</otmi:vector>
+              <otmi:vector count='1'>information</otmi:vector>
+              <otmi:vector count='1'>Nitrate</otmi:vector>
+              <otmi:vector count='1'>MIS12</otmi:vector>
+              <otmi:vector count='1'>product</otmi:vector>
+              <otmi:vector count='1'>doubled</otmi:vector>
+              <otmi:vector count='1'>proposed</otmi:vector>
+              <otmi:vector count='1'>brine-soaked</otmi:vector>
+              <otmi:vector count='1'>eruptive</otmi:vector>
+              <otmi:vector count='1'>total</otmi:vector>
+              <otmi:vector count='1'>MIS15</otmi:vector>
+              <otmi:vector count='1'>625–623</otmi:vector>
+              <otmi:vector count='1'>I</otmi:vector>
+              <otmi:vector count='1'>assume</otmi:vector>
+              <otmi:vector count='1'>SO</otmi:vector>
+              <otmi:vector count='1'>choice</otmi:vector>
+              <otmi:vector count='1'>Previously</otmi:vector>
+              <otmi:vector count='1'>year-round</otmi:vector>
+              <otmi:vector count='1'>if</otmi:vector>
+              <otmi:vector count='1'>drawdown</otmi:vector>
+              <otmi:vector count='1'>specifically</otmi:vector>
+              <otmi:vector count='1'>latter</otmi:vector>
+              <otmi:vector count='1'>scavenging</otmi:vector>
+              <otmi:vector count='1'>method</otmi:vector>
+              <otmi:vector count='1'>rise</otmi:vector>
+              <otmi:vector count='1'>European</otmi:vector>
+              <otmi:vector count='1'>analogous</otmi:vector>
+              <otmi:vector count='1'>700</otmi:vector>
+              <otmi:vector count='1'>indicate</otmi:vector>
+              <otmi:vector count='1'>parallel</otmi:vector>
+              <otmi:vector count='1'>effect</otmi:vector>
+              <otmi:vector count='1'>become</otmi:vector>
+              <otmi:vector count='1'>warm</otmi:vector>
+              <otmi:vector count='1'>more-detailed</otmi:vector>
+              <otmi:vector count='1'>stratospheric</otmi:vector>
+              <otmi:vector count='1'>precedes</otmi:vector>
+              <otmi:vector count='1'>tentative</otmi:vector>
+              <otmi:vector count='1'>modern</otmi:vector>
+              <otmi:vector count='1'>deeper</otmi:vector>
+              <otmi:vector count='1'>altitude</otmi:vector>
+              <otmi:vector count='1'>420</otmi:vector>
+              <otmi:vector count='1'>nitrate</otmi:vector>
+              <otmi:vector count='1'>eight</otmi:vector>
+              <otmi:vector count='1'>limiting</otmi:vector>
+              <otmi:vector count='1'>allowing</otmi:vector>
+              <otmi:vector count='1'>station</otmi:vector>
+              <otmi:vector count='1'>second</otmi:vector>
+              <otmi:vector count='1'>comes</otmi:vector>
+              <otmi:vector count='1'>causing</otmi:vector>
+              <otmi:vector count='1'>front</otmi:vector>
+              <otmi:vector count='1'>salts</otmi:vector>
+              <otmi:vector count='1'>highlighted</otmi:vector>
+              <otmi:vector count='1'>whole</otmi:vector>
+              <otmi:vector count='1'>threshold</otmi:vector>
+              <otmi:vector count='1'>entirely</otmi:vector>
+              <otmi:vector count='1'>diffuse</otmi:vector>
+              <otmi:vector count='1'>benthic</otmi:vector>
+              <otmi:vector count='1'>contrasts</otmi:vector>
+              <otmi:vector count='1'>sulphur</otmi:vector>
+              <otmi:vector count='1'>volatile</otmi:vector>
+              <otmi:vector count='1'>Volcanic</otmi:vector>
+              <otmi:vector count='1'>nuclei</otmi:vector>
+              <otmi:vector count='1'>came</otmi:vector>
+              <otmi:vector count='1'>illustrated</otmi:vector>
+              <otmi:vector count='1'>428–424</otmi:vector>
+              <otmi:vector count='1'>Winter</otmi:vector>
+              <otmi:vector count='1'>however</otmi:vector>
+              <otmi:vector count='1'>characteristic</otmi:vector>
+              <otmi:vector count='1'>though</otmi:vector>
+              <otmi:vector count='1'>either</otmi:vector>
+              <otmi:vector count='1'>(2</otmi:vector>
+              <otmi:vector count='1'>two</otmi:vector>
+              <otmi:vector count='1'>temperatures</otmi:vector>
+              <otmi:vector count='1'>features</otmi:vector>
+              <otmi:vector count='1'>believed</otmi:vector>
+              <otmi:vector count='1'>(3</otmi:vector>
+              <otmi:vector count='1'>component</otmi:vector>
+              <otmi:vector count='1'>depend</otmi:vector>
+              <otmi:vector count='1'>lead</otmi:vector>
+              <otmi:vector count='1'>sets</otmi:vector>
+              <otmi:vector count='1'>against</otmi:vector>
+              <otmi:vector count='1'>arriving</otmi:vector>
+              <otmi:vector count='1'>identified</otmi:vector>
+              <otmi:vector count='1'>drier</otmi:vector>
+              <otmi:vector count='1'>so</otmi:vector>
+              <otmi:vector count='1'>robust</otmi:vector>
+              <otmi:vector count='1'>relatively</otmi:vector>
+              <otmi:vector count='1'>climate.</otmi:vector>
+              <otmi:vector count='1'>precede</otmi:vector>
+              <otmi:vector count='1'>condensation</otmi:vector>
+              <otmi:vector count='1'>fast</otmi:vector>
+              <otmi:vector count='1'>well</otmi:vector>
+              <otmi:vector count='1'>Despite</otmi:vector>
+              <otmi:vector count='1'>1–3</otmi:vector>
+              <otmi:vector count='1'>eventually</otmi:vector>
+              <otmi:vector count='1'>stays</otmi:vector>
+              <otmi:vector count='1'>ions</otmi:vector>
+              <otmi:vector count='1'>slow</otmi:vector>
+              <otmi:vector count='1'>inconsistent</otmi:vector>
+              <otmi:vector count='1'>negative</otmi:vector>
+              <otmi:vector count='1'>noted</otmi:vector>
+              <otmi:vector count='1'>processes</otmi:vector>
+              <otmi:vector count='1'>glaciations</otmi:vector>
+              <otmi:vector count='1'>MIS)18.4</otmi:vector>
+              <otmi:vector count='1'>phasing</otmi:vector>
+              <otmi:vector count='1'>thus</otmi:vector>
+              <otmi:vector count='1'>parts</otmi:vector>
+              <otmi:vector count='1'>minimum</otmi:vector>
+              <otmi:vector count='1'>dominate</otmi:vector>
+              <otmi:vector count='1'>amplify</otmi:vector>
+              <otmi:vector count='1'>link</otmi:vector>
+              <otmi:vector count='1'>neutral</otmi:vector>
+              <otmi:vector count='1'>Sea-ice</otmi:vector>
+              <otmi:vector count='1'>21</otmi:vector>
+              <otmi:vector count='1'>preserved</otmi:vector>
+              <otmi:vector count='1'>early</otmi:vector>
+              <otmi:vector count='1'>greenhouse</otmi:vector>
+              <otmi:vector count='1'>glacial-period</otmi:vector>
+              <otmi:vector count='1'>Part</otmi:vector>
+              <otmi:vector count='1'>cooler</otmi:vector>
+              <otmi:vector count='1'>410</otmi:vector>
+              <otmi:vector count='1'>falls</otmi:vector>
+              <otmi:vector count='1'>Quaternary</otmi:vector>
+              <otmi:vector count='1'>applies</otmi:vector>
+              <otmi:vector count='1'>20</otmi:vector>
+              <otmi:vector count='1'>depending</otmi:vector>
+              <otmi:vector count='1'>non-volatile</otmi:vector>
+              <otmi:vector count='1'>flooding</otmi:vector>
+              <otmi:vector count='1'>needed</otmi:vector>
+              <otmi:vector count='1'>opposite</otmi:vector>
+              <otmi:vector count='1'>leave</otmi:vector>
+              <otmi:vector count='1'>reduced</otmi:vector>
+              <otmi:vector count='1'>oxygen</otmi:vector>
+              <otmi:vector count='1'>Finally</otmi:vector>
+              <otmi:vector count='1'>dominance</otmi:vector>
+              <otmi:vector count='1'>fine</otmi:vector>
+              <otmi:vector count='1'>acids</otmi:vector>
+              <otmi:vector count='1'>oxidized</otmi:vector>
+              <otmi:vector count='1'>analysis</otmi:vector>
+              <otmi:vector count='1'>decrease</otmi:vector>
+              <otmi:vector count='1'>nonlinear</otmi:vector>
+              <otmi:vector count='1'>629–625</otmi:vector>
+              <otmi:vector count='1'>detailed</otmi:vector>
+              <otmi:vector count='1'>altered</otmi:vector>
+              <otmi:vector count='1'>short</otmi:vector>
+              <otmi:vector count='1'>regions</otmi:vector>
+              <otmi:vector count='1'>instead</otmi:vector>
+              <otmi:vector count='1'>taken</otmi:vector>
+              <otmi:vector count='1'>ion</otmi:vector>
+              <otmi:vector count='1'>average</otmi:vector>
+              <otmi:vector count='1'>Defining</otmi:vector>
+              <otmi:vector count='1'>surfaces</otmi:vector>
+              <otmi:vector count='1'>holds</otmi:vector>
+              <otmi:vector count='1'>compounds</otmi:vector>
+              <otmi:vector count='1'>Atlantic</otmi:vector>
+              <otmi:vector count='1'>flowers</otmi:vector>
+              <otmi:vector count='1'>Nonetheless</otmi:vector>
+              <otmi:vector count='1'>indicative</otmi:vector>
+              <otmi:vector count='1'>adding</otmi:vector>
+              <otmi:vector count='1'>Flooding</otmi:vector>
+              <otmi:vector count='1'>suggestion</otmi:vector>
+              <otmi:vector count='1'>Most</otmi:vector>
+              <otmi:vector count='1'>17</otmi:vector>
+              <otmi:vector count='1'>magnitude</otmi:vector>
+              <otmi:vector count='1'>recognize</otmi:vector>
+              <otmi:vector count='1'>unique</otmi:vector>
+              <otmi:vector count='1'>calcium</otmi:vector>
+            </otmi:vectors>
+            <otmi:snippets>
+              <otmi:splitregex>(?-mix:\.\s+(?=[A-Z]))</otmi:splitregex>
+              <otmi:snippet>A process of sublimation at the Antarctic snow surface was proposed , but this should not lead to fractionation</otmi:snippet>
+              <otmi:snippet>A recent model study suggested that, south of 50° S, the westerlies were intensified at the LGM, and that this was coupled to a reduction in moisture transport to Patagonia from the Atlantic (giving drier conditions) </otmi:snippet>
+              <otmi:snippet>A significant increase in methanesulphonic acid concentrations was attributed to increased marine biological productivity in the Southern Ocean</otmi:snippet>
+              <otmi:snippet>A similar result (with concentrations approximately doubled in peak glacials compared to interglacials, implying little change in flux) would have been found for Vostok or Dome Fuji </otmi:snippet>
+              <otmi:snippet>According to our interpretation, maximum sea-ice extent in the Indian Ocean sector is tied very closely to Antarctic temperature at multimillennial timescales, but they are not synchronous at short timescales</otmi:snippet>
+              <otmi:snippet>Although we recognize that our use of sea salt as a sea-ice proxy remains tentative, we suggest that the ssNa flux curve in Fig. 2 may be taken as a first attempt at a quantitative winter ice extent over the last 740 kyr for use in modelling studies</otmi:snippet>
+              <otmi:snippet>Assuming this applies to the whole record then the order of magnitude changes in dust flux seen at Dome C must result primarily from changes in the source region</otmi:snippet>
+              <otmi:snippet>Because DMS emissions south of the APF apparently remained constant to within a few tens of per cent throughout the last 740 kyr, despite very large climate changes, the sulphur cycle does not appear to have responded to climate change with either a positive or negative feedback</otmi:snippet>
+              <otmi:snippet>Because the products of DMS oxidation, through their role as cloud condensation nuclei, may themselves cause climate feedbacks , the Vostok MS - record is often quoted in discussions about climate self-regulation </otmi:snippet>
+              <otmi:snippet>Both metals are assumed to be representative of terrestrial material, and their concentration profiles look similar to that of insoluble dust mass </otmi:snippet>
+              <otmi:snippet>Climate and chemistry over eight cycles Using only Antarctic ice-core chemical data, we describe the dynamics of three external parts of the climate system over a period of 740 kyr, and provide continuous data sets as inputs for climate modelling</otmi:snippet>
+              <otmi:snippet>DMS production is also quoted as one indicator of productivity, relevant to the drawdown of CO 2 , although it has to be emphasized that DMS producers may not be representative of total biological production</otmi:snippet>
+              <otmi:snippet>Defining the ice-core proxies All chemical concentrations (see Methods) are higher during glacial periods than during interglacial periods ( Fig. 1 )</otmi:snippet>
+              <otmi:snippet>Despite differences in detail, the good general agreement between nssCa and Fe profiles ( Fig. 2 ) suggests that each is suitable as a terrestrial marker element at Dome C, although Fe might be preferred in discussions about iron fertilization of the ocean </otmi:snippet>
+              <otmi:snippet>Deuterium increases between 428 and 422 kyr</otmi:snippet>
+              <otmi:snippet>Estimates of the annual downward transport from the stratosphere to the troposphere , comparisons of the stratospheric aerosol burden in non-volcanic and volcanic periods, and modelling studies suggest that the volcanic input during background periods is &lt;10% of the deposition of SO42- to the Antarctic ice sheet</otmi:snippet>
+              <otmi:snippet>Finally, although Australia could also be a significant source of dust, models suggest that Patagonia should also be the main source of atmospheric iron to most of the Southern Ocean , and thus our record should serve both as a continuous profile of changes in Patagonian climate, and as a suitable input for assessing the influence of Fe fertilization on atmospheric CO 2 concentration</otmi:snippet>
+              <otmi:snippet>Flooding of the shelf cannot be the main cause of reduced nssCa flux, although the changing exposure of continental shelf could play some part</otmi:snippet>
+              <otmi:snippet>Fluxes are similar in the first and second halves of the record for a given deuterium value ( Fig. 3 ); slightly higher glacial values earlier in the record rest heavily on a few high flux values in MIS12 and MIS16</otmi:snippet>
+              <otmi:snippet>For Antarctica, both dust (representing terrestrial aerosol) and sodium (representing marine aerosol) data have been presented from the Vostok core, extending 420 kyr into the past</otmi:snippet>
+              <otmi:snippet>For the remaining figures, we therefore calculated sea-salt Na (ssNa) and non-sea-salt Ca (nssCa) concentrations and fluxes (see Methods)</otmi:snippet>
+              <otmi:snippet>Here we present the chemical data only for the main oceanic (sea salt and marine biogenic) and terrestrial (including iron) aerosol components reaching Antarctica</otmi:snippet>
+              <otmi:snippet>However, because of the very low snow accumulation rates at Dome C, the dominant process for aerosol deposition is almost certainly dry deposition </otmi:snippet>
+              <otmi:snippet>However, more-detailed profiles from other sites, along with a better knowledge of transport, deposition and post-depositional processes , have called these interpretations into question</otmi:snippet>
+              <otmi:snippet>However, recent evidence has shown clearly that, under modern conditions at sites with very low snow accumulation rates, MS - concentration falls rapidly in the upper metres of snow; this is also seen in snowpits at Dome C</otmi:snippet>
+              <otmi:snippet>However, we have more continuous data available for calcium (Ca), which is often used to define terrestrial sources, but which also has a marine source</otmi:snippet>
+              <otmi:snippet>Ice cores play a key part in providing an understanding of climate variability during this period because many components of forcing and feedback, including greenhouse gases , are represented in a single core</otmi:snippet>
+              <otmi:snippet>If the main dust source is well south, then it should be enhanced by such changes</otmi:snippet>
+              <otmi:snippet>In Fig. 2 , fluxes have been calculated (using the estimated snow accumulation rate ) and they are used for the later discussions (see also Supplementary Information )</otmi:snippet>
+              <otmi:snippet>In Termination V, at 424 kyr, when the terrestrial dust change is almost complete, CO 2 has increased by &lt;30 p.p.m.v., adding to evidence that this is a maximum possible impact of iron fertilization</otmi:snippet>
+              <otmi:snippet>In contrast to MS - , the nss SO42- flux is stable, within about 20%, through the entire 740-kyr record ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>In deeper ice, these spikes become diffuse, and eventually cannot be identified against the background: as a result there is no objective way to remove their influence</otmi:snippet>
+              <otmi:snippet>In fact, production by these organisms remained approximately constant, despite the large changes in Antarctic environmental conditions and the decrease in overall export production</otmi:snippet>
+              <otmi:snippet>In glacial periods, much more terrestrial material is present in the atmosphere and snow</otmi:snippet>
+              <otmi:snippet>In such a situation, the flux rather than the concentration in ice is expected to be the measure that is indicative of changes in atmospheric concentration</otmi:snippet>
+              <otmi:snippet>In the LGM, when ssNa flux is double the present value, winter sea-ice extent is believed to have been about double that of the present , providing an approximate calibration of our proxy</otmi:snippet>
+              <otmi:snippet>In this termination, the main change in terrestrial material flux (at 428–424 kyr) precedes that in sea salt (425–422 kyr), while the CO 2 change occurs mainly between 426 and 422 kyr bp </otmi:snippet>
+              <otmi:snippet>Iron (Fe) is derived almost entirely from continental terrestrial sources</otmi:snippet>
+              <otmi:snippet>Iron flux and South American climate The nssCa flux, as also does the Fe flux, shows extreme variations, being about a factor of ten higher in glacial maxima than in interglacial periods ( Fig. 2 )</otmi:snippet>
+              <otmi:snippet>It also has strong implications for the possible causes of CO 2 increases during terminations, because mechanisms related to changing Fe fertilization can only be active in the first half of the termination, unless Fe ceases to be the limiting nutrient at deposition rates only just above those seen in the Holocene</otmi:snippet>
+              <otmi:snippet>It has been argued that the detailed timing of sea-level rise is inconsistent with the timing of the main changes in dust flux during the LGM–Holocene transition </otmi:snippet>
+              <otmi:snippet>It is very likely that climate conditions in Patagonia did change during glacial periods</otmi:snippet>
+              <otmi:snippet>It was previously noted that, at Termination I, the main change in nssCa flux occurred in the first half of the transition (18–15 kyr), while the main change in Na flux occurred later (14–12 kyr)</otmi:snippet>
+              <otmi:snippet>It will also be important for assessing the role of sea-ice mechanisms in CO 2 changes </otmi:snippet>
+              <otmi:snippet>MS - has no other significant source for Antarctica</otmi:snippet>
+              <otmi:snippet>Major glaciations of Patagonia occurred during cold periods in the ice-core record , although it is not obvious how this would affect the dust source</otmi:snippet>
+              <otmi:snippet>Marine diatom evidence suggests that summer sea ice was negligible in this sector even in the LGM , which is among the coldest periods in the Dome C deuterium profile</otmi:snippet>
+              <otmi:snippet>Marine productivity High glacial MS - was used to suggest increased oceanic DMS emissions during the last glacial period </otmi:snippet>
+              <otmi:snippet>Marine proxies have suggested that export production south of the present-day Antarctic polar front (APF) was lower in the LGM than in the Holocene </otmi:snippet>
+              <otmi:snippet>Mechanisms related to changing sea-ice extent , at least in the ocean sector represented in our record, should be active in the later stages of each transition only</otmi:snippet>
+              <otmi:snippet>Methanesulphonate (MS - ) and sulphate ( SO42- ) in Antarctica are both considered to be derived mainly from marine biogenic emission of dimethylsulphide (DMS) , followed by oxidation in the atmosphere</otmi:snippet>
+              <otmi:snippet>Model studies , and previous studies of dust particle size for the more recent part of the record , suggest that changes in the transport strength and atmospheric residence time between South America and Dome C were small, despite the changes in precipitation scavenging and atmospheric circulation that must have occurred</otmi:snippet>
+              <otmi:snippet>Model studies of tracer transport, although mainly dealing with transport from further north than the DMS source regions, suggest a rather small change in transport time for the LGM compared to the present </otmi:snippet>
+              <otmi:snippet>Most of the area of continental shelf south of 45° S that would have been exposed during the LGM would have been re-flooded early in the deglaciation (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>Nitrate and, if the analogy holds, MS - , are no longer mainly present as relatively volatile acids, but are instead preserved as non-volatile neutral salts</otmi:snippet>
+              <otmi:snippet>Nonetheless, the nssCa flux had already halved from its LGM maximum by 17 kyr bp , before any significant change in sea level or exposed area, and the nssCa flux reduction clearly leads the flooding of the shelf</otmi:snippet>
+              <otmi:snippet>NssCa flux (and similarly Fe flux) increases significantly only below a threshold (about -410‰ at Dome C) in Antarctic deuterium ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>NssCa flux, in some way a record of Patagonian conditions, shows a very close, but nonlinear, link between Patagonian conditions and Antarctic climate throughout the period</otmi:snippet>
+              <otmi:snippet>Our measurements are probably less sensitive to changes in DMS production further north</otmi:snippet>
+              <otmi:snippet>Our result implies that organisms such as Phaeocystis , which leave no fossil record, but which are major DMS producers, also had no increased production south of the APF</otmi:snippet>
+              <otmi:snippet>Part of the concentration contrast seen is therefore simply due to the fact that the snow accumulation rate is estimated to be more than a factor of two higher in warm interglacials than in the coldest part of each glacial</otmi:snippet>
+              <otmi:snippet>Patagonian conditions changed very strongly between glacial and interglacial, leading to a large change in iron input to the Southern Ocean</otmi:snippet>
+              <otmi:snippet>Phasing of changes at climatic transitions Although many aspects of climate throughout the 740-kyr record change together at each termination and inception, this is not the case, at least at millennial resolution, for sea salt (representing sea ice) and terrestrial material (representing Patagonian conditions)</otmi:snippet>
+              <otmi:snippet>Previously, the increased cold period ssNa flux or concentration has been attributed to greater cyclonic activity at the (assumed open-water) source, and to greater meridional transport of sea salt into the continent </otmi:snippet>
+              <otmi:snippet>Recently, this interpretation has been challenged on several grounds </otmi:snippet>
+              <otmi:snippet>Recently, year-round measurements of aerosol concentrations at the high-plateau inland station of Dome Fuji showed SO42- /Na ratios that were often below that expected from sea water, with a pattern exactly as found at the coastal sites</otmi:snippet>
+              <otmi:snippet>SO 42- comes also from sea salt, anthropogenic sources (though these have a very limited influence in Antarctica ), terrestrial dust (also limited), and from volcanism—the latter causing intermittent spikes and a continuous background</otmi:snippet>
+              <otmi:snippet>Sea ice based on sea salt The ssNa (representing sea salt) flux has minima in interglacials, and maxima in glacial periods</otmi:snippet>
+              <otmi:snippet>Sea salt concentrations, even in central Antarctica, peak seasonally when sea ice is at its maximum, and there is no evidence that cyclonic activity has the seasonal contrast needed to overcome the greater travel distance this implies </otmi:snippet>
+              <otmi:snippet>Sea-ice extent was intermediate between recent glacial and interglacial values during most of the weak interglacials before 440 kyr bp </otmi:snippet>
+              <otmi:snippet>Sodium (Na) has a mainly marine source, but some continental dust influence</otmi:snippet>
+              <otmi:snippet>Such changes in South America could result from (1) changes in the strength of the Patagonian source due to changes in temperature, moisture and vegetation, (2) changes in uplift of source material due to changes in wind strength, (3) an increased Patagonian source of fine glacial material due to varying glacier coverage, or (4) the addition of new source areas on exposed continental shelf as sea level changed</otmi:snippet>
+              <otmi:snippet>The amount of nss SO42- reaching Dome C should depend on the production and emission of DMS, on the location of emissions (and hence the transport distance), on transport speed and on transformations en route</otmi:snippet>
+              <otmi:snippet>The chemical signature of both aerosol and snow, showing a characteristic depletion of SO42- /Na compared to sea water, suggests that new sea-ice surfaces are the major source of sea salt to coastal Antarctica </otmi:snippet>
+              <otmi:snippet>The climate of Antarctica over the longer period of 740,000 yr (740 kyr, to marine isotope stage (MIS)18.4) has recently been characterized through a new ice-core record </otmi:snippet>
+              <otmi:snippet>The concentrations of both components are significantly increased in glacial periods compared to interglacials</otmi:snippet>
+              <otmi:snippet>The constant nss SO42- flux could result from all these factors changing between glacial and interglacial (in which case their effects must fortuitously cancel out), or from the dominant factors remaining constant</otmi:snippet>
+              <otmi:snippet>The core, drilled by the European Project for Ice Coring in Antarctica (EPICA) came from Dome C (75° 06′ S, 123° 21′ E, altitude 3,233 m above sea level)</otmi:snippet>
+              <otmi:snippet>The deuterium (temperature proxy) record ( Fig. 1 ) highlighted the change in glacial–interglacial temperature amplitude that occurred around 440 kyr bp (before present); interglacials in the earlier part of the record were much cooler than recent interglacials, despite similar external forcing</otmi:snippet>
+              <otmi:snippet>The evidence for a sea-ice source of sea salt to central Antarctica has been circumstantial</otmi:snippet>
+              <otmi:snippet>The increased exposure of continental shelf may amplify the effect when sea level is particularly low</otmi:snippet>
+              <otmi:snippet>The ionic chemistry in ice cores is mainly representative of aerosol, and has been interpreted as giving information about important environmental features such as sea-ice extent, marine biological productivity of the nearby ocean, aridity of the surrounding continents, and transport strength</otmi:snippet>
+              <otmi:snippet>The late Quaternary period is characterized particularly by strong 100,000-year (100 kyr) cycles</otmi:snippet>
+              <otmi:snippet>The latest evidence suggests that geochemical measurements cannot yet distinguish between a Patagonian and continental shelf source</otmi:snippet>
+              <otmi:snippet>The linkage between Antarctic temperature and sea-ice extent is less strong at shorter timescales; changes in sea salt and deuterium are not synchronous during major climate transitions, as discussed later</otmi:snippet>
+              <otmi:snippet>The low variability in the rest of the record is remarkable, and unique among ice-core chemistry records to date</otmi:snippet>
+              <otmi:snippet>The main origin of dust reaching these sites is South America, specifically Patagonia </otmi:snippet>
+              <otmi:snippet>The maximum values are about double the present-day value, while the minimum 2-kyr average observed is about half the present value</otmi:snippet>
+              <otmi:snippet>The modelled flux of sea salt arriving in Antarctica from an open-water source was found to be much lower in the last glacial maximum (LGM) compared to the present, when the data show the opposite </otmi:snippet>
+              <otmi:snippet>The most plausible explanation is that the aerosol derives from a source depleted in SO42- </otmi:snippet>
+              <otmi:snippet>The new record shows that this is a general rule at terminations, as illustrated in detail for Termination V ( Fig. 4 )</otmi:snippet>
+              <otmi:snippet>The part of marine biogenic activity in the Southern Ocean that is related to DMS emission south of the APF seems to have been remarkably constant through the period; atmospheric S compounds had no significant role in climate feedback</otmi:snippet>
+              <otmi:snippet>The proportion of DMS that is oxidized to SO42- or to MS - might vary with climate, but nss SO42- probably remains the dominant product under all conditions </otmi:snippet>
+              <otmi:snippet>The relationship between each chemical component and Antarctic deuterium (temperature) stays remarkably constant through the last 740 kyr, with no significant change at the point where the amplitude of interglacials increases strongly (around 440 kyr)</otmi:snippet>
+              <otmi:snippet>The relationship is stable throughout the last 740 kyr, implying that the change in climatic pattern at around 440 kyr is not due to any change in the climate–sea-ice feedback</otmi:snippet>
+              <otmi:snippet>The relevant region (based on model estimates for Vostok) is the Indian Ocean sector, with the largest influence between 55° and 60° S </otmi:snippet>
+              <otmi:snippet>The same pattern is seen also at the earlier changes, where there is a lower amplitude in δ D (the phasing between CO 2 (ref. 42 ) and our parameters has yet to be determined at these transitions): at the transition from MIS16 to MIS15, for example, the reduction in nssCa occurs mainly between 629–625 kyr, and the reduction in ssNa occurs mainly between 625–623 kyr bp </otmi:snippet>
+              <otmi:snippet>The sea-salt source of sulphate can be removed using Na data (see Methods) to give non-sea-salt SO42- (nss SO42- )</otmi:snippet>
+              <otmi:snippet>The single short-lived increase in flux, depending mainly on a single data point at about 700 kyr seems not to be replicated in a parallel analysis by the fast ion chromatography method (see Methods)</otmi:snippet>
+              <otmi:snippet>The summer sea-ice edge was close to the continent in the sector of Antarctica nearest to Dome C even in the LGM , so that the location of summer DMS emission need not have moved significantly</otmi:snippet>
+              <otmi:snippet>There is a general correspondence between particularly high marine benthic oxygen isotope values , representing—at least in part—changes in sea level, and high nssCa fluxes ( Fig. 2 ); however, there is also a strong correspondence between nssCa flux and other parameters such as Antarctic δ D </otmi:snippet>
+              <otmi:snippet>There is a very close relationship between Na flux and temperature throughout the 740-kyr period, with cold temperatures leading to higher Na flux ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>There seems to be no significant change in the climate-dust feedback at 440 kyr</otmi:snippet>
+              <otmi:snippet>Therefore the higher concentrations of both ions in snow from cold periods reflects better fixation (or a different deposition mechanism), and does not indicate the past production of DMS</otmi:snippet>
+              <otmi:snippet>This is probably due to a slow evaporative loss of methanesulphonic acid, in a process analogous to that observed for nitrate </otmi:snippet>
+              <otmi:snippet>This led to the suggestion that the S cycle has been very sensitive to climate change </otmi:snippet>
+              <otmi:snippet>This pattern suggests that the main changes in Patagonia generally precede those in sea-ice extent</otmi:snippet>
+              <otmi:snippet>This was attributed to a range of causes, with a particular emphasis on increased meridional transport</otmi:snippet>
+              <otmi:snippet>This would imply that the sea salt flux at Dome C is related to new sea-ice production in the Indian Ocean sector of Antarctica (see Supplementary Information ), at least on longer timescales</otmi:snippet>
+              <otmi:snippet>Unfortunately, there is no good time-resolved record of any of these factors that we can use to test their influence on the Antarctic dust record</otmi:snippet>
+              <otmi:snippet>Very large glacial–interglacial contrasts in MS - (seen also at Dome C) have been widely quoted in the past as evidence of increased glacial-period marine biogenic activity in the Southern Ocean</otmi:snippet>
+              <otmi:snippet>Volcanic input during eruptive events can dominate the SO42- budget for 1–3 yr, but fills only a small time fraction, representing (for example) only about 6% of the Holocene sulphate budget </otmi:snippet>
+              <otmi:snippet>We also investigate how the relationship between different variables altered when the climate pattern changed around 440 kyr bp </otmi:snippet>
+              <otmi:snippet>We can conclude that annual production and maximum extent are closely related; with our interpretation, ssNa flux indicates winter sea-ice extent</otmi:snippet>
+              <otmi:snippet>We conclude that change in internal feedbacks represented by these parameters was not responsible for the change in amplitude of interglacial climate.</otmi:snippet>
+              <otmi:snippet>We conclude that the sea-ice surface (including frost flowers, brine and brine-soaked snow) is probably the main source of sea salt to central Antarctica for recent winter conditions</otmi:snippet>
+              <otmi:snippet>We have therefore averaged the data without removing the spikes or background, but can assume that the nss SO42- flux is strongly dominated by marine biogenic sources throughout the record</otmi:snippet>
+              <otmi:snippet>We make new interpretations of the environmental changes during several glacial–interglacial cycles that they represent</otmi:snippet>
+              <otmi:snippet>We note that the increased productivity implied by iron fertilization would have to occur north of the APF</otmi:snippet>
+              <otmi:snippet>We note that the use of concentrations rather than fluxes would have led to a different conclusion, but our assumptions about aerosol deposition leading to this choice are robust (see Supplementary Information )</otmi:snippet>
+              <otmi:snippet>We therefore conclude that the nssCa record probably mainly reflects changes in atmospheric circulation influencing Patagonian wind strength and aridity, although changes in glaciation might also have an unspecified role</otmi:snippet>
+              <otmi:snippet>We therefore conclude that these factors are unlikely to have been decisive: allowing for some changes in these factors, and for uncertainty in our assumptions about the dominance of dry deposition and the snow accumulation rate, DMS emissions in the relevant region must have also been constant to within a few tens of per cent</otmi:snippet>
+              <otmi:snippet>We therefore conclude that, at multimillennial timescales, winter ice extent in this sector is very closely tied to Antarctic temperature ( Fig. 3 )</otmi:snippet>
+              <otmi:snippet>We therefore use nss SO42- , which suffers no post-depositional losses, as our marker of marine biogenic emissions</otmi:snippet>
+              <otmi:snippet>Winter ice extent has probably been considerably below the present value in recent interglacials</otmi:snippet>
+            </otmi:snippets>
+          </otmi:section>
+        </otmi:section>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Measured concentrations from the EPICA Dome C ice core.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Data are on an ice depth scale. δ D are averaged over 3.85-m sections 6 ; chemical concentrations are averaged over 2.2-m sections.</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Chemical measurements from the EPICA Dome C core, on an age scale.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Chemical components (2-kyr averages) and δ D (3-kyr averages) 6 are from the EDC core; oxygen isotope values (1 kyr averages) from the marine benthic stack (on the LR04 timescale and with selected MIS numbers shown) 39 . While nssCa data represent almost continuous averages within each 2-kyr period, Fe data are averages of a few discrete samples. In the deeper ice, many 2-kyr periods have no Fe data, or are based on a single data point representing only a few decades. The obvious timing mismatch between EDC and the benthic stack around MIS14 is not yet resolved 39 .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Relationship between chemistry and climate.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>ssNa and nssCa fluxes plotted against δ D for the entire ice core, using 2-kyr averages. Blue crosses are for the period from 0–440 kyr bp , red squares are for 440–740 kyr bp .</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:figure>
+          <otmi:title>
+            <otmi:rawtext>Chemistry and CO 2 across Termination V.</otmi:rawtext>
+          </otmi:title>
+          <otmi:caption>
+            <otmi:rawtext>Chemical fluxes (averaged over 1.1 m depth increments, equivalent to a few hundred years at this depth, except for Fe, which consists of spot values at irregular intervals), and CO 2 concentration 6 , across Termination V, between MIS12 and MIS11. Uncertainty in the alignment of the timescales for the CO 2 and chemical records is caused by the calculation of the gas-age/ice-age difference 6 , and could be several centuries. The vertical dashed line indicates 424 kyr bp (see text).</otmi:rawtext>
+          </otmi:caption>
+        </otmi:figure>
+        <otmi:references>
+          <otmi:refid>info:doi/10.1038/20859</otmi:refid>
+          <otmi:refid>info:doi/10.1038/350144a0</otmi:refid>
+          <otmi:refid>info:doi/10.1029/98JD02855</otmi:refid>
+          <otmi:refid>info:doi/10.1038/nature02599</otmi:refid>
+          <otmi:refid>info:doi/10.1038/331341a0</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2004JD004881</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2004JD005259</otmi:refid>
+          <otmi:refid>info:doi/10.1034/j.1600-0889.2003.00032.x</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2003GL018454</otmi:refid>
+          <otmi:refid>info:doi/10.1029/97JD01804</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2002JD002492</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2002JD002063</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2004JD004713</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.quascirev.2004.07.015</otmi:refid>
+          <otmi:refid>info:doi/10.1038/35004556</otmi:refid>
+          <otmi:refid>info:doi/10.1038/326655a0</otmi:refid>
+          <otmi:refid>info:doi/10.1023/A:1023494111532</otmi:refid>
+          <otmi:refid>info:doi/10.1098/rstb.1997.0009</otmi:refid>
+          <otmi:refid>info:doi/10.1034/j.1600-0889.2003.00004.x</otmi:refid>
+          <otmi:refid>info:doi/10.1029/98JD00929</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1105375</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0012-821X(96)00255-5</otmi:refid>
+          <otmi:refid>info:doi/10.1007/s00382-001-0193-9</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.earscirev.2003.10.004</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2004GL021244</otmi:refid>
+          <otmi:refid>info:doi/10.1016/j.yqres.2004.12.003</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2004PA001071</otmi:refid>
+          <otmi:refid>info:doi/10.1126/science.1120130</otmi:refid>
+          <otmi:refid>info:doi/10.1029/2002PA000810</otmi:refid>
+          <otmi:refid>info:doi/10.1021/es9907055</otmi:refid>
+          <otmi:refid>info:doi/10.1016/S0003-2670(01)01379-4</otmi:refid>
+          <otmi:refsnoid>19</otmi:refsnoid>
+        </otmi:references>
+      </otmi:data>
+    </entry>

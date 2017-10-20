@@ -1,0 +1,22 @@
+Notes
+
+------
+
+novel queries, beyond full text
+
+--taxonomy
+--geography
+--genes
+--specimens
+
+
+--citation ranking of objects
+
+
+--visualisations
+
+---reemap search results
+---Google Earth
+
+
+----automated tree processing

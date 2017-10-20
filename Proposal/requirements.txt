@@ -1,0 +1,39 @@
+ 	
+ 1500 words, plus 200 summary
+ 
+Abstract Submission Requirements
+
+Submission:
+Abstract submissions are to be entered before July 15th, 2008 (midnight CEST). To submit an abstract to the Elsevier Grand Challenge, you must use the EasyChair system. If you have any questions or encounter any difficulties with using the EasyChair system, please email the Secretary of the Panel of Judges, Anita de Waard, a.dewaard@elsevier.com.
+
+Summary: 
+Please include an executive summary of no more than 200 words
+
+Project Description:
+The project description should be prepared according to the format described below. The description should specifically address each section in the order presented using the subheadings as they appear. The project description should be no more than 1,500 words in total, excluding the executive summary.
+
+	1.	Project Goals, Purpose, and Outcomes. State the motivation of your project in a concise introductory paragraph. Describe your vision of the future of science publishing, and how your proposal will help attain it.  Describe how the project addresses ways to:
+	a.	improve the process/methods/results of creating, reviewing and editing scientific content
+	b.	interpret, visualize or connect the knowledge more effectively, and/or
+	c.	provide tools/ideas for measuring the impact of these improvements.
+
+	2. Detailed Project Description: Content and Functionalities
+Describe which Elsevier/non-Elsevier content sources you aim to use, and how; describe in as much detail as space allows what you propose to do in terms of interfaces, architectures, and other technological/design aspects.
+
+	3.  Project Background
+If appropriate, include a review of your pertinent previous work, including content repositories, pieces of software or other tools that you believe to be important to the evaluation of your project.
+	4.	Methods
+Provide a description of the proposed project activities, making it clear how these activities will allow you to reach the goals described in Section 1. This should include a clear articulation of the project timeline.
+
+ 
+Assessment Criteria
+
+The projects will be evaluated according to the following criteria:
+Project quality: Project quality includes project content and the concept.  The following factors will be evaluated: whether the idea and objective are clearly defined, the overall project concept, the verifiability of the project's objectives, the project plan, and the capability to scale up the results.
+
+Innovation/vision: The term “innovation” is to be understood in the context of value creation. Evaluation will be focused on the level of innovation compared with the current state-of-the-art in science publishing. Usefulness to the user as well as novelty will be considered.
+
+Research content: This criterion will be used to rank the project in terms of its research applications in content, which can range from simple development work to advanced scientific research.
+
+New Knowledge: Evaluation will also focus on the extent to which the project produces new knowledge of significance with regard to science publishing.
+The project’s potential for realization in practice: The project's potential benefits for the publishing industry as a whole, in terms of user needs fulfilled and advantages proposed, will be evaluated in terms of the possibility and ease of implementing the project within a publishing workflow.

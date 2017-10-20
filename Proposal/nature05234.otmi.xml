@@ -1,0 +1,890 @@
+<atom:entry xmlns:otmi='http://www.nature.com/schema/2006/03/otmi' xmlns:prism='http://prismstandard.org/namespaces/1.2/basic/' xmlns:atom='http://www.w3.org/2005/Atom'>
+  <atom:title>A Mesozoic gliding mammal from northeastern China</atom:title>
+  <atom:author>
+    <atom:name>Jin Meng</atom:name>
+  </atom:author>
+  <atom:author>
+    <atom:name>Yaoming Hu</atom:name>
+  </atom:author>
+  <atom:author>
+    <atom:name>Yuanqing Wang</atom:name>
+  </atom:author>
+  <atom:author>
+    <atom:name>Xiaolin Wang</atom:name>
+  </atom:author>
+  <atom:author>
+    <atom:name>Chuankui Li</atom:name>
+  </atom:author>
+  <atom:id>info:doi/10.1038/nature05234</atom:id>
+  <atom:link href='http://dx.doi.org/10.1038/nature05234' />
+  <atom:link href='http://www.nature.com/nature/journal/v444/n7121/otmi/nature05234.otmi' rel='self' />
+  <atom:link href='http://opentextmining.org/' rel='related' />
+  <atom:published>2006-12-14T00:00:00Z</atom:published>
+  <atom:updated>2006-12-14T00:00:00Z</atom:updated>
+  <atom:rights type='html'>(c) 2006 Nature Publishing Group</atom:rights>
+  <prism:publicationName>Nature</prism:publicationName>
+  <prism:volume>444</prism:volume>
+  <prism:number>7121</prism:number>
+  <prism:startingPage>889</prism:startingPage>
+  <prism:endingPage>893</prism:endingPage>
+  <prism:issn>0028-0836</prism:issn>
+  <prism:eIssn />
+  <otmi:data>
+    <otmi:stoplist href='http://www.nature.com/nature/journal/v444/n7121/otmi/otmi-stoplist.xml' />
+    <otmi:section name='abstract'>
+      <otmi:vectors>
+        <otmi:split-regex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:split-regex>
+        <otmi:vector count='3'>flight</otmi:vector>
+        <otmi:vector count='3'>gliding</otmi:vector>
+        <otmi:vector count='3'>mammals</otmi:vector>
+        <otmi:vector count='2'>earlier</otmi:vector>
+        <otmi:vector count='2'>many</otmi:vector>
+        <otmi:vector count='2'>Mesozoic</otmi:vector>
+        <otmi:vector count='2'>patagium</otmi:vector>
+        <otmi:vector count='2'>unknown</otmi:vector>
+        <otmi:vector count='1'>70</otmi:vector>
+        <otmi:vector count='1'>adapted</otmi:vector>
+        <otmi:vector count='1'>aerial</otmi:vector>
+        <otmi:vector count='1'>arboreal</otmi:vector>
+        <otmi:vector count='1'>bear</otmi:vector>
+        <otmi:vector count='1'>birds</otmi:vector>
+        <otmi:vector count='1'>characterized</otmi:vector>
+        <otmi:vector count='1'>China</otmi:vector>
+        <otmi:vector count='1'>covered</otmi:vector>
+        <otmi:vector count='1'>demonstrates</otmi:vector>
+        <otmi:vector count='1'>dense</otmi:vector>
+        <otmi:vector count='1'>dentition</otmi:vector>
+        <otmi:vector count='1'>Direct</otmi:vector>
+        <otmi:vector count='1'>discovery</otmi:vector>
+        <otmi:vector count='1'>diverse</otmi:vector>
+        <otmi:vector count='1'>earliest</otmi:vector>
+        <otmi:vector count='1'>early</otmi:vector>
+        <otmi:vector count='1'>elongated</otmi:vector>
+        <otmi:vector count='1'>endeavoured</otmi:vector>
+        <otmi:vector count='1'>era</otmi:vector>
+        <otmi:vector count='1'>evidence</otmi:vector>
+        <otmi:vector count='1'>evolved</otmi:vector>
+        <otmi:vector count='1'>experimented</otmi:vector>
+        <otmi:vector count='1'>exploit</otmi:vector>
+        <otmi:vector count='1'>extends</otmi:vector>
+        <otmi:vector count='1'>features</otmi:vector>
+        <otmi:vector count='1'>flying</otmi:vector>
+        <otmi:vector count='1'>fossil</otmi:vector>
+        <otmi:vector count='1'>geological</otmi:vector>
+        <otmi:vector count='1'>Gliding</otmi:vector>
+        <otmi:vector count='1'>group</otmi:vector>
+        <otmi:vector count='1'>habit</otmi:vector>
+        <otmi:vector count='1'>hair</otmi:vector>
+        <otmi:vector count='1'>highly</otmi:vector>
+        <otmi:vector count='1'>history</otmi:vector>
+        <otmi:vector count='1'>independently</otmi:vector>
+        <otmi:vector count='1'>Inner</otmi:vector>
+        <otmi:vector count='1'>insectivorous</otmi:vector>
+        <otmi:vector count='1'>latter</otmi:vector>
+        <otmi:vector count='1'>least</otmi:vector>
+        <otmi:vector count='1'>life</otmi:vector>
+        <otmi:vector count='1'>lifestyles</otmi:vector>
+        <otmi:vector count='1'>limbs</otmi:vector>
+        <otmi:vector count='1'>locomotor</otmi:vector>
+        <otmi:vector count='1'>mammal</otmi:vector>
+        <otmi:vector count='1'>membrane</otmi:vector>
+        <otmi:vector count='1'>million</otmi:vector>
+        <otmi:vector count='1'>Mongolia</otmi:vector>
+        <otmi:vector count='1'>new</otmi:vector>
+        <otmi:vector count='1'>not</otmi:vector>
+        <otmi:vector count='1'>previously</otmi:vector>
+        <otmi:vector count='1'>rare</otmi:vector>
+        <otmi:vector count='1'>record</otmi:vector>
+        <otmi:vector count='1'>records</otmi:vector>
+        <otmi:vector count='1'>report</otmi:vector>
+        <otmi:vector count='1'>represents</otmi:vector>
+        <otmi:vector count='1'>same</otmi:vector>
+        <otmi:vector count='1'>sizable</otmi:vector>
+        <otmi:vector count='1'>sky.</otmi:vector>
+        <otmi:vector count='1'>specialized</otmi:vector>
+        <otmi:vector count='1'>strategies</otmi:vector>
+        <otmi:vector count='1'>supported</otmi:vector>
+        <otmi:vector count='1'>tail</otmi:vector>
+        <otmi:vector count='1'>time</otmi:vector>
+        <otmi:vector count='1'>times</otmi:vector>
+        <otmi:vector count='1'>vertebrates</otmi:vector>
+        <otmi:vector count='1'>years</otmi:vector>
+      </otmi:vectors>
+      <otmi:snippets>
+        <otmi:split-regex>(?-mix:\.\s+(?=[A-Z]))</otmi:split-regex>
+        <otmi:snippet>Direct evidence of gliding is rare in fossil records and is unknown in mammals from the Mesozoic era</otmi:snippet>
+        <otmi:snippet>Gliding flight has independently evolved many times in vertebrates</otmi:snippet>
+        <otmi:snippet>Here we report a new Mesozoic mammal from Inner Mongolia, China, that represents a previously unknown group characterized by a highly specialized insectivorous dentition and a sizable patagium (flying membrane) for gliding flight</otmi:snippet>
+        <otmi:snippet>The patagium is covered with dense hair and supported by an elongated tail and limbs; the latter also bear many features adapted for arboreal life</otmi:snippet>
+        <otmi:snippet>This discovery extends the earliest record of gliding flight for mammals to at least 70 million years earlier in geological history, and demonstrates that early mammals were diverse in their locomotor strategies and lifestyles; they had experimented with an aerial habit at about the same time as, if not earlier than, when birds endeavoured to exploit the sky.</otmi:snippet>
+      </otmi:snippets>
+      <otmi:reduced-text>Gliding flight independently evolved many times vertebrates. Direct evidence gliding rare fossil records unknown mammals Mesozoic era. report new Mesozoic mammal Inner Mongolia, China, represents previously unknown group characterized highly specialized insectivorous dentition sizable patagium (flying membrane) gliding flight. patagium covered dense hair supported elongated tail limbs; latter bear many features adapted arboreal life. discovery extends earliest record gliding flight mammals least 70 million years earlier geological history, demonstrates early mammals diverse locomotor strategies lifestyles; experimented aerial habit same time , not earlier , birds endeavoured exploit sky.</otmi:reduced-text>
+    </otmi:section>
+    <otmi:section name='body'>
+      <otmi:section name='other'>
+        <otmi:vectors>
+          <otmi:split-regex>(?-mix:\s+\W+|\W+\s+|\s+|\/)</otmi:split-regex>
+          <otmi:vector count='26'>antiquus</otmi:vector>
+          <otmi:vector count='21'>mammals</otmi:vector>
+          <otmi:vector count='19'>V</otmi:vector>
+          <otmi:vector count='18'>gliding</otmi:vector>
+          <otmi:vector count='17'>patagium</otmi:vector>
+          <otmi:vector count='11'>Volaticotherium</otmi:vector>
+          <otmi:vector count='9'>probably</otmi:vector>
+          <otmi:vector count='9'>small</otmi:vector>
+          <otmi:vector count='8'>1</otmi:vector>
+          <otmi:vector count='8'>arboreal</otmi:vector>
+          <otmi:vector count='8'>caudal</otmi:vector>
+          <otmi:vector count='8'>Fig</otmi:vector>
+          <otmi:vector count='8'>Information</otmi:vector>
+          <otmi:vector count='8'>not</otmi:vector>
+          <otmi:vector count='8'>phalange</otmi:vector>
+          <otmi:vector count='8'>Supplementary</otmi:vector>
+          <otmi:vector count='8'>vertebrae</otmi:vector>
+          <otmi:vector count='7'>body</otmi:vector>
+          <otmi:vector count='7'>features</otmi:vector>
+          <otmi:vector count='7'>hair</otmi:vector>
+          <otmi:vector count='7'>long</otmi:vector>
+          <otmi:vector count='7'>Mesozoic</otmi:vector>
+          <otmi:vector count='7'>proximal</otmi:vector>
+          <otmi:vector count='6'>area</otmi:vector>
+          <otmi:vector count='6'>limb</otmi:vector>
+          <otmi:vector count='6'>limbs</otmi:vector>
+          <otmi:vector count='6'>M</otmi:vector>
+          <otmi:vector count='6'>molariforms</otmi:vector>
+          <otmi:vector count='6'>more</otmi:vector>
+          <otmi:vector count='6'>other</otmi:vector>
+          <otmi:vector count='6'>posteriorly</otmi:vector>
+          <otmi:vector count='6'>preserved</otmi:vector>
+          <otmi:vector count='6'>similar</otmi:vector>
+          <otmi:vector count='6'>teeth</otmi:vector>
+          <otmi:vector count='5'>2</otmi:vector>
+          <otmi:vector count='5'>adaptation</otmi:vector>
+          <otmi:vector count='5'>animal</otmi:vector>
+          <otmi:vector count='5'>cusps</otmi:vector>
+          <otmi:vector count='5'>flight</otmi:vector>
+          <otmi:vector count='5'>head</otmi:vector>
+          <otmi:vector count='5'>known</otmi:vector>
+          <otmi:vector count='5'>large</otmi:vector>
+          <otmi:vector count='5'>lower</otmi:vector>
+          <otmi:vector count='5'>presence</otmi:vector>
+          <otmi:vector count='5'>relatively</otmi:vector>
+          <otmi:vector count='5'>surface</otmi:vector>
+          <otmi:vector count='4'>addition</otmi:vector>
+          <otmi:vector count='4'>bats</otmi:vector>
+          <otmi:vector count='4'>bones</otmi:vector>
+          <otmi:vector count='4'>clade</otmi:vector>
+          <otmi:vector count='4'>cusp</otmi:vector>
+          <otmi:vector count='4'>differ</otmi:vector>
+          <otmi:vector count='4'>dorsoventrally</otmi:vector>
+          <otmi:vector count='4'>elements</otmi:vector>
+          <otmi:vector count='4'>hind</otmi:vector>
+          <otmi:vector count='4'>impressions</otmi:vector>
+          <otmi:vector count='4'>indicate</otmi:vector>
+          <otmi:vector count='4'>Mammalia</otmi:vector>
+          <otmi:vector count='4'>mammalian</otmi:vector>
+          <otmi:vector count='4'>recumbent</otmi:vector>
+          <otmi:vector count='4'>see</otmi:vector>
+          <otmi:vector count='4'>structures</otmi:vector>
+          <otmi:vector count='4'>tail</otmi:vector>
+          <otmi:vector count='4'>unique</otmi:vector>
+          <otmi:vector count='3'>ago</otmi:vector>
+          <otmi:vector count='3'>around</otmi:vector>
+          <otmi:vector count='3'>d</otmi:vector>
+          <otmi:vector count='3'>Daohugou</otmi:vector>
+          <otmi:vector count='3'>distal</otmi:vector>
+          <otmi:vector count='3'>earliest</otmi:vector>
+          <otmi:vector count='3'>Early</otmi:vector>
+          <otmi:vector count='3'>elongated</otmi:vector>
+          <otmi:vector count='3'>evidence</otmi:vector>
+          <otmi:vector count='3'>feature</otmi:vector>
+          <otmi:vector count='3'>femoral</otmi:vector>
+          <otmi:vector count='3'>femur</otmi:vector>
+          <otmi:vector count='3'>flat</otmi:vector>
+          <otmi:vector count='3'>haemal</otmi:vector>
+          <otmi:vector count='3'>hip</otmi:vector>
+          <otmi:vector count='3'>Ichthyoconodon</otmi:vector>
+          <otmi:vector count='3'>joint</otmi:vector>
+          <otmi:vector count='3'>Jurassic</otmi:vector>
+          <otmi:vector count='3'>Late</otmi:vector>
+          <otmi:vector count='3'>length</otmi:vector>
+          <otmi:vector count='3'>locomotion</otmi:vector>
+          <otmi:vector count='3'>longitudinal</otmi:vector>
+          <otmi:vector count='3'>low</otmi:vector>
+          <otmi:vector count='3'>mass</otmi:vector>
+          <otmi:vector count='3'>metatarsal</otmi:vector>
+          <otmi:vector count='3'>Morganucodon</otmi:vector>
+          <otmi:vector count='3'>morphologies</otmi:vector>
+          <otmi:vector count='3'>Myr</otmi:vector>
+          <otmi:vector count='3'>nocturnal</otmi:vector>
+          <otmi:vector count='3'>nov</otmi:vector>
+          <otmi:vector count='3'>phylogenetic</otmi:vector>
+          <otmi:vector count='3'>process</otmi:vector>
+          <otmi:vector count='3'>sesamoid</otmi:vector>
+          <otmi:vector count='3'>Sinoconodon</otmi:vector>
+          <otmi:vector count='3'>skin</otmi:vector>
+          <otmi:vector count='3'>suggest</otmi:vector>
+          <otmi:vector count='3'>supporting</otmi:vector>
+          <otmi:vector count='3'>triconodonts</otmi:vector>
+          <otmi:vector count='2'>3</otmi:vector>
+          <otmi:vector count='2'>3a</otmi:vector>
+          <otmi:vector count='2'>3c</otmi:vector>
+          <otmi:vector count='2'>4</otmi:vector>
+          <otmi:vector count='2'>51</otmi:vector>
+          <otmi:vector count='2'>70</otmi:vector>
+          <otmi:vector count='2'>ability</otmi:vector>
+          <otmi:vector count='2'>aerial</otmi:vector>
+          <otmi:vector count='2'>along</otmi:vector>
+          <otmi:vector count='2'>arches</otmi:vector>
+          <otmi:vector count='2'>b</otmi:vector>
+          <otmi:vector count='2'>C</otmi:vector>
+          <otmi:vector count='2'>cheek</otmi:vector>
+          <otmi:vector count='2'>China</otmi:vector>
+          <otmi:vector count='2'>confirmed</otmi:vector>
+          <otmi:vector count='2'>corresponding</otmi:vector>
+          <otmi:vector count='2'>counterpart</otmi:vector>
+          <otmi:vector count='2'>Cretaceous</otmi:vector>
+          <otmi:vector count='2'>cynodonts</otmi:vector>
+          <otmi:vector count='2'>dates</otmi:vector>
+          <otmi:vector count='2'>deep</otmi:vector>
+          <otmi:vector count='2'>derived</otmi:vector>
+          <otmi:vector count='2'>development</otmi:vector>
+          <otmi:vector count='2'>didelphids</otmi:vector>
+          <otmi:vector count='2'>different</otmi:vector>
+          <otmi:vector count='2'>differentiated</otmi:vector>
+          <otmi:vector count='2'>digits</otmi:vector>
+          <otmi:vector count='2'>earlier</otmi:vector>
+          <otmi:vector count='2'>end</otmi:vector>
+          <otmi:vector count='2'>eutriconodontans</otmi:vector>
+          <otmi:vector count='2'>extant</otmi:vector>
+          <otmi:vector count='2'>feet</otmi:vector>
+          <otmi:vector count='2'>flying</otmi:vector>
+          <otmi:vector count='2'>foraging</otmi:vector>
+          <otmi:vector count='2'>fore</otmi:vector>
+          <otmi:vector count='2'>furry</otmi:vector>
+          <otmi:vector count='2'>generally</otmi:vector>
+          <otmi:vector count='2'>Given</otmi:vector>
+          <otmi:vector count='2'>glide</otmi:vector>
+          <otmi:vector count='2'>glider</otmi:vector>
+          <otmi:vector count='2'>Gliding</otmi:vector>
+          <otmi:vector count='2'>group</otmi:vector>
+          <otmi:vector count='2'>hallucal</otmi:vector>
+          <otmi:vector count='2'>hallux</otmi:vector>
+          <otmi:vector count='2'>high</otmi:vector>
+          <otmi:vector count='2'>highly</otmi:vector>
+          <otmi:vector count='2'>impression</otmi:vector>
+          <otmi:vector count='2'>labially</otmi:vector>
+          <otmi:vector count='2'>lacks</otmi:vector>
+          <otmi:vector count='2'>larger</otmi:vector>
+          <otmi:vector count='2'>Latin</otmi:vector>
+          <otmi:vector count='2'>leg</otmi:vector>
+          <otmi:vector count='2'>legs</otmi:vector>
+          <otmi:vector count='2'>lengths</otmi:vector>
+          <otmi:vector count='2'>living</otmi:vector>
+          <otmi:vector count='2'>mammal</otmi:vector>
+          <otmi:vector count='2'>mandible</otmi:vector>
+          <otmi:vector count='2'>manus</otmi:vector>
+          <otmi:vector count='2'>medially</otmi:vector>
+          <otmi:vector count='2'>morphological</otmi:vector>
+          <otmi:vector count='2'>movements</otmi:vector>
+          <otmi:vector count='2'>neck</otmi:vector>
+          <otmi:vector count='2'>non-mammalian</otmi:vector>
+          <otmi:vector count='2'>numerous</otmi:vector>
+          <otmi:vector count='2'>Oligocene</otmi:vector>
+          <otmi:vector count='2'>only</otmi:vector>
+          <otmi:vector count='2'>or</otmi:vector>
+          <otmi:vector count='2'>orientations</otmi:vector>
+          <otmi:vector count='2'>original</otmi:vector>
+          <otmi:vector count='2'>overlapping</otmi:vector>
+          <otmi:vector count='2'>P</otmi:vector>
+          <otmi:vector count='2'>paired</otmi:vector>
+          <otmi:vector count='2'>patagial</otmi:vector>
+          <otmi:vector count='2'>pes</otmi:vector>
+          <otmi:vector count='2'>phalanges</otmi:vector>
+          <otmi:vector count='2'>preservation</otmi:vector>
+          <otmi:vector count='2'>previously</otmi:vector>
+          <otmi:vector count='2'>pronounced</otmi:vector>
+          <otmi:vector count='2'>ratio</otmi:vector>
+          <otmi:vector count='2'>record</otmi:vector>
+          <otmi:vector count='2'>related</otmi:vector>
+          <otmi:vector count='2'>relationship</otmi:vector>
+          <otmi:vector count='2'>relationships</otmi:vector>
+          <otmi:vector count='2'>restricted</otmi:vector>
+          <otmi:vector count='2'>ridges</otmi:vector>
+          <otmi:vector count='2'>rodent</otmi:vector>
+          <otmi:vector count='2'>sharp</otmi:vector>
+          <otmi:vector count='2'>single-boned</otmi:vector>
+          <otmi:vector count='2'>size</otmi:vector>
+          <otmi:vector count='2'>skeletal</otmi:vector>
+          <otmi:vector count='2'>specialized</otmi:vector>
+          <otmi:vector count='2'>stretches</otmi:vector>
+          <otmi:vector count='2'>sufficient</otmi:vector>
+          <otmi:vector count='2'>surrounding</otmi:vector>
+          <otmi:vector count='2'>terminal</otmi:vector>
+          <otmi:vector count='2'>thought</otmi:vector>
+          <otmi:vector count='2'>transport</otmi:vector>
+          <otmi:vector count='2'>tree</otmi:vector>
+          <otmi:vector count='2'>triconodont</otmi:vector>
+          <otmi:vector count='2'>two</otmi:vector>
+          <otmi:vector count='2'>upper</otmi:vector>
+          <otmi:vector count='1'>10 g–1.5 kg</otmi:vector>
+          <otmi:vector count='1'>120–140 mm</otmi:vector>
+          <otmi:vector count='1'>125</otmi:vector>
+          <otmi:vector count='1'>1758</otmi:vector>
+          <otmi:vector count='1'>1a</otmi:vector>
+          <otmi:vector count='1'>28.3 mm</otmi:vector>
+          <otmi:vector count='1'>35</otmi:vector>
+          <otmi:vector count='1'>35 mm</otmi:vector>
+          <otmi:vector count='1'>435</otmi:vector>
+          <otmi:vector count='1'>58</otmi:vector>
+          <otmi:vector count='1'>absence</otmi:vector>
+          <otmi:vector count='1'>Academy</otmi:vector>
+          <otmi:vector count='1'>accessory</otmi:vector>
+          <otmi:vector count='1'>acetabulum</otmi:vector>
+          <otmi:vector count='1'>achieved</otmi:vector>
+          <otmi:vector count='1'>act</otmi:vector>
+          <otmi:vector count='1'>actually</otmi:vector>
+          <otmi:vector count='1'>adjacent</otmi:vector>
+          <otmi:vector count='1'>advantages</otmi:vector>
+          <otmi:vector count='1'>affinities</otmi:vector>
+          <otmi:vector count='1'>affinity</otmi:vector>
+          <otmi:vector count='1'>Age</otmi:vector>
+          <otmi:vector count='1'>agile</otmi:vector>
+          <otmi:vector count='1'>air</otmi:vector>
+          <otmi:vector count='1'>airborne</otmi:vector>
+          <otmi:vector count='1'>airfoil</otmi:vector>
+          <otmi:vector count='1'>align</otmi:vector>
+          <otmi:vector count='1'>aligned</otmi:vector>
+          <otmi:vector count='1'>allowed</otmi:vector>
+          <otmi:vector count='1'>allowing</otmi:vector>
+          <otmi:vector count='1'>alone</otmi:vector>
+          <otmi:vector count='1'>altitude</otmi:vector>
+          <otmi:vector count='1'>ample</otmi:vector>
+          <otmi:vector count='1'>analysis</otmi:vector>
+          <otmi:vector count='1'>anatomical</otmi:vector>
+          <otmi:vector count='1'>ancestor</otmi:vector>
+          <otmi:vector count='1'>ancestral</otmi:vector>
+          <otmi:vector count='1'>ancient</otmi:vector>
+          <otmi:vector count='1'>angle</otmi:vector>
+          <otmi:vector count='1'>angular</otmi:vector>
+          <otmi:vector count='1'>Animal</otmi:vector>
+          <otmi:vector count='1'>animals</otmi:vector>
+          <otmi:vector count='1'>anterior</otmi:vector>
+          <otmi:vector count='1'>anteroposteriorly</otmi:vector>
+          <otmi:vector count='1'>arch</otmi:vector>
+          <otmi:vector count='1'>arched</otmi:vector>
+          <otmi:vector count='1'>areas</otmi:vector>
+          <otmi:vector count='1'>arose</otmi:vector>
+          <otmi:vector count='1'>articulations</otmi:vector>
+          <otmi:vector count='1'>aspect</otmi:vector>
+          <otmi:vector count='1'>back</otmi:vector>
+          <otmi:vector count='1'>ball-and-socket</otmi:vector>
+          <otmi:vector count='1'>based</otmi:vector>
+          <otmi:vector count='1'>beast</otmi:vector>
+          <otmi:vector count='1'>beds</otmi:vector>
+          <otmi:vector count='1'>behaviours</otmi:vector>
+          <otmi:vector count='1'>Beijing</otmi:vector>
+          <otmi:vector count='1'>Biota</otmi:vector>
+          <otmi:vector count='1'>birds</otmi:vector>
+          <otmi:vector count='1'>bone</otmi:vector>
+          <otmi:vector count='1'>branches</otmi:vector>
+          <otmi:vector count='1'>bridges</otmi:vector>
+          <otmi:vector count='1'>broad</otmi:vector>
+          <otmi:vector count='1'>broadly</otmi:vector>
+          <otmi:vector count='1'>canines</otmi:vector>
+          <otmi:vector count='1'>capture</otmi:vector>
+          <otmi:vector count='1'>carapace</otmi:vector>
+          <otmi:vector count='1'>Carpolestes</otmi:vector>
+          <otmi:vector count='1'>certainly</otmi:vector>
+          <otmi:vector count='1'>characteristic</otmi:vector>
+          <otmi:vector count='1'>characters</otmi:vector>
+          <otmi:vector count='1'>Chinese</otmi:vector>
+          <otmi:vector count='1'>claw</otmi:vector>
+          <otmi:vector count='1'>climbers</otmi:vector>
+          <otmi:vector count='1'>climbing</otmi:vector>
+          <otmi:vector count='1'>combined</otmi:vector>
+          <otmi:vector count='1'>committing</otmi:vector>
+          <otmi:vector count='1'>commonly</otmi:vector>
+          <otmi:vector count='1'>comparable</otmi:vector>
+          <otmi:vector count='1'>compared</otmi:vector>
+          <otmi:vector count='1'>Comparison</otmi:vector>
+          <otmi:vector count='1'>completely</otmi:vector>
+          <otmi:vector count='1'>complex</otmi:vector>
+          <otmi:vector count='1'>compressed</otmi:vector>
+          <otmi:vector count='1'>concentrated</otmi:vector>
+          <otmi:vector count='1'>conchostracans</otmi:vector>
+          <otmi:vector count='1'>condition</otmi:vector>
+          <otmi:vector count='1'>confine</otmi:vector>
+          <otmi:vector count='1'>conical</otmi:vector>
+          <otmi:vector count='1'>consistent</otmi:vector>
+          <otmi:vector count='1'>consisting</otmi:vector>
+          <otmi:vector count='1'>contact</otmi:vector>
+          <otmi:vector count='1'>containing</otmi:vector>
+          <otmi:vector count='1'>contains</otmi:vector>
+          <otmi:vector count='1'>continues</otmi:vector>
+          <otmi:vector count='1'>contrast</otmi:vector>
+          <otmi:vector count='1'>control</otmi:vector>
+          <otmi:vector count='1'>controlled</otmi:vector>
+          <otmi:vector count='1'>controversial</otmi:vector>
+          <otmi:vector count='1'>conventionally</otmi:vector>
+          <otmi:vector count='1'>convincing</otmi:vector>
+          <otmi:vector count='1'>County</otmi:vector>
+          <otmi:vector count='1'>Coupled</otmi:vector>
+          <otmi:vector count='1'>covered</otmi:vector>
+          <otmi:vector count='1'>crown</otmi:vector>
+          <otmi:vector count='1'>currently</otmi:vector>
+          <otmi:vector count='1'>cuspate</otmi:vector>
+          <otmi:vector count='1'>Cynocephalus</otmi:vector>
+          <otmi:vector count='1'>data</otmi:vector>
+          <otmi:vector count='1'>deeply</otmi:vector>
+          <otmi:vector count='1'>defined</otmi:vector>
+          <otmi:vector count='1'>degree</otmi:vector>
+          <otmi:vector count='1'>dense</otmi:vector>
+          <otmi:vector count='1'>dental</otmi:vector>
+          <otmi:vector count='1'>dentary</otmi:vector>
+          <otmi:vector count='1'>dentition</otmi:vector>
+          <otmi:vector count='1'>dentitions</otmi:vector>
+          <otmi:vector count='1'>derivable</otmi:vector>
+          <otmi:vector count='1'>Dermoptera</otmi:vector>
+          <otmi:vector count='1'>description</otmi:vector>
+          <otmi:vector count='1'>detailed</otmi:vector>
+          <otmi:vector count='1'>Diagnosis</otmi:vector>
+          <otmi:vector count='1'>differentiate</otmi:vector>
+          <otmi:vector count='1'>differing</otmi:vector>
+          <otmi:vector count='1'>differs</otmi:vector>
+          <otmi:vector count='1'>direct</otmi:vector>
+          <otmi:vector count='1'>distinguishes</otmi:vector>
+          <otmi:vector count='1'>diverges</otmi:vector>
+          <otmi:vector count='1'>diverging</otmi:vector>
+          <otmi:vector count='1'>docodontans</otmi:vector>
+          <otmi:vector count='1'>dorsal</otmi:vector>
+          <otmi:vector count='1'>dorsally</otmi:vector>
+          <otmi:vector count='1'>dorsoventral</otmi:vector>
+          <otmi:vector count='1'>dweller</otmi:vector>
+          <otmi:vector count='1'>easily</otmi:vector>
+          <otmi:vector count='1'>economic</otmi:vector>
+          <otmi:vector count='1'>element</otmi:vector>
+          <otmi:vector count='1'>elongation</otmi:vector>
+          <otmi:vector count='1'>enabling</otmi:vector>
+          <otmi:vector count='1'>energetically</otmi:vector>
+          <otmi:vector count='1'>environments</otmi:vector>
+          <otmi:vector count='1'>Eocene</otmi:vector>
+          <otmi:vector count='1'>Eomaia</otmi:vector>
+          <otmi:vector count='1'>eomyid</otmi:vector>
+          <otmi:vector count='1'>essential</otmi:vector>
+          <otmi:vector count='1'>estimated</otmi:vector>
+          <otmi:vector count='1'>estimates</otmi:vector>
+          <otmi:vector count='1'>et</otmi:vector>
+          <otmi:vector count='1'>Etymology</otmi:vector>
+          <otmi:vector count='1'>Euestheria</otmi:vector>
+          <otmi:vector count='1'>eutriconodontan</otmi:vector>
+          <otmi:vector count='1'>evasion</otmi:vector>
+          <otmi:vector count='1'>even</otmi:vector>
+          <otmi:vector count='1'>except</otmi:vector>
+          <otmi:vector count='1'>excursion</otmi:vector>
+          <otmi:vector count='1'>expected</otmi:vector>
+          <otmi:vector count='1'>experimented</otmi:vector>
+          <otmi:vector count='1'>exploited</otmi:vector>
+          <otmi:vector count='1'>exposed</otmi:vector>
+          <otmi:vector count='1'>Extant</otmi:vector>
+          <otmi:vector count='1'>extend</otmi:vector>
+          <otmi:vector count='1'>extended</otmi:vector>
+          <otmi:vector count='1'>extreme</otmi:vector>
+          <otmi:vector count='1'>extremely</otmi:vector>
+          <otmi:vector count='1'>fam</otmi:vector>
+          <otmi:vector count='1'>fauna</otmi:vector>
+          <otmi:vector count='1'>Figs</otmi:vector>
+          <otmi:vector count='1'>fine</otmi:vector>
+          <otmi:vector count='1'>flare</otmi:vector>
+          <otmi:vector count='1'>flattened</otmi:vector>
+          <otmi:vector count='1'>flex</otmi:vector>
+          <otmi:vector count='1'>flexibility</otmi:vector>
+          <otmi:vector count='1'>flexor</otmi:vector>
+          <otmi:vector count='1'>flexor-sheath</otmi:vector>
+          <otmi:vector count='1'>fold</otmi:vector>
+          <otmi:vector count='1'>folding</otmi:vector>
+          <otmi:vector count='1'>following</otmi:vector>
+          <otmi:vector count='1'>foot</otmi:vector>
+          <otmi:vector count='1'>forage</otmi:vector>
+          <otmi:vector count='1'>form</otmi:vector>
+          <otmi:vector count='1'>forms</otmi:vector>
+          <otmi:vector count='1'>formula</otmi:vector>
+          <otmi:vector count='1'>fossil</otmi:vector>
+          <otmi:vector count='1'>fossils</otmi:vector>
+          <otmi:vector count='1'>four</otmi:vector>
+          <otmi:vector count='1'>g</otmi:vector>
+          <otmi:vector count='1'>gen</otmi:vector>
+          <otmi:vector count='1'>generalized</otmi:vector>
+          <otmi:vector count='1'>generates</otmi:vector>
+          <otmi:vector count='1'>Glaucomys</otmi:vector>
+          <otmi:vector count='1'>Greek</otmi:vector>
+          <otmi:vector count='1'>grips</otmi:vector>
+          <otmi:vector count='1'>groove</otmi:vector>
+          <otmi:vector count='1'>groups</otmi:vector>
+          <otmi:vector count='1'>habitually</otmi:vector>
+          <otmi:vector count='1'>hands</otmi:vector>
+          <otmi:vector count='1'>Holotype</otmi:vector>
+          <otmi:vector count='1'>Horizon</otmi:vector>
+          <otmi:vector count='1'>horizontally</otmi:vector>
+          <otmi:vector count='1'>housed</otmi:vector>
+          <otmi:vector count='1'>hypothesis</otmi:vector>
+          <otmi:vector count='1'>identifiable</otmi:vector>
+          <otmi:vector count='1'>identified</otmi:vector>
+          <otmi:vector count='1'>identifies</otmi:vector>
+          <otmi:vector count='1'>important</otmi:vector>
+          <otmi:vector count='1'>incisors</otmi:vector>
+          <otmi:vector count='1'>including</otmi:vector>
+          <otmi:vector count='1'>inclusive</otmi:vector>
+          <otmi:vector count='1'>increased</otmi:vector>
+          <otmi:vector count='1'>independent</otmi:vector>
+          <otmi:vector count='1'>independently</otmi:vector>
+          <otmi:vector count='1'>indicated</otmi:vector>
+          <otmi:vector count='1'>indicating</otmi:vector>
+          <otmi:vector count='1'>indicative</otmi:vector>
+          <otmi:vector count='1'>Inner</otmi:vector>
+          <otmi:vector count='1'>insectivorous</otmi:vector>
+          <otmi:vector count='1'>Institute</otmi:vector>
+          <otmi:vector count='1'>interlock</otmi:vector>
+          <otmi:vector count='1'>intermediate</otmi:vector>
+          <otmi:vector count='1'>internasal</otmi:vector>
+          <otmi:vector count='1'>isolated</otmi:vector>
+          <otmi:vector count='1'>IVPP</otmi:vector>
+          <otmi:vector count='1'>jaw</otmi:vector>
+          <otmi:vector count='1'>Jehol</otmi:vector>
+          <otmi:vector count='1'>Jeholodens</otmi:vector>
+          <otmi:vector count='1'>lacking</otmi:vector>
+          <otmi:vector count='1'>landing</otmi:vector>
+          <otmi:vector count='1'>lateral</otmi:vector>
+          <otmi:vector count='1'>laterally</otmi:vector>
+          <otmi:vector count='1'>launch</otmi:vector>
+          <otmi:vector count='1'>layers</otmi:vector>
+          <otmi:vector count='1'>least</otmi:vector>
+          <otmi:vector count='1'>less</otmi:vector>
+          <otmi:vector count='1'>Life</otmi:vector>
+          <otmi:vector count='1'>life</otmi:vector>
+          <otmi:vector count='1'>lift</otmi:vector>
+          <otmi:vector count='1'>lifting</otmi:vector>
+          <otmi:vector count='1'>limited</otmi:vector>
+          <otmi:vector count='1'>line</otmi:vector>
+          <otmi:vector count='1'>Linnaeus</otmi:vector>
+          <otmi:vector count='1'>littoral</otmi:vector>
+          <otmi:vector count='1'>load</otmi:vector>
+          <otmi:vector count='1'>locality</otmi:vector>
+          <otmi:vector count='1'>locomotor</otmi:vector>
+          <otmi:vector count='1'>longer</otmi:vector>
+          <otmi:vector count='1'>manoeuvrable</otmi:vector>
+          <otmi:vector count='1'>manual</otmi:vector>
+          <otmi:vector count='1'>Many</otmi:vector>
+          <otmi:vector count='1'>many</otmi:vector>
+          <otmi:vector count='1'>Marsupialia</otmi:vector>
+          <otmi:vector count='1'>meant</otmi:vector>
+          <otmi:vector count='1'>mediolaterally</otmi:vector>
+          <otmi:vector count='1'>membrane</otmi:vector>
+          <otmi:vector count='1'>metatarsals</otmi:vector>
+          <otmi:vector count='1'>metatarsus</otmi:vector>
+          <otmi:vector count='1'>Middle</otmi:vector>
+          <otmi:vector count='1'>million</otmi:vector>
+          <otmi:vector count='1'>missing</otmi:vector>
+          <otmi:vector count='1'>molars</otmi:vector>
+          <otmi:vector count='1'>Mongolia</otmi:vector>
+          <otmi:vector count='1'>Moreover</otmi:vector>
+          <otmi:vector count='1'>morganucodontids</otmi:vector>
+          <otmi:vector count='1'>Morocco</otmi:vector>
+          <otmi:vector count='1'>much</otmi:vector>
+          <otmi:vector count='1'>multituberculates</otmi:vector>
+          <otmi:vector count='1'>muscles</otmi:vector>
+          <otmi:vector count='1'>naris</otmi:vector>
+          <otmi:vector count='1'>nasals</otmi:vector>
+          <otmi:vector count='1'>new</otmi:vector>
+          <otmi:vector count='1'>Ningcheng</otmi:vector>
+          <otmi:vector count='1'>non-gliding</otmi:vector>
+          <otmi:vector count='1'>obtain</otmi:vector>
+          <otmi:vector count='1'>older</otmi:vector>
+          <otmi:vector count='1'>ones</otmi:vector>
+          <otmi:vector count='1'>Only</otmi:vector>
+          <otmi:vector count='1'>open</otmi:vector>
+          <otmi:vector count='1'>ord</otmi:vector>
+          <otmi:vector count='1'>Order</otmi:vector>
+          <otmi:vector count='1'>Other</otmi:vector>
+          <otmi:vector count='1'>outward</otmi:vector>
+          <otmi:vector count='1'>oval-shaped</otmi:vector>
+          <otmi:vector count='1'>ovoid-shaped</otmi:vector>
+          <otmi:vector count='1'>packed</otmi:vector>
+          <otmi:vector count='1'>palaeontology</otmi:vector>
+          <otmi:vector count='1'>Paleoanthropology</otmi:vector>
+          <otmi:vector count='1'>Paleontology</otmi:vector>
+          <otmi:vector count='1'>parallel</otmi:vector>
+          <otmi:vector count='1'>paromomyids</otmi:vector>
+          <otmi:vector count='1'>part</otmi:vector>
+          <otmi:vector count='1'>partially</otmi:vector>
+          <otmi:vector count='1'>participated</otmi:vector>
+          <otmi:vector count='1'>participation</otmi:vector>
+          <otmi:vector count='1'>particularly</otmi:vector>
+          <otmi:vector count='1'>parts</otmi:vector>
+          <otmi:vector count='1'>Patagium</otmi:vector>
+          <otmi:vector count='1'>patagium.</otmi:vector>
+          <otmi:vector count='1'>peculiar</otmi:vector>
+          <otmi:vector count='1'>Pedal</otmi:vector>
+          <otmi:vector count='1'>pedal</otmi:vector>
+          <otmi:vector count='1'>period</otmi:vector>
+          <otmi:vector count='1'>perpendicular</otmi:vector>
+          <otmi:vector count='1'>point</otmi:vector>
+          <otmi:vector count='1'>poor</otmi:vector>
+          <otmi:vector count='1'>position</otmi:vector>
+          <otmi:vector count='1'>positioned</otmi:vector>
+          <otmi:vector count='1'>postures</otmi:vector>
+          <otmi:vector count='1'>predators</otmi:vector>
+          <otmi:vector count='1'>predominantly</otmi:vector>
+          <otmi:vector count='1'>premaxilla</otmi:vector>
+          <otmi:vector count='1'>premolariforms</otmi:vector>
+          <otmi:vector count='1'>prey</otmi:vector>
+          <otmi:vector count='1'>primitive</otmi:vector>
+          <otmi:vector count='1'>problematic</otmi:vector>
+          <otmi:vector count='1'>prominent</otmi:vector>
+          <otmi:vector count='1'>proportionally</otmi:vector>
+          <otmi:vector count='1'>provides</otmi:vector>
+          <otmi:vector count='1'>quadrupedal</otmi:vector>
+          <otmi:vector count='1'>range</otmi:vector>
+          <otmi:vector count='1'>ranging</otmi:vector>
+          <otmi:vector count='1'>rare</otmi:vector>
+          <otmi:vector count='1'>recognize</otmi:vector>
+          <otmi:vector count='1'>regarded</otmi:vector>
+          <otmi:vector count='1'>region</otmi:vector>
+          <otmi:vector count='1'>relative</otmi:vector>
+          <otmi:vector count='1'>remain</otmi:vector>
+          <otmi:vector count='1'>represents</otmi:vector>
+          <otmi:vector count='1'>requires</otmi:vector>
+          <otmi:vector count='1'>resemble</otmi:vector>
+          <otmi:vector count='1'>result</otmi:vector>
+          <otmi:vector count='1'>resulting</otmi:vector>
+          <otmi:vector count='1'>reveals</otmi:vector>
+          <otmi:vector count='1'>ridge</otmi:vector>
+          <otmi:vector count='1'>robust</otmi:vector>
+          <otmi:vector count='1'>Rodentia</otmi:vector>
+          <otmi:vector count='1'>rotational</otmi:vector>
+          <otmi:vector count='1'>same</otmi:vector>
+          <otmi:vector count='1'>sandwiched</otmi:vector>
+          <otmi:vector count='1'>sandwiches</otmi:vector>
+          <otmi:vector count='1'>Sciences</otmi:vector>
+          <otmi:vector count='1'>second</otmi:vector>
+          <otmi:vector count='1'>secure</otmi:vector>
+          <otmi:vector count='1'>sediments</otmi:vector>
+          <otmi:vector count='1'>selected</otmi:vector>
+          <otmi:vector count='1'>separated</otmi:vector>
+          <otmi:vector count='1'>set</otmi:vector>
+          <otmi:vector count='1'>seven</otmi:vector>
+          <otmi:vector count='1'>shallow</otmi:vector>
+          <otmi:vector count='1'>shape</otmi:vector>
+          <otmi:vector count='1'>sheath</otmi:vector>
+          <otmi:vector count='1'>short</otmi:vector>
+          <otmi:vector count='1'>short-limbed</otmi:vector>
+          <otmi:vector count='1'>similarly</otmi:vector>
+          <otmi:vector count='1'>Sinodelphys</otmi:vector>
+          <otmi:vector count='1'>sister</otmi:vector>
+          <otmi:vector count='1'>sizable</otmi:vector>
+          <otmi:vector count='1'>skeleton</otmi:vector>
+          <otmi:vector count='1'>skull</otmi:vector>
+          <otmi:vector count='1'>sky</otmi:vector>
+          <otmi:vector count='1'>slab</otmi:vector>
+          <otmi:vector count='1'>soft</otmi:vector>
+          <otmi:vector count='1'>sp</otmi:vector>
+          <otmi:vector count='1'>specimen</otmi:vector>
+          <otmi:vector count='1'>split</otmi:vector>
+          <otmi:vector count='1'>squashed</otmi:vector>
+          <otmi:vector count='1'>squirrel</otmi:vector>
+          <otmi:vector count='1'>squirrel-sized</otmi:vector>
+          <otmi:vector count='1'>squirrels</otmi:vector>
+          <otmi:vector count='1'>stability</otmi:vector>
+          <otmi:vector count='1'>stabilizer</otmi:vector>
+          <otmi:vector count='1'>stable</otmi:vector>
+          <otmi:vector count='1'>steady</otmi:vector>
+          <otmi:vector count='1'>stiff</otmi:vector>
+          <otmi:vector count='1'>stock</otmi:vector>
+          <otmi:vector count='1'>strategy</otmi:vector>
+          <otmi:vector count='1'>strong</otmi:vector>
+          <otmi:vector count='1'>structurally</otmi:vector>
+          <otmi:vector count='1'>structure</otmi:vector>
+          <otmi:vector count='1'>style</otmi:vector>
+          <otmi:vector count='1'>support</otmi:vector>
+          <otmi:vector count='1'>supports</otmi:vector>
+          <otmi:vector count='1'>symmetrodontans</otmi:vector>
+          <otmi:vector count='1'>Systematic</otmi:vector>
+          <otmi:vector count='1'>tall</otmi:vector>
+          <otmi:vector count='1'>tarsal</otmi:vector>
+          <otmi:vector count='1'>taxa</otmi:vector>
+          <otmi:vector count='1'>taxon</otmi:vector>
+          <otmi:vector count='1'>terrestrial</otmi:vector>
+          <otmi:vector count='1'>theri</otmi:vector>
+          <otmi:vector count='1'>thick</otmi:vector>
+          <otmi:vector count='1'>three</otmi:vector>
+          <otmi:vector count='1'>tightly</otmi:vector>
+          <otmi:vector count='1'>time</otmi:vector>
+          <otmi:vector count='1'>times</otmi:vector>
+          <otmi:vector count='1'>tooth</otmi:vector>
+          <otmi:vector count='1'>travel</otmi:vector>
+          <otmi:vector count='1'>treated</otmi:vector>
+          <otmi:vector count='1'>trechnotherians</otmi:vector>
+          <otmi:vector count='1'>trees</otmi:vector>
+          <otmi:vector count='1'>trenchant</otmi:vector>
+          <otmi:vector count='1'>triconodont-like</otmi:vector>
+          <otmi:vector count='1'>Two</otmi:vector>
+          <otmi:vector count='1'>typical</otmi:vector>
+          <otmi:vector count='1'>unknown</otmi:vector>
+          <otmi:vector count='1'>Unlike</otmi:vector>
+          <otmi:vector count='1'>up</otmi:vector>
+          <otmi:vector count='1'>uppers</otmi:vector>
+          <otmi:vector count='1'>uropatagia</otmi:vector>
+          <otmi:vector count='1'>usually</otmi:vector>
+          <otmi:vector count='1'>V14739</otmi:vector>
+          <otmi:vector count='1'>valves</otmi:vector>
+          <otmi:vector count='1'>ventral</otmi:vector>
+          <otmi:vector count='1'>ventrally</otmi:vector>
+          <otmi:vector count='1'>Vertebrate</otmi:vector>
+          <otmi:vector count='1'>vertical</otmi:vector>
+          <otmi:vector count='1'>volans</otmi:vector>
+          <otmi:vector count='1'>Volaticotheria</otmi:vector>
+          <otmi:vector count='1'>Volaticotheriidae</otmi:vector>
+          <otmi:vector count='1'>Volaticus</otmi:vector>
+          <otmi:vector count='1'>weight</otmi:vector>
+          <otmi:vector count='1'>well-trochleated</otmi:vector>
+          <otmi:vector count='1'>where</otmi:vector>
+          <otmi:vector count='1'>whereas</otmi:vector>
+          <otmi:vector count='1'>whether</otmi:vector>
+          <otmi:vector count='1'>wider</otmi:vector>
+          <otmi:vector count='1'>winged</otmi:vector>
+          <otmi:vector count='1'>years</otmi:vector>
+          <otmi:vector count='1'>Zhangheotherium</otmi:vector>
+        </otmi:vectors>
+        <otmi:snippets>
+          <otmi:split-regex>(?-mix:\.\s+(?=[A-Z]))</otmi:split-regex>
+          <otmi:snippet>A phylogenetic analysis of selected Mesozoic mammals based on a data set consisting of 58 taxa and 435 characters identifies Volaticotherium as an independent clade in Mammalia, defined either as the crown group or as a more inclusive group ( Fig. 2 ; Supplementary Information )</otmi:snippet>
+          <otmi:snippet>A sesamoid bone is at the distal phalange joint of the hallux</otmi:snippet>
+          <otmi:snippet>A single-boned mandible and the presence of paired sesamoid bones between the metatarsus and phalange further differentiate Volaticotherium from Sinoconodon, Morganucodon and docodontans </otmi:snippet>
+          <otmi:snippet>A small squirrel-sized mammal that differs from all known Mesozoic mammals in having the following features: presence of a sizable furry patagium; elongated limb bones; femur with a small, ovoid-shaped head that lacks a neck; hallux diverging medially; proximal phalanges with pronounced flexor-sheath ridges; long tail with elongated and dorsoventrally flat caudal vertebrae and haemal arches; a highly differentiated dentition with a dental formula of I 3 -C 1 -P 4 -M 3 /I 2 -C 1 -P 4 -M 2 ; incisors small and conical; canines long and sharp; molariforms with tall, sharp and posteriorly recumbent cusps that are aligned in line but are deeply separated; cusps of lower molariforms are more posteriorly recumbent and tightly packed than the uppers; cusp d of M 1 labially overlapping cusp b of M 2 (see Supplementary Information for a detailed description)</otmi:snippet>
+          <otmi:snippet>A squashed skeleton preserved in the part and counterpart of a split slab that also contains numerous carapace valves of small conchostracans ( Euestheria ) ( Fig. 1 )</otmi:snippet>
+          <otmi:snippet>Age estimates of the Daohugou beds are controversial, ranging from Middle Jurassic , through Late Jurassic , to Late Jurassic/Early Cretaceous </otmi:snippet>
+          <otmi:snippet>Although the hip structure was not preserved, the shape of the femoral head alone reveals that the acetabulum is probably shallow and open, perhaps similar to those of arboreal didelphids </otmi:snippet>
+          <otmi:snippet>Animal flight requires a high degree of morphological adaptation, of which the most important feature is the development of a sufficient surface area to form an airfoil that supports the weight of the animal and generates lift for the animal to travel horizontally in air</otmi:snippet>
+          <otmi:snippet>Comparison and affinity In addition to its unique patagium and related skeletal features, the cheek teeth of Volaticotherium antiquus ( Fig. 1 ) differ from those of any known Mesozoic mammals except that they resemble, and are probably derivable from, those of triconodonts because the tooth cusps align anteroposteriorly</otmi:snippet>
+          <otmi:snippet>Coupled with the unique joint between the femur and hip, these morphologies indicate an extreme arboreal animal, a tree dweller that could forage on trees, similarly to some extant gliding mammals </otmi:snippet>
+          <otmi:snippet>Daohugou, Ningcheng County, Inner Mongolia, China</otmi:snippet>
+          <otmi:snippet>Diagnosis</otmi:snippet>
+          <otmi:snippet>Etymology</otmi:snippet>
+          <otmi:snippet>For mammals, such a surface area is obtained by the development of the patagium, a fold of skin membrane from the body, which usually stretches between the fore and hind legs and is controlled by complex muscles </otmi:snippet>
+          <otmi:snippet>Given its 28.3 mm jaw length, the skull length of V. antiquus is estimated to be about 35 mm and the combined head and body length around 120–140 mm with a body mass of around 70 g, similar to that of the flying squirrel Glaucomys volans </otmi:snippet>
+          <otmi:snippet>Given its phylogenetic relationship, V. antiquus was probably derived from a short-limbed ancestor</otmi:snippet>
+          <otmi:snippet>Gliding as a locomotor strategy has its advantages, such as being energetically economic, allowing a wider foraging area and enabling evasion from predators in arboreal environments , but fossils of gliding mammals are extremely rare</otmi:snippet>
+          <otmi:snippet>Gliding flight is thought to be ancestral to bats and arose up to seven times independently within three other mammalian groups: Marsupialia, Dermoptera and Rodentia </otmi:snippet>
+          <otmi:snippet>Holotype</otmi:snippet>
+          <otmi:snippet>Horizon and locality</otmi:snippet>
+          <otmi:snippet>However, the Daohugou fauna is older than the Jehol Biota that dates back to 125 Myr ago (see Supplementary Information )</otmi:snippet>
+          <otmi:snippet>Ichthyoconodon is currently treated as a eutriconodontan, but its affinities are problematic </otmi:snippet>
+          <otmi:snippet>If the known teeth of Ichthyoconodon are actually upper ones, they differ from those of V. antiquus by having lower cusps that are less recumbent posteriorly and more trenchant than those of V. antiquus </otmi:snippet>
+          <otmi:snippet>In addition to limb elongation, the caudal vertebrae of V. antiquus are long, broad and dorsoventrally flat with a low, dorsal, longitudinal ridge ( Fig. 3c )</otmi:snippet>
+          <otmi:snippet>In addition to the high, posteriorly recumbent cusps on molariforms, the cheek teeth of V. antiquus differ from triconodont teeth in having cusp d of M 1 labially overlapping cusp b of M 2 , and in lacking both an anterior accessory cuspate on the lower premolariforms and the interlock relationship of molariforms</otmi:snippet>
+          <otmi:snippet>In addition, the naris is proportionally larger than those of Sinoconodon, Morganucodon and non-mammalian cynodonts</otmi:snippet>
+          <otmi:snippet>In contrast, all limb elements of V. antiquus are significantly longer than the corresponding elements in other Mesozoic mammals (see Supplementary Information )</otmi:snippet>
+          <otmi:snippet>In some areas, perpendicular orientations of the hair on different layers of impressions suggest folding of the patagium in preservation ( Fig. 3a )</otmi:snippet>
+          <otmi:snippet>Life style Extant gliding mammals have a body mass range of 10 g–1.5 kg, broadly similar to that of bats </otmi:snippet>
+          <otmi:snippet>Many other limb features of V. antiquus are related to arboreal locomotion ( Fig. 1 ; Supplementary Information ), which is essential for V. antiquus to obtain altitude to a launch point for a glide</otmi:snippet>
+          <otmi:snippet>Mesozoic mammals generally have relatively short limbs, whether they were terrestrial, such as Jeholodens and Zhangheotherium , or tree climbers, such as Eomaia and Sinodelphys </otmi:snippet>
+          <otmi:snippet>Moreover, the presence of a posteriorly positioned angular process on the dentary further distinguishes V. antiquus from triconodonts</otmi:snippet>
+          <otmi:snippet>Only four digits of the manus are partially preserved; they are structurally similar to those of the pes</otmi:snippet>
+          <otmi:snippet>Other gliding and arboreal features Two hind limbs are preserved with all elements nearly in original articulations ( Fig. 1 ; Supplementary Information )</otmi:snippet>
+          <otmi:snippet>Patagium and supporting structures The most prominent feature of Volaticotherium antiquus is the patagium that is covered with dense hair</otmi:snippet>
+          <otmi:snippet>Pedal metatarsals and proximal phalanges are dorsally arched with paired sesamoid bones between them</otmi:snippet>
+          <otmi:snippet>Several caudal vertebrae are also sandwiched by the impressions of the patagium</otmi:snippet>
+          <otmi:snippet>Some parts of the counterpart are missing</otmi:snippet>
+          <otmi:snippet>Systematic palaeontology Mammalia Linnaeus, 1758 Volaticotheria ord. nov</otmi:snippet>
+          <otmi:snippet>The absence of identifiable gliding mammals in the fossil record during a period of at least 70 million years is probably due to poor preservation of these small animals, particularly their characteristic gliding structures, such as the patagium.</otmi:snippet>
+          <otmi:snippet>The earliest confirmed record of bats dates from the Early Eocene about 51 Myr ago ; whereas the earliest confirmed gliding mammal with a small patagium is a Late Oligocene eomyid rodent </otmi:snippet>
+          <otmi:snippet>The femur has a small, oval-shaped head and lacks a femoral neck ( Fig. 3c, d ), which is unique among mammals </otmi:snippet>
+          <otmi:snippet>The furry patagium of Volaticotherium antiquus is direct evidence of its adaptation to gliding flight</otmi:snippet>
+          <otmi:snippet>The haemal arch that ventrally bridges two adjacent caudal vertebrae is also long and flat</otmi:snippet>
+          <otmi:snippet>The hair on the patagium and surrounding the body is fine and even, but that along several proximal caudal vertebrae is relatively thick</otmi:snippet>
+          <otmi:snippet>The hallucal metatarsal diverges medially at a 35° angle from the second metatarsal</otmi:snippet>
+          <otmi:snippet>The lower molariforms of V. antiquus differ from those of any known triconodonts</otmi:snippet>
+          <otmi:snippet>The morphological evidence for the earliest gliding locomotion from V. antiquus shows that mammals had experimented with aerial life much earlier than previously expected: probably at the same time as, if not earlier than, when birds exploited the sky</otmi:snippet>
+          <otmi:snippet>The morphologies of caudal vertebrae and haemal arches also indicate a stiff tail that had limited lateral and dorsoventral movements, and could act as a stabilizer when the animal was gliding, consistent with the hypothesis that longitudinal control and stability of a glider are achieved more easily with a long, dorsoventrally flattened tail </otmi:snippet>
+          <otmi:snippet>The parallel orientations of hair along some caudal vertebrae are indicative of the original anatomical relationships of the hair, skin and bones</otmi:snippet>
+          <otmi:snippet>The patagium impression continues with skin and hair impressions surrounding the area where the skeletal elements are concentrated; it stretches to the phalange area of the foot and sandwiches the tarsal region</otmi:snippet>
+          <otmi:snippet>The patagium impression is not completely exposed but is sufficient to indicate its large size, certainly larger than that of the Oligocene gliding rodent </otmi:snippet>
+          <otmi:snippet>The patagium of V. antiquus has a low aspect ratio, as indicated by its limb lengths, which would have restricted it to gliding flight for transport and meant it was not manoeuvrable enough for aerial foraging</otmi:snippet>
+          <otmi:snippet>The pedal and manual morphologies of V. antiquus show that both the hind and fore feet are relatively long, and could have a strong ability to flex the digits to secure grips around branches that are large relative to the size of the animal</otmi:snippet>
+          <otmi:snippet>The phylogenetic position and numerous unique features indicate that Volaticotherium represents a previously unknown and highly specialized mammalian clade that was probably derived from a stock with triconodont-like dentitions</otmi:snippet>
+          <otmi:snippet>The presence of an internasal process of the premaxilla is a primitive feature in Mammalia, but in V. antiquus the process does not extend posteriorly to contact the nasals, thus differing from the condition in Sinoconodon, Morganucodon and non-mammalian cynodonts</otmi:snippet>
+          <otmi:snippet>The proximal end of the intermediate phalange is dorsoventrally deep, corresponding to a robust and well-trochleated distal end of the proximal phalange</otmi:snippet>
+          <otmi:snippet>The proximal phalange is relatively long compared to the metatarsal and has pronounced flexor sheath ridges that flare outward to confine a longitudinal groove on the ventral surface of the element</otmi:snippet>
+          <otmi:snippet>The ratio of limb lengths of V. antiquus to those of other Mesozoic mammals is similar to that between living gliding and non-gliding mammals</otmi:snippet>
+          <otmi:snippet>The soft structures are preserved as impressions ( Figs 1a , 3a ; Supplementary Information )</otmi:snippet>
+          <otmi:snippet>The specimen is housed in the Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China (IVPP V14739; see Supplementary Information )</otmi:snippet>
+          <otmi:snippet>The teeth are, however, more specialized and differentiated than those of any known triconodont</otmi:snippet>
+          <otmi:snippet>The terminal hallucal phalange, the only preserved terminal phalange, is large and mediolaterally compressed, indicating a large, deep claw</otmi:snippet>
+          <otmi:snippet>The upper molariforms of V. antiquus are most comparable with two isolated teeth, identified as lower molars, of Ichthyoconodon from the Early Cretaceous littoral sediments, Morocco </otmi:snippet>
+          <otmi:snippet>There was no convincing evidence of flight adaptation in mammals before 51 Myr ago</otmi:snippet>
+          <otmi:snippet>These features are significantly different from those that have a more generalized locomotion adaptation, such as morganucodontids , eutriconodontans and symmetrodontans , but are similar to various arboreal and gliding mammals, such as didelphids, Carpolestes , paromomyids, Cynocephalus and gliding squirrels, as a result of adaptation for vertical postures, climbing and other arboreal behaviours </otmi:snippet>
+          <otmi:snippet>These structures and their relationships with the patagium suggest the participation of the proximal caudal vertebrae in supporting the patagium and thus presence of uropatagia between the tail and hind limbs</otmi:snippet>
+          <otmi:snippet>These suggest that the limbs, probably including the pes and manus, had participated in supporting the patagium</otmi:snippet>
+          <otmi:snippet>To support an increased area of patagium, limbs of extant gliding mammals are commonly elongated </otmi:snippet>
+          <otmi:snippet>Unlike the ball-and-socket hip joint that provides ample excursion for legs in other mammals , the peculiar femoral head of Volaticotherium must have restricted flexibility of the leg in rotational movements, but could have allowed the leg to be extended laterally and remain steady during a glide</otmi:snippet>
+          <otmi:snippet>V. antiquus has body hair and a single-boned mandible, which are conventionally regarded as typical mammalian features</otmi:snippet>
+          <otmi:snippet>Volaticotheriidae fam. nov</otmi:snippet>
+          <otmi:snippet>Volaticotherium antiquus could have been an agile glider because of its low patagial load, resulting from its small body mass and relatively large patagium, but it probably did not have the ability to habitually capture airborne prey, as many insectivorous bats do</otmi:snippet>
+          <otmi:snippet>Volaticotherium antiquus gen. et sp. nov</otmi:snippet>
+          <otmi:snippet>Volaticotherium antiquus was most probably nocturnal, not only because small Mesozoic mammals are generally thought to be nocturnal , but also because gliding mammals are predominantly arboreal and nocturnal </otmi:snippet>
+          <otmi:snippet>Volaticus (Latin): winged, flying; theri (Greek): beast; antiquus (Latin): ancient</otmi:snippet>
+          <otmi:snippet>We recognize this clade as a new mammalian Order</otmi:snippet>
+          <otmi:snippet>When not committing its distal limbs to the patagial lifting surface, the hands and feet of V. antiquus could be used for surface transport and stable quadrupedal landing, as in some living, gliding mammals </otmi:snippet>
+          <otmi:snippet>Within Mammalia, Volaticotherium forms the sister taxon to the clade containing eutriconodontans, multituberculates and trechnotherians</otmi:snippet>
+        </otmi:snippets>
+      </otmi:section>
+    </otmi:section>
+    <otmi:figure>
+      <otmi:title>
+        <otmi:reduced-text>Volaticotherium antiquus gen. et sp. nov. , b , specimen V. antiquus ( ) X-radiographic image ( b ; holotype, IVPP V14739). c , Line drawing illustrating major skeletal elements b . ca1, 5, 10, 13, 15, 18 1st, 5th, 10th, 13th, 15th 18th preserved caudal vertebrate, respectively; lf, left fibula; lfm, left femur; lh, left humerus; llj, left lower jaw; lr, left radius; lt, left tibia; lu, left ulna; mc, metacarpals; mt, metatarsals; rf, right fibula; rfm, right femur; rh, right humerus; rs, rostrum skull; rt, right tibia; sc, scapula; tp, terminal phalange; tv, thoracic vertebrae. – c same scale. d , Reconstructed skull lower jaws V. antiquus .</otmi:reduced-text>
+      </otmi:title>
+      <otmi:caption>
+        <otmi:reduced-text>Volaticotherium antiquus gen. et sp. nov. , b , specimen V. antiquus ( ) X-radiographic image ( b ; holotype, IVPP V14739). c , Line drawing illustrating major skeletal elements b . ca1, 5, 10, 13, 15, 18 1st, 5th, 10th, 13th, 15th 18th preserved caudal vertebrate, respectively; lf, left fibula; lfm, left femur; lh, left humerus; llj, left lower jaw; lr, left radius; lt, left tibia; lu, left ulna; mc, metacarpals; mt, metatarsals; rf, right fibula; rfm, right femur; rh, right humerus; rs, rostrum skull; rt, right tibia; sc, scapula; tp, terminal phalange; tv, thoracic vertebrae. – c same scale. d , Reconstructed skull lower jaws V. antiquus .</otmi:reduced-text>
+      </otmi:caption>
+    </otmi:figure>
+    <otmi:figure>
+      <otmi:title>
+        <otmi:reduced-text>Phylogenetic relationships major Mesozoic mammalian groups, including Volaticotherium antiquus . cladogram (tree length = 1,520; consistency index (CI) = 0.408; retention index (RI) = 0.609) strict consensus 72 equally parsimonious trees (tree length =1,354; CI = 0.458; RI = 0.749) 1,000 replications random heuristic searches PAUP 4.0b10 (Mac version) parsimony principle assumed characters unordered. data matrix consists 58 taxa 435 characters (see Supplementary Information ); constructed Mesquite (v. 1.06) ( http://mesquiteproject.org ) converted final data matrix MacClade 4.08 Mac OS X .</otmi:reduced-text>
+      </otmi:title>
+      <otmi:caption>
+        <otmi:reduced-text>Phylogenetic relationships major Mesozoic mammalian groups, including Volaticotherium antiquus . cladogram (tree length = 1,520; consistency index (CI) = 0.408; retention index (RI) = 0.609) strict consensus 72 equally parsimonious trees (tree length =1,354; CI = 0.458; RI = 0.749) 1,000 replications random heuristic searches PAUP 4.0b10 (Mac version) parsimony principle assumed characters unordered. data matrix consists 58 taxa 435 characters (see Supplementary Information ); constructed Mesquite (v. 1.06) ( http://mesquiteproject.org ) converted final data matrix MacClade 4.08 Mac OS X .</otmi:reduced-text>
+      </otmi:caption>
+    </otmi:figure>
+    <otmi:figure>
+      <otmi:title>
+        <otmi:reduced-text>Detailed features related gliding arboreal locomotion Volaticotherium antiquus. , Close-up view patagium impression V. antiquus (IVPP V14739), white arrows indicating perpendicular orientations hair two layers impressions. b , Ventral views two long, flat, caudal vertebrae white arrows pointing two long, flat, haemal arches. c , Dorsal (anterior) proximal views right femur, showing small, ovoid-shaped head lacks neck. d , Comparison femoral head V. antiquus (labelled) morganucodontid (modified ref. 25 ). fh, femoral head, gt, greater trochanter; lt, lesser trochanter.</otmi:reduced-text>
+      </otmi:title>
+      <otmi:caption>
+        <otmi:reduced-text>Detailed features related gliding arboreal locomotion Volaticotherium antiquus. , Close-up view patagium impression V. antiquus (IVPP V14739), white arrows indicating perpendicular orientations hair two layers impressions. b , Ventral views two long, flat, caudal vertebrae white arrows pointing two long, flat, haemal arches. c , Dorsal (anterior) proximal views right femur, showing small, ovoid-shaped head lacks neck. d , Comparison femoral head V. antiquus (labelled) morganucodontid (modified ref. 25 ). fh, femoral head, gt, greater trochanter; lt, lesser trochanter.</otmi:reduced-text>
+      </otmi:caption>
+    </otmi:figure>
+    <otmi:references>
+      <otmi:ref-id>info:doi/10.1029/2004GL020792</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1360/982005-581</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/21872</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1126/science.1123026</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/379439a0</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1086/284419</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.2307/1379336</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1002/ajpa.1330980202</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.2307/1380481</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/18665</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/36505</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/416816a</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1126/science.1090718</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1002/jmor.1114</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/nature03102</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1038/345340a0</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1002/(SICI)1096-8644(199907)109:3&lt;397::AID-AJPA8&gt;3.0.CO;2-9</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1126/science.1078249</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1086/284076</otmi:ref-id>
+      <otmi:ref-id>info:doi/10.1126/science.225.4666.1048</otmi:ref-id>
+      <otmi:refs-noid>25</otmi:refs-noid>
+    </otmi:references>
+  </otmi:data>
+</atom:entry>
